@@ -1,6 +1,8 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
+if (x !== y) {
+    console.log("createChart condition met");
     return a + b;
-    return x / y;
-    return x ** y;
+    return x * y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

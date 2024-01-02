@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("updateUI called");
-    return x - y;
+try {
     window.location.reload();
-    e.preventDefault();
+    window.location.reload();
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }
