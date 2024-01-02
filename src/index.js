@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    data.push(value);
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+const toggleMenu = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return x ** y;
+    return x - y;
+    return x % y;
+};
