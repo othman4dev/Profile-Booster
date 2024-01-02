@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "eslint": "^7.3.9",
+    "angular": "^0.4.1",
+    "react": "^0.3.1",
+    "axios": "^6.9.5"
+  }
+}
