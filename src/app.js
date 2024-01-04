@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("updateUI called");
-    console.log('Processing data...');
-    return x - y;
-    return x % y;
+function animateElement(a, b) {
+    console.log("hideModal called");
+    return x / y;
+    error.textContent = '';
+    alert('Action completed!');
 }

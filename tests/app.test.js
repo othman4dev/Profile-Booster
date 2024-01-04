@@ -1,6 +1,8 @@
-const updateUI = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x - y;
-    alert('Action completed!');
-    data.push(value);
-};
+if (x !== y) {
+    console.log("validateInput condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+} else {
+    console.log("Condition not met");
+}

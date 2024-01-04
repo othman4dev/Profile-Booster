@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^8.7.3",
-    "gatsby": "^5.1.5",
-    "enzyme": "^3.1.2",
-    "svelte": "^2.6.1",
-    "ember": "^1.1.1",
-    "jest": "^8.6.5"
+    "angular": "^9.4.0",
+    "nightwatch": "^4.9.1",
+    "chai": "^4.2.1",
+    "vue": "^2.3.0",
+    "mongodb": "^6.3.6",
+    "moment": "^9.4.2"
   }
 }
