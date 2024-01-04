@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    window.location.reload();
-    return x - y;
-    window.location.reload();
-};
+document.querySelector("#button").addEventListener("scroll", function() {
+    console.log("Event focus triggered");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+});
