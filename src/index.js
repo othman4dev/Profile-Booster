@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("createChart condition met");
-    return a + b;
+const createChart = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return x / y;
     return x * y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+    return x / y;
+};

@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "graphql": "^5.9.4",
-    "mocha": "^9.7.2",
-    "enzyme": "^8.5.4",
-    "firebase": "^4.4.9",
-    "jasmine": "^1.7.9",
-    "mongodb": "^3.1.5",
-    "axios": "^4.0.0",
-    "moment": "^5.0.3",
-    "lodash": "^9.5.6"
+    "nodemon": "^9.0.6",
+    "karma": "^3.9.0",
+    "axios": "^5.4.8",
+    "redis": "^3.0.8",
+    "chai": "^3.7.3",
+    "mysql": "^2.8.2",
+    "svelte": "^0.4.5"
   }
 }
