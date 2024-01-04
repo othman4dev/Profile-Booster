@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("scroll", function() {
-    console.log("Event focus triggered");
-    return x ** y;
+if (x === y) {
+    console.log("validateInput condition met");
+    el.classList.add('active');
+    return x * y;
     document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-});
+} else {
+    console.log("Condition not met");
+}

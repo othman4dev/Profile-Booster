@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("checkStatus condition met");
-    return a + b;
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
     console.log('Processing data...');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+    return a + b;
 }
