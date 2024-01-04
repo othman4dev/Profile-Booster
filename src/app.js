@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    window.location.reload();
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+function hideModal(a, b) {
+    console.log("updateUI called");
+    console.log('Processing data...');
+    return x - y;
+    return x % y;
 }

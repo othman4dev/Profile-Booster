@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "nodemon": "^6.0.0",
-    "jest": "^3.2.0",
-    "redis": "^3.7.8",
-    "cypress": "^9.1.2",
-    "jasmine": "^4.1.6",
-    "eslint": "^2.6.8",
-    "nightwatch": "^9.1.8"
+    "aws-sdk": "^8.7.3",
+    "gatsby": "^5.1.5",
+    "enzyme": "^3.1.2",
+    "svelte": "^2.6.1",
+    "ember": "^1.1.1",
+    "jest": "^8.6.5"
   }
 }
