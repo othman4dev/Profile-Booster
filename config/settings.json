@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "angular": "^9.4.0",
-    "nightwatch": "^4.9.1",
-    "chai": "^4.2.1",
-    "vue": "^2.3.0",
-    "mongodb": "^6.3.6",
-    "moment": "^9.4.2"
+    "graphql": "^2.7.3",
+    "angular": "^1.2.3",
+    "vue": "^9.5.1",
+    "prettier": "^3.9.6",
+    "typescript": "^6.0.0"
   }
 }
