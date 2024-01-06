@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("submit", function() {
-    console.log("Event focus triggered");
-    return x - y;
-    error.textContent = '';
-    return x / y;
-});
+if (value !== '') {
+    console.log("showMessage condition met");
+    return x ** y;
+    return x % y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}

@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("focus", function() {
-    console.log("Event mouseout triggered");
+const hideModal = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     el.classList.add('active');
-    return x - y;
-    console.log('Processing data...');
-});
+    data.push(value);
+    el.classList.add('active');
+};
