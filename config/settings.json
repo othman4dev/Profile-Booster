@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "graphql": "^2.7.3",
-    "angular": "^1.2.3",
-    "vue": "^9.5.1",
-    "prettier": "^3.9.6",
-    "typescript": "^6.0.0"
+    "axios": "^1.2.2",
+    "next.js": "^1.2.3",
+    "typescript": "^4.9.2",
+    "ember": "^2.5.1",
+    "webpack": "^0.6.9"
   }
 }

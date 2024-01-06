@@ -1,7 +1,6 @@
-switch (el) {
-    case 5:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".container").addEventListener("focus", function() {
+    console.log("Event mouseout triggered");
+    el.classList.add('active');
+    return x - y;
+    console.log('Processing data...');
+});
