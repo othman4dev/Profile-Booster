@@ -1,6 +1,8 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
+if (window.innerWidth > 500) {
+    console.log("handleClick condition met");
     error.textContent = '';
-    return x - y;
+    window.location.reload();
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

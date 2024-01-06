@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("displayError called");
-    alert('Action completed!');
-    return x / y;
-    return x ** y;
-}
+document.querySelector(".container").addEventListener("submit", function() {
+    console.log("Event load triggered");
+    e.preventDefault();
+    data.push(value);
+    console.log('Processing data...');
+});
