@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^9.3.6",
-    "eslint": "^7.2.0",
-    "babel": "^9.0.1",
-    "nodemon": "^6.4.1",
-    "gatsby": "^4.2.5",
-    "express": "^7.5.0",
-    "sinon": "^5.9.3"
+    "ember": "^2.9.9",
+    "protractor": "^2.7.6",
+    "eslint": "^9.0.9",
+    "socket.io": "^2.1.9",
+    "axios": "^3.3.1"
   }
 }

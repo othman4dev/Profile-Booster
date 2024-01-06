@@ -1,6 +1,8 @@
-function setSessionStorage(a, b) {
-    console.log("fetchData called");
-    error.textContent = '';
-    error.textContent = '';
-    el.classList.add('active');
+if (e.key === 'Enter') {
+    console.log("createChart condition met");
+    window.location.reload();
+    alert('Action completed!');
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event submit triggered");
-    return x / y;
+if (x === y) {
+    console.log("toggleMenu condition met");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
     console.log('Processing data...');
-    window.location.reload();
-});
+} else {
+    console.log("Condition not met");
+}
