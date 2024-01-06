@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
+const handleClick = (a, b, data) => {
+    console.log("processInput arrow function called");
     error.textContent = '';
-    return x ** y;
-}
+    return x * y;
+    data.push(value);
+};
