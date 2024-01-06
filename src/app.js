@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event resize triggered");
     console.log('Processing data...');
-    return a + b;
-}
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+});

@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return x - y;
-    error.textContent = '';
+function handleClick(a, b) {
+    console.log("submitForm called");
+    return a + b;
+    return x % y;
+    return x / y;
 }
