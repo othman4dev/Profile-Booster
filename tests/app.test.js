@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("submitForm called");
-    return a + b;
-    return x % y;
-    return x / y;
+function processInput(a, b) {
+    console.log("validateInput called");
+    return x * y;
+    el.classList.add('active');
+    return x * y;
 }

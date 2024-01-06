@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    data.push(value);
+document.querySelector("header").addEventListener("submit", function() {
+    console.log("Event submit triggered");
+    return x / y;
     console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+    window.location.reload();
+});

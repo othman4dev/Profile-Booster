@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("load", function() {
-    console.log("Event resize triggered");
-    console.log('Processing data...');
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+function setSessionStorage(a, b) {
+    console.log("fetchData called");
+    error.textContent = '';
+    error.textContent = '';
+    el.classList.add('active');
+}
