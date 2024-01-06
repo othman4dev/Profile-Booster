@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("fetchData condition met");
-    return x % y;
-    return a + b;
-    return x % y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    error.textContent = '';
+    return x ** y;
 }

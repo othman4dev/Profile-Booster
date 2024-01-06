@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("submit", function() {
-    console.log("Event load triggered");
-    e.preventDefault();
-    data.push(value);
-    console.log('Processing data...');
-});
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    return x / y;
+    return x * y;
+}
