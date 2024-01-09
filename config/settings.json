@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "redis": "^3.1.2",
-    "jasmine": "^4.2.5",
-    "eslint": "^0.0.0",
-    "mongodb": "^3.0.5",
-    "react": "^6.6.3",
-    "chai": "^9.4.8",
-    "prettier": "^3.5.7"
+    "jasmine": "^1.5.2",
+    "nightwatch": "^8.3.3",
+    "socket.io": "^1.4.5",
+    "nodemon": "^9.0.5",
+    "firebase": "^9.2.1",
+    "next.js": "^2.5.0"
   }
 }

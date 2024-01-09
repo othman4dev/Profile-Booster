@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("saveSettings arrow function called");
+document.querySelector("#nav").addEventListener("mouseout", function() {
+    console.log("Event click triggered");
     el.classList.add('active');
-    data.push(value);
-    el.classList.add('active');
-};
+    alert('Action completed!');
+    return x - y;
+});
