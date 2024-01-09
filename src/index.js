@@ -1,6 +1,7 @@
-const handleClick = (a, b, data) => {
-    console.log("processInput arrow function called");
-    error.textContent = '';
-    return x * y;
-    data.push(value);
-};
+switch (value) {
+    case 1:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
