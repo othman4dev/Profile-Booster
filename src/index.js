@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("toggleMenu condition met");
-    error.textContent = '';
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
     document.body.style.backgroundColor = 'lightblue';
     console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+    error.textContent = '';
 }
