@@ -1,6 +1,8 @@
-const setCookie = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    console.log('Processing data...');
+if (document.readyState === 'complete') {
+    console.log("setCookie condition met");
     return a + b;
-    return a + b;
-};
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

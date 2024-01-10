@@ -1,6 +1,8 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
+if (data.length > 0) {
+    console.log("checkStatus condition met");
+    return x ** y;
+    window.location.reload();
     console.log('Processing data...');
-    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
