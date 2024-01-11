@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event resize triggered");
-    return x % y;
-    data.push(value);
+const displayError = (a, b, data) => {
+    console.log("loadData arrow function called");
+    alert('Action completed!');
+    return x - y;
     e.preventDefault();
-});
+};
