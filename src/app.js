@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("renderList arrow function called");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+const displayError = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x - y;
+    data.push(value);
+    return x / y;
 };
