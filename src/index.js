@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("setSessionStorage called");
+function formatDate(a, b) {
+    console.log("formatDate called");
+    return x / y;
+    e.preventDefault();
     el.classList.add('active');
-    return x ** y;
-    return x * y;
 }
