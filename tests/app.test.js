@@ -1,7 +1,6 @@
-switch (data) {
-    case 3:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event resize triggered");
+    return x % y;
+    data.push(value);
+    e.preventDefault();
+});

@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("header").addEventListener("focus", function() {
+    console.log("Event focus triggered");
     el.classList.add('active');
-    e.preventDefault();
+    console.log('Processing data...');
     error.textContent = '';
-}
+});
