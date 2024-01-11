@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("saveSettings arrow function called");
+const setCookie = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    console.log('Processing data...');
     return a + b;
-    window.location.reload();
-    return x * y;
+    return a + b;
 };
