@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("loadData arrow function called");
-    alert('Action completed!');
-    return x - y;
-    e.preventDefault();
-};
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    data.push(value);
+    return x * y;
+}
