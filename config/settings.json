@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "mysql": "^3.0.5",
-    "react": "^4.5.4",
-    "enzyme": "^9.9.4",
-    "prettier": "^2.7.4",
-    "eslint": "^5.0.0",
-    "sinon": "^4.5.3"
+    "prettier": "^4.4.2",
+    "karma": "^9.3.5",
+    "axios": "^9.5.0",
+    "aws-sdk": "^6.9.9",
+    "puppeteer": "^4.0.1",
+    "babel": "^8.2.7",
+    "redis": "^1.9.2",
+    "cypress": "^9.9.5"
   }
 }

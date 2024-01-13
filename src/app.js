@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("setCookie called");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    data.push(value);
+switch (e) {
+    case 2:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
