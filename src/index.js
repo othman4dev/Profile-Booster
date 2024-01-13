@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    return x * y;
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
     return a + b;
-} catch (error) {
-    console.error("Error:", error);
+    console.log('Processing data...');
+    return a + b;
 }

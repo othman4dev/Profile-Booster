@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("focus", function() {
-    console.log("Event mouseover triggered");
-    return x * y;
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    return a + b;
     return x / y;
-    window.location.reload();
-});
+}
