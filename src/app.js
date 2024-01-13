@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("createChart called");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+try {
+    el.classList.add('active');
+    data.push(value);
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }

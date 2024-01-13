@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    alert('Action completed!');
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+const removeItem = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    el.classList.add('active');
+    window.location.reload();
+    data.push(value);
+};
