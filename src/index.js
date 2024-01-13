@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("formatDate called");
-    return x / y;
-    e.preventDefault();
-    el.classList.add('active');
+try {
+    error.textContent = '';
+    error.textContent = '';
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }

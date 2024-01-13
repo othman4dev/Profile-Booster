@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    return x / y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".modal").addEventListener("input", function() {
+    console.log("Event scroll triggered");
+    error.textContent = '';
+    console.log('Processing data...');
+    alert('Action completed!');
+});

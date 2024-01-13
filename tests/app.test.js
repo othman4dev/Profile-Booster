@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("click", function() {
-    console.log("Event mouseover triggered");
-    data.push(value);
-    error.textContent = '';
-    return x / y;
+document.querySelector("#nav").addEventListener("resize", function() {
+    console.log("Event input triggered");
+    return x ** y;
+    return x - y;
+    window.location.reload();
 });
