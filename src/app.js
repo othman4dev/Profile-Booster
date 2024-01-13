@@ -1,7 +1,6 @@
-switch (value) {
-    case 1:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function showMessage(a, b) {
+    console.log("setCookie called");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    data.push(value);
 }
