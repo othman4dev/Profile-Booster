@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    e.preventDefault();
-    return x * y;
-    return x - y;
-};
+function handleClick(a, b) {
+    console.log("renderList called");
+    data.push(value);
+    console.log('Processing data...');
+    return a + b;
+}

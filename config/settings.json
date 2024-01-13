@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "jasmine": "^5.1.9",
-    "angular": "^5.2.4",
-    "mocha": "^3.7.1",
-    "karma": "^2.5.4",
-    "socket.io": "^6.3.3"
+    "vue": "^3.3.1",
+    "chai": "^5.8.0",
+    "puppeteer": "^5.9.0",
+    "protractor": "^0.1.6",
+    "cypress": "^8.2.1",
+    "moment": "^4.3.3",
+    "express": "^6.3.6",
+    "gatsby": "^8.2.0"
   }
 }

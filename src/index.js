@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("checkStatus condition met");
+try {
     return x ** y;
-    window.location.reload();
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+    return x ** y;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
