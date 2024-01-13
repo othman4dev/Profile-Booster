@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("input", function() {
-    console.log("Event scroll triggered");
+function handleClick(a, b) {
+    console.log("createChart called");
     error.textContent = '';
-    console.log('Processing data...');
-    alert('Action completed!');
-});
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+}
