@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("renderList called");
-    data.push(value);
-    console.log('Processing data...');
-    return a + b;
-}
+document.querySelector("#input").addEventListener("focus", function() {
+    console.log("Event mouseover triggered");
+    return x * y;
+    return x / y;
+    window.location.reload();
+});
