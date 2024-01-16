@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    el.classList.add('active');
-    window.location.reload();
+const hideModal = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     data.push(value);
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
 };

@@ -1,7 +1,8 @@
-try {
+if (data.length > 0) {
+    console.log("createChart condition met");
     el.classList.add('active');
-    data.push(value);
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+    return x % y;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }
