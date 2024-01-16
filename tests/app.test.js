@@ -1,7 +1,8 @@
-switch (y) {
-    case 2:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+if (window.innerWidth > 500) {
+    console.log("displayError condition met");
+    return a + b;
+    return x / y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
