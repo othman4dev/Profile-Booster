@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("mouseout", function() {
-    console.log("Event keydown triggered");
+const toggleMenu = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return a + b;
+    return x % y;
     console.log('Processing data...');
-    window.location.reload();
-    return x * y;
-});
+};
