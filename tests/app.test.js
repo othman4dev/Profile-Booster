@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("displayError condition met");
-    return a + b;
-    return x / y;
+function showMessage(a, b) {
+    console.log("formatDate called");
+    el.classList.add('active');
+    window.location.reload();
     e.preventDefault();
-} else {
-    console.log("Condition not met");
 }

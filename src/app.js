@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("loadData condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#input").addEventListener("mouseover", function() {
+    console.log("Event mouseover triggered");
+    return a + b;
+    e.preventDefault();
+    return x % y;
+});
