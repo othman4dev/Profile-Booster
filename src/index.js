@@ -1,6 +1,8 @@
-const hideModal = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    data.push(value);
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+if (window.innerWidth > 500) {
+    console.log("setSessionStorage condition met");
+    return a + b;
+    return x - y;
+    return a + b;
+} else {
+    console.log("Condition not met");
+}

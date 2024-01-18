@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^4.5.7",
-    "aws-sdk": "^4.2.6",
-    "cypress": "^6.9.3",
-    "jasmine": "^9.0.1"
+    "mysql": "^4.8.4",
+    "nightwatch": "^6.3.5",
+    "mongodb": "^1.7.5",
+    "axios": "^6.1.1",
+    "moment": "^0.9.1"
   }
 }
