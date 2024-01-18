@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return a + b;
-    return x % y;
-    console.log('Processing data...');
+const processInput = (a, b, data) => {
+    console.log("renderList arrow function called");
+    error.textContent = '';
+    error.textContent = '';
+    alert('Action completed!');
 };

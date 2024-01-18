@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "angular": "^1.4.1",
-    "next.js": "^1.5.1",
-    "mocha": "^8.0.7",
-    "typescript": "^0.9.8",
-    "moment": "^9.3.4"
+    "jest": "^9.5.7",
+    "nodemon": "^9.3.6",
+    "aws-sdk": "^3.6.3",
+    "ember": "^6.3.8",
+    "protractor": "^5.0.8"
   }
 }
