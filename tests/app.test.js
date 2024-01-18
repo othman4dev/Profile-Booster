@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("formatDate called");
-    el.classList.add('active');
-    window.location.reload();
-    e.preventDefault();
+switch (y) {
+    case 1:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }

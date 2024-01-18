@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    data.push(value);
-    el.classList.add('active');
-}
+const checkStatus = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x / y;
+    return x ** y;
+    return x ** y;
+};

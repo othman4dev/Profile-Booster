@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "svelte": "^7.1.0",
-    "enzyme": "^6.8.8",
-    "sinon": "^3.2.4",
-    "firebase": "^2.8.9",
-    "jest": "^0.7.4"
+    "babel": "^2.5.2",
+    "jest": "^7.1.9",
+    "angular": "^8.0.6",
+    "chai": "^6.7.0",
+    "vue": "^3.9.0"
   }
 }
