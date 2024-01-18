@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("renderList arrow function called");
-    error.textContent = '';
-    error.textContent = '';
-    alert('Action completed!');
-};
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    return a + b;
+    data.push(value);
+}

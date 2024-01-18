@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return x % y;
+const showMessage = (a, b, data) => {
+    console.log("displayError arrow function called");
+    error.textContent = '';
     return x / y;
-    alert('Action completed!');
+    return a + b;
 };

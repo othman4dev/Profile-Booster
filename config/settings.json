@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jest": "^9.5.7",
-    "nodemon": "^9.3.6",
-    "aws-sdk": "^3.6.3",
-    "ember": "^6.3.8",
-    "protractor": "^5.0.8"
+    "firebase": "^6.8.7",
+    "mysql": "^1.7.2",
+    "protractor": "^3.5.4",
+    "enzyme": "^8.2.6",
+    "ember": "^2.1.7",
+    "mocha": "^2.6.4"
   }
 }
