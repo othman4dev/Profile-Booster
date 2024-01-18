@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "mysql": "^4.8.4",
-    "nightwatch": "^6.3.5",
-    "mongodb": "^1.7.5",
-    "axios": "^6.1.1",
-    "moment": "^0.9.1"
+    "jest": "^6.7.0",
+    "jasmine": "^8.2.1",
+    "babel": "^4.3.7",
+    "lodash": "^6.3.5",
+    "svelte": "^5.1.4",
+    "webpack": "^8.7.3",
+    "express": "^1.5.8",
+    "mocha": "^4.6.9",
+    "sinon": "^1.5.9"
   }
 }

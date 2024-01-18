@@ -1,6 +1,7 @@
-const showMessage = (a, b, data) => {
-    console.log("processInput arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-};
+try {
+    console.log('Processing data...');
+    data.push(value);
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
