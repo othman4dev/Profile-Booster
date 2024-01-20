@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("focus", function() {
-    console.log("Event mouseout triggered");
-    return x / y;
-    e.preventDefault();
-    console.log('Processing data...');
-});
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    return x - y;
+}
