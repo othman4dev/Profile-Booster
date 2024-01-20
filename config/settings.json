@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "puppeteer": "^5.3.9",
-    "react": "^3.1.2",
-    "angular": "^4.5.3",
-    "eslint": "^5.8.8",
-    "typescript": "^7.2.8",
-    "next.js": "^2.9.6",
-    "jest": "^8.4.7"
+    "jest": "^8.8.4",
+    "socket.io": "^2.3.7",
+    "angular": "^0.5.0",
+    "graphql": "^5.3.6",
+    "svelte": "^3.5.7",
+    "babel": "^1.9.4"
   }
 }

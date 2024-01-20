@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    error.textContent = '';
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+const processInput = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    console.log('Processing data...');
+    return x * y;
+    return x % y;
+};
