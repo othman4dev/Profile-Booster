@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("getLocalStorage condition met");
-    return x ** y;
-    alert('Action completed!');
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#input").addEventListener("change", function() {
+    console.log("Event blur triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    return x % y;
+});
