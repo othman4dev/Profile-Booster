@@ -1,6 +1,7 @@
-const showMessage = (a, b, data) => {
-    console.log("displayError arrow function called");
+try {
     error.textContent = '';
-    return x / y;
-    return a + b;
-};
+    alert('Action completed!');
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "firebase": "^6.8.7",
-    "mysql": "^1.7.2",
-    "protractor": "^3.5.4",
-    "enzyme": "^8.2.6",
-    "ember": "^2.1.7",
-    "mocha": "^2.6.4"
+    "redis": "^7.9.5",
+    "karma": "^6.5.9",
+    "mongodb": "^8.5.8",
+    "graphql": "^4.5.3"
   }
 }

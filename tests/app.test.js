@@ -1,6 +1,8 @@
-const createChart = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    alert('Action completed!');
-    data.push(value);
-    error.textContent = '';
-};
+if (x !== y) {
+    console.log("renderList condition met");
+    return a + b;
+    console.log('Processing data...');
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
