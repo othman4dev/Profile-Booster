@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+const toggleMenu = (a, b, data) => {
+    console.log("displayError arrow function called");
+    console.log('Processing data...');
+    return x / y;
+    return x % y;
+};

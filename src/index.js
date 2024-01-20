@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return x / y;
-    return x / y;
-    e.preventDefault();
-};
+document.querySelector("#button").addEventListener("scroll", function() {
+    console.log("Event load triggered");
+    error.textContent = '';
+    return x % y;
+    return x - y;
+});

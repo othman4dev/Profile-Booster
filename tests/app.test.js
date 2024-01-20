@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    console.log('Processing data...');
-    return x * y;
+function setSessionStorage(a, b) {
+    console.log("removeItem called");
+    return a + b;
     return x % y;
-};
+    return x - y;
+}
