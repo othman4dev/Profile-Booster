@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "redis": "^7.9.5",
-    "karma": "^6.5.9",
-    "mongodb": "^8.5.8",
-    "graphql": "^4.5.3"
+    "moment": "^4.7.9",
+    "axios": "^3.7.3",
+    "svelte": "^2.0.3",
+    "lodash": "^4.8.6",
+    "aws-sdk": "^2.5.1"
   }
 }

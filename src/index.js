@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("input", function() {
-    console.log("Event mouseout triggered");
-    alert('Action completed!');
-    alert('Action completed!');
-    window.location.reload();
-});
+const updateUI = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x * y;
+    error.textContent = '';
+    el.classList.add('active');
+};
