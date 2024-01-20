@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "babel": "^2.5.2",
-    "jest": "^7.1.9",
-    "angular": "^8.0.6",
-    "chai": "^6.7.0",
-    "vue": "^3.9.0"
+    "typescript": "^1.1.8",
+    "angular": "^7.0.8",
+    "moment": "^9.5.8",
+    "express": "^3.2.0",
+    "nightwatch": "^3.3.4",
+    "graphql": "^3.7.1"
   }
 }
