@@ -1,6 +1,7 @@
-const renderList = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    window.location.reload();
-    return x % y;
-    data.push(value);
-};
+switch (a) {
+    case 3:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}
