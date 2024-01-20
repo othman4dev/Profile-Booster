@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("showMessage condition met");
-    return x * y;
-    window.location.reload();
-    data.push(value);
-} else {
-    console.log("Condition not met");
+try {
+    return x - y;
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }
