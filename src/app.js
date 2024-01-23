@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("submitForm called");
-    return x / y;
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event resize triggered");
+    alert('Action completed!');
     data.push(value);
-    return x - y;
-}
+    e.preventDefault();
+});

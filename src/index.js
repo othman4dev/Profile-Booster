@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event scroll triggered");
     window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-}
+    return a + b;
+    window.location.reload();
+});
