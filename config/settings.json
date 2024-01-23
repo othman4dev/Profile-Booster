@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "jest": "^8.3.9",
-    "graphql": "^8.0.9",
-    "lodash": "^8.9.1",
-    "vue": "^5.2.3",
-    "next.js": "^5.8.9",
-    "enzyme": "^2.3.6",
-    "cypress": "^5.7.5",
-    "karma": "^7.2.7"
+    "protractor": "^7.6.2",
+    "react": "^4.5.9",
+    "nodemon": "^0.3.2",
+    "next.js": "^6.2.1"
   }
 }
