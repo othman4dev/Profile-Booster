@@ -1,6 +1,7 @@
-function setSessionStorage(a, b) {
-    console.log("removeItem called");
-    return a + b;
-    return x % y;
-    return x - y;
+switch (e) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

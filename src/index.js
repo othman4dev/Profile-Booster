@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("scroll", function() {
-    console.log("Event load triggered");
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event change triggered");
+    data.push(value);
+    alert('Action completed!');
     error.textContent = '';
-    return x % y;
-    return x - y;
 });
