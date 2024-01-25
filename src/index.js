@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("load", function() {
-    console.log("Event scroll triggered");
-    window.location.reload();
-    return a + b;
-    window.location.reload();
-});
+const setSessionStorage = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    console.log('Processing data...');
+    e.preventDefault();
+    return x - y;
+};
