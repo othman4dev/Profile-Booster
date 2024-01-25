@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("keydown", function() {
-    console.log("Event change triggered");
-    data.push(value);
-    alert('Action completed!');
-    error.textContent = '';
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event keydown triggered");
+    el.classList.add('active');
+    return x - y;
+    return x ** y;
 });

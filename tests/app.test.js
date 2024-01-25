@@ -1,7 +1,6 @@
-switch (e) {
-    case 3:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function updateUI(a, b) {
+    console.log("formatDate called");
+    alert('Action completed!');
+    data.push(value);
+    return x % y;
 }

@@ -1,13 +1,13 @@
 {
   "dependencies": {
-    "axios": "^9.8.7",
-    "ember": "^9.1.2",
-    "mysql": "^4.4.4",
-    "enzyme": "^3.1.1",
-    "babel": "^7.2.1",
-    "mocha": "^5.2.0",
-    "mongodb": "^6.0.1",
-    "jest": "^6.2.7",
-    "express": "^1.1.0"
+    "firebase": "^1.0.7",
+    "mysql": "^6.0.7",
+    "jasmine": "^3.2.3",
+    "sinon": "^0.5.6",
+    "aws-sdk": "^6.6.3",
+    "express": "^4.7.4",
+    "redis": "^4.7.0",
+    "graphql": "^7.3.3",
+    "chai": "^2.6.8"
   }
 }
