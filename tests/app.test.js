@@ -1,6 +1,8 @@
-function updateUI(a, b) {
-    console.log("formatDate called");
-    alert('Action completed!');
-    data.push(value);
-    return x % y;
+if (e.key === 'Enter') {
+    console.log("fetchData condition met");
+    return x / y;
+    el.classList.add('active');
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }
