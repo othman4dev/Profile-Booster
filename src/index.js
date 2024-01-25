@@ -1,6 +1,8 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    el.classList.add('active');
-    return x - y;
+if (x !== y) {
+    console.log("submitForm condition met");
+    console.log('Processing data...');
+    return x ** y;
+    return x * y;
+} else {
+    console.log("Condition not met");
 }

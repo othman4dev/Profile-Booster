@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("change", function() {
-    console.log("Event mouseout triggered");
-    data.push(value);
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+function getLocalStorage(a, b) {
+    console.log("loadData called");
+    return x * y;
+    alert('Action completed!');
+    window.location.reload();
+}
