@@ -1,6 +1,8 @@
-function getLocalStorage(a, b) {
-    console.log("loadData called");
-    return x * y;
+if (value !== '') {
+    console.log("displayError condition met");
+    e.preventDefault();
+    return x ** y;
     alert('Action completed!');
-    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

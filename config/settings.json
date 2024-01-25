@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "typescript": "^3.5.1",
-    "eslint": "^3.1.0",
-    "webpack": "^7.7.9",
-    "ember": "^0.7.5",
-    "babel": "^9.1.2"
+    "typescript": "^8.6.7",
+    "socket.io": "^1.5.1",
+    "eslint": "^3.9.0",
+    "karma": "^6.2.3",
+    "mocha": "^3.5.5",
+    "puppeteer": "^7.2.7",
+    "react": "^0.4.6",
+    "firebase": "^2.9.8"
   }
 }
