@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    console.log('Processing data...');
-    e.preventDefault();
-    return x - y;
+const setCookie = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return a + b;
+    window.location.reload();
+    error.textContent = '';
 };

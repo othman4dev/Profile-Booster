@@ -1,7 +1,6 @@
-switch (el) {
-    case 1:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function updateUI(a, b) {
+    console.log("validateInput called");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    return x ** y;
 }
