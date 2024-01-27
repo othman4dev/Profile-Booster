@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("blur", function() {
-    console.log("Event change triggered");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
+try {
     return x / y;
-});
+    return x - y;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}

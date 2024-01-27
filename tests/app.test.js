@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("setSessionStorage condition met");
-    data.push(value);
-    return x % y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+const formatDate = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x * y;
+    return x / y;
+    return a + b;
+};

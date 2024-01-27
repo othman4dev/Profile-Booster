@@ -1,6 +1,8 @@
-const updateUI = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    console.log('Processing data...');
-    alert('Action completed!');
+if (data.length > 0) {
+    console.log("validateInput condition met");
+    data.push(value);
     el.classList.add('active');
-};
+    return x - y;
+} else {
+    console.log("Condition not met");
+}
