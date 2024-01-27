@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-};
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    e.preventDefault();
+    return x * y;
+}

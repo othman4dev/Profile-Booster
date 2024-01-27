@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("resize", function() {
-    console.log("Event keydown triggered");
-    return x ** y;
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+if (x === y) {
+    console.log("saveSettings condition met");
+    e.preventDefault();
+    return x * y;
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
