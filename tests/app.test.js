@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x * y;
-    return x / y;
-    return a + b;
+const updateUI = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x - y;
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
 };

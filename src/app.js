@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("validateInput condition met");
-    data.push(value);
-    el.classList.add('active');
-    return x - y;
-} else {
-    console.log("Condition not met");
+function renderList(a, b) {
+    console.log("createChart called");
+    window.location.reload();
+    error.textContent = '';
+    window.location.reload();
 }
