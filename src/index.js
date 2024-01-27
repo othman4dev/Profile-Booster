@@ -1,6 +1,8 @@
-function createChart(a, b) {
-    console.log("handleClick called");
-    el.classList.add('active');
-    return x % y;
-    el.classList.add('active');
+if (data.length > 0) {
+    console.log("loadData condition met");
+    data.push(value);
+    return x ** y;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "react": "^0.9.5",
-    "jest": "^0.1.4",
-    "ember": "^1.1.4",
-    "firebase": "^2.0.4",
-    "gatsby": "^1.5.7"
+    "firebase": "^4.0.3",
+    "webpack": "^6.8.8",
+    "svelte": "^9.6.6",
+    "cypress": "^5.0.2",
+    "socket.io": "^2.1.8"
   }
 }
