@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    window.location.reload();
-    return x ** y;
-    e.preventDefault();
-};
+function removeItem(a, b) {
+    console.log("setCookie called");
+    alert('Action completed!');
+    return x / y;
+    return x * y;
+}

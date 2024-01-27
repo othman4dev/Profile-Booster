@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("processInput condition met");
+document.querySelector("form").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
     return x % y;
+    return x - y;
     return a + b;
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+});
