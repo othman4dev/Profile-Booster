@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return a + b;
+const checkStatus = (a, b, data) => {
+    console.log("hideModal arrow function called");
     window.location.reload();
-    error.textContent = '';
+    return x ** y;
+    e.preventDefault();
 };

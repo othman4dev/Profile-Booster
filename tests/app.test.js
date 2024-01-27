@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("saveSettings condition met");
-    alert('Action completed!');
-    return x ** y;
+if (e.key === 'Enter') {
+    console.log("processInput condition met");
     return x % y;
+    return a + b;
+    data.push(value);
 } else {
     console.log("Condition not met");
 }

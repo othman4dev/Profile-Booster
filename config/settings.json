@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "ember": "^5.3.3",
-    "vue": "^1.1.9",
-    "moment": "^5.2.1",
-    "aws-sdk": "^9.7.2",
-    "gatsby": "^4.9.1"
+    "axios": "^9.3.9",
+    "nodemon": "^9.8.9",
+    "protractor": "^8.2.6",
+    "firebase": "^5.5.1",
+    "chai": "^7.1.2"
   }
 }
