@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("displayError condition met");
-    e.preventDefault();
+document.querySelector("#nav").addEventListener("resize", function() {
+    console.log("Event keydown triggered");
     return x ** y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+});

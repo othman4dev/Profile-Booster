@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("saveSettings condition met");
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
     e.preventDefault();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+    return x / y;
+    return x - y;
 }

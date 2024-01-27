@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "typescript": "^8.6.7",
-    "socket.io": "^1.5.1",
-    "eslint": "^3.9.0",
-    "karma": "^6.2.3",
-    "mocha": "^3.5.5",
-    "puppeteer": "^7.2.7",
-    "react": "^0.4.6",
-    "firebase": "^2.9.8"
+    "babel": "^6.4.1",
+    "express": "^5.0.5",
+    "svelte": "^9.9.8",
+    "next.js": "^6.2.0",
+    "sinon": "^3.8.6",
+    "typescript": "^7.2.4"
   }
 }
