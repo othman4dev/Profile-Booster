@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("focus", function() {
-    console.log("Event scroll triggered");
-    return x % y;
-    return x - y;
-    return a + b;
-});
+try {
+    window.location.reload();
+    error.textContent = '';
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}

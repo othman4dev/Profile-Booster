@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^6.2.0",
-    "ember": "^1.4.3",
-    "babel": "^8.2.0",
-    "axios": "^8.6.2",
-    "jest": "^0.4.2",
-    "redis": "^7.2.8"
+    "redis": "^3.7.7",
+    "nightwatch": "^8.5.3",
+    "vue": "^9.7.7",
+    "jest": "^1.4.3",
+    "mocha": "^0.3.1",
+    "nodemon": "^6.5.1"
   }
 }

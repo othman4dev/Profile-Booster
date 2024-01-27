@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("setCookie called");
-    alert('Action completed!');
-    return x / y;
-    return x * y;
+switch (y) {
+    case 5:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
