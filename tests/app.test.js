@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("fetchData condition met");
-    return x / y;
-    el.classList.add('active');
-    return x ** y;
+if (data.length > 0) {
+    console.log("setSessionStorage condition met");
+    data.push(value);
+    return x % y;
+    data.push(value);
 } else {
     console.log("Condition not met");
 }

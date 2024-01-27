@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    return x * y;
-}
+const updateUI = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    console.log('Processing data...');
+    alert('Action completed!');
+    el.classList.add('active');
+};

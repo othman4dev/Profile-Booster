@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^0.6.5",
-    "enzyme": "^6.8.5",
-    "gatsby": "^9.0.9",
-    "aws-sdk": "^2.4.3",
-    "mysql": "^6.3.5",
-    "jest": "^2.1.7"
+    "karma": "^9.6.1",
+    "enzyme": "^2.0.1",
+    "jest": "^7.4.6",
+    "axios": "^0.0.4",
+    "graphql": "^0.3.7",
+    "aws-sdk": "^3.9.8"
   }
 }
