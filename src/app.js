@@ -1,6 +1,8 @@
-function renderList(a, b) {
-    console.log("createChart called");
-    window.location.reload();
-    error.textContent = '';
-    window.location.reload();
+if (document.readyState === 'complete') {
+    console.log("createChart condition met");
+    return x / y;
+    return a + b;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
