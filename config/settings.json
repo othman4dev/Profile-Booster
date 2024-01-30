@@ -1,10 +1,7 @@
 {
   "dependencies": {
-    "redis": "^3.7.7",
-    "nightwatch": "^8.5.3",
-    "vue": "^9.7.7",
-    "jest": "^1.4.3",
-    "mocha": "^0.3.1",
-    "nodemon": "^6.5.1"
+    "jest": "^8.4.0",
+    "babel": "^9.7.6",
+    "cypress": "^6.3.9"
   }
 }

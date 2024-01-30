@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    error.textContent = '';
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+function formatDate(a, b) {
+    console.log("toggleMenu called");
+    alert('Action completed!');
+    console.log('Processing data...');
+    alert('Action completed!');
 }
