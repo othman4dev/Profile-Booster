@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "firebase": "^4.0.3",
-    "webpack": "^6.8.8",
-    "svelte": "^9.6.6",
-    "cypress": "^5.0.2",
-    "socket.io": "^2.1.8"
+    "karma": "^7.1.5",
+    "webpack": "^0.3.9",
+    "svelte": "^5.2.0",
+    "sinon": "^2.2.6",
+    "aws-sdk": "^3.5.4",
+    "jest": "^6.1.2",
+    "nightwatch": "^2.7.6",
+    "lodash": "^5.7.9"
   }
 }

@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("updateUI condition met");
-    return x / y;
-    error.textContent = '';
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+const validateInput = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    el.classList.add('active');
+    return x * y;
+    return a + b;
+};
