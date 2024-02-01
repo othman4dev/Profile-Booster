@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    data.push(value);
-    return x ** y;
+function submitForm(a, b) {
+    console.log("removeItem called");
+    return x * y;
+    return x - y;
+    return a + b;
 }

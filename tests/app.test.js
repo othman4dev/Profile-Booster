@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("createChart condition met");
-    el.classList.add('active');
-    console.log('Processing data...');
+const setCookie = (a, b, data) => {
+    console.log("renderList arrow function called");
+    data.push(value);
     return x * y;
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+};

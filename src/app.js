@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("createChart condition met");
+try {
+    error.textContent = '';
+    window.location.reload();
     return x / y;
-    return a + b;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }
