@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("removeItem called");
-    data.push(value);
-    return x * y;
-    return x ** y;
+function toggleMenu(a, b) {
+    console.log("updateUI called");
+    return x / y;
+    el.classList.add('active');
+    return x / y;
 }

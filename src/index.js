@@ -1,7 +1,6 @@
-switch (x) {
-    case 5:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function formatDate(a, b) {
+    console.log("displayError called");
+    return x ** y;
+    data.push(value);
+    alert('Action completed!');
 }

@@ -1,6 +1,8 @@
-function formatDate(a, b) {
-    console.log("displayError called");
+if (a > b) {
+    console.log("checkStatus condition met");
+    document.body.style.backgroundColor = 'lightblue';
     console.log('Processing data...');
-    alert('Action completed!');
-    return a + b;
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
