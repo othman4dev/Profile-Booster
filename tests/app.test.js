@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("renderList arrow function called");
-    data.push(value);
-    return x * y;
-    return x ** y;
+const fetchData = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    error.textContent = '';
+    e.preventDefault();
+    alert('Action completed!');
 };
