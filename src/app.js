@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+const displayError = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x % y;
     window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x ** y;
+};

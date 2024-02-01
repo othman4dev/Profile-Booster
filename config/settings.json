@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^9.0.3",
-    "eslint": "^5.7.3",
-    "vue": "^9.3.0",
-    "prettier": "^8.6.4",
-    "karma": "^7.3.3",
-    "sinon": "^0.5.7",
-    "axios": "^8.4.9"
+    "next.js": "^1.7.1",
+    "jest": "^2.2.8",
+    "prettier": "^9.4.2",
+    "mongodb": "^8.4.8",
+    "enzyme": "^0.2.6"
   }
 }
