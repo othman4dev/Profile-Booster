@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("toggleMenu called");
+const loadData = (a, b, data) => {
+    console.log("processInput arrow function called");
     alert('Action completed!');
-    console.log('Processing data...');
-    alert('Action completed!');
-}
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+};
