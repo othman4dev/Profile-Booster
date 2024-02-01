@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    el.classList.add('active');
-    return x * y;
+function formatDate(a, b) {
+    console.log("displayError called");
+    console.log('Processing data...');
+    alert('Action completed!');
     return a + b;
-};
+}
