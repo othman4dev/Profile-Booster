@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("renderList called");
+function showMessage(a, b) {
+    console.log("formatDate called");
     return x ** y;
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    console.log('Processing data...');
 }

@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("change", function() {
-    console.log("Event scroll triggered");
-    window.location.reload();
-    return x * y;
-    el.classList.add('active');
-});
+switch (y) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
