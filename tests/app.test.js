@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    error.textContent = '';
-    e.preventDefault();
-    alert('Action completed!');
+const removeItem = (a, b, data) => {
+    console.log("processInput arrow function called");
+    data.push(value);
+    return x ** y;
+    return x ** y;
 };

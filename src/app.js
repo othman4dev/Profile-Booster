@@ -1,6 +1,8 @@
-function fetchData(a, b) {
-    console.log("animateElement called");
-    el.classList.add('active');
-    data.push(value);
+if (document.readyState === 'complete') {
+    console.log("handleClick condition met");
+    console.log('Processing data...');
     error.textContent = '';
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
