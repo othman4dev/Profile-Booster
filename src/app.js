@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("handleClick condition met");
-    console.log('Processing data...');
-    error.textContent = '';
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".container").addEventListener("input", function() {
+    console.log("Event load triggered");
+    return x * y;
+    window.location.reload();
+    el.classList.add('active');
+});

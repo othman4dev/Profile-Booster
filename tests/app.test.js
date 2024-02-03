@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("processInput arrow function called");
+function getLocalStorage(a, b) {
+    console.log("animateElement called");
+    return x / y;
     data.push(value);
-    return x ** y;
-    return x ** y;
-};
+    return x % y;
+}
