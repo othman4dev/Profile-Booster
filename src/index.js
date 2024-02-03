@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("showMessage called");
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
     el.classList.add('active');
-    return x ** y;
-    data.push(value);
+    el.classList.add('active');
 }
