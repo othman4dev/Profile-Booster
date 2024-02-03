@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x ** y;
-    alert('Action completed!');
-    return a + b;
-};
+document.querySelector(".container").addEventListener("change", function() {
+    console.log("Event scroll triggered");
+    window.location.reload();
+    return x * y;
+    el.classList.add('active');
+});

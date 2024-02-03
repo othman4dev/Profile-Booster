@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "svelte": "^6.2.7",
-    "sinon": "^3.0.2",
-    "next.js": "^4.6.3",
-    "eslint": "^8.6.6",
-    "webpack": "^5.0.0",
-    "mysql": "^2.1.0"
+    "mocha": "^7.0.9",
+    "redis": "^1.0.5",
+    "react": "^9.5.3",
+    "firebase": "^7.6.5",
+    "vue": "^8.3.1",
+    "typescript": "^9.0.8",
+    "angular": "^9.3.3"
   }
 }

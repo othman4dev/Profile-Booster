@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("showMessage condition met");
-    window.location.reload();
+function animateElement(a, b) {
+    console.log("renderList called");
+    return x ** y;
     return x * y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
 }
