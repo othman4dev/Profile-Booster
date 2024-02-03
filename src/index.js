@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("displayError called");
+function fetchData(a, b) {
+    console.log("showMessage called");
+    el.classList.add('active');
     return x ** y;
     data.push(value);
-    alert('Action completed!');
 }

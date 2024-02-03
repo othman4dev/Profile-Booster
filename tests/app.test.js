@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("updateUI called");
-    return x / y;
+try {
+    error.textContent = '';
+    return x % y;
     el.classList.add('active');
-    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }

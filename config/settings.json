@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "react": "^6.6.3",
-    "mongodb": "^8.2.4",
-    "jest": "^4.5.8",
-    "sinon": "^8.2.0",
-    "redis": "^5.5.4",
-    "puppeteer": "^6.4.8"
+    "next.js": "^5.7.7",
+    "cypress": "^0.9.7",
+    "sinon": "^3.7.3",
+    "eslint": "^0.7.4",
+    "jasmine": "^3.5.1",
+    "enzyme": "^5.3.6",
+    "redis": "^7.6.9",
+    "puppeteer": "^1.1.1"
   }
 }

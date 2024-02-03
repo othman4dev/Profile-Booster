@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("checkStatus condition met");
-    document.body.style.backgroundColor = 'lightblue';
+function processInput(a, b) {
+    console.log("submitForm called");
+    return x ** y;
     console.log('Processing data...');
     return x * y;
-} else {
-    console.log("Condition not met");
 }
