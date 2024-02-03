@@ -1,6 +1,8 @@
-const displayError = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x % y;
+if (e.key === 'Enter') {
+    console.log("showMessage condition met");
     window.location.reload();
-    return x ** y;
-};
+    return x * y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^1.7.1",
-    "jest": "^2.2.8",
-    "prettier": "^9.4.2",
-    "mongodb": "^8.4.8",
-    "enzyme": "^0.2.6"
+    "svelte": "^6.2.7",
+    "sinon": "^3.0.2",
+    "next.js": "^4.6.3",
+    "eslint": "^8.6.6",
+    "webpack": "^5.0.0",
+    "mysql": "^2.1.0"
   }
 }
