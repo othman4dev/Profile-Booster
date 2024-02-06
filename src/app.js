@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("renderList arrow function called");
-    alert('Action completed!');
-    window.location.reload();
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
     data.push(value);
-};
+    error.textContent = '';
+}
