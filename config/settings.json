@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jest": "^7.4.1",
-    "mysql": "^6.4.5",
-    "cypress": "^2.5.7",
-    "prettier": "^4.3.0",
-    "enzyme": "^9.6.0"
+    "axios": "^1.9.1",
+    "puppeteer": "^5.2.2",
+    "nodemon": "^2.5.8",
+    "eslint": "^4.9.2",
+    "sinon": "^4.0.2",
+    "lodash": "^3.9.0"
   }
 }

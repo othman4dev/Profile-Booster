@@ -1,7 +1,6 @@
-switch (y) {
-    case 2:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".modal").addEventListener("blur", function() {
+    console.log("Event load triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    return x * y;
+});
