@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("animateElement arrow function called");
+document.querySelector("#nav").addEventListener("blur", function() {
+    console.log("Event load triggered");
+    return x ** y;
     error.textContent = '';
     console.log('Processing data...');
-    console.log('Processing data...');
-};
+});
