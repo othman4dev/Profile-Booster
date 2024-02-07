@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("renderList arrow function called");
-    error.textContent = '';
-    error.textContent = '';
-    return x ** y;
-};
+switch (error) {
+    case 2:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

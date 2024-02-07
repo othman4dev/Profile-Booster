@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "nightwatch": "^8.0.2",
-    "eslint": "^9.9.2",
-    "chai": "^9.3.2",
-    "jest": "^4.4.4",
-    "ember": "^4.6.7",
-    "moment": "^6.6.8",
-    "redis": "^1.9.9",
-    "svelte": "^8.2.2"
+    "lodash": "^8.6.3",
+    "nodemon": "^3.5.9",
+    "react": "^4.2.1",
+    "firebase": "^3.9.0",
+    "protractor": "^3.7.4"
   }
 }

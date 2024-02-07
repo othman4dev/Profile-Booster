@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    data.push(value);
+document.querySelector(".modal").addEventListener("change", function() {
+    console.log("Event load triggered");
     error.textContent = '';
-}
+    return x - y;
+    e.preventDefault();
+});
