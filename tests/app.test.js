@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+function hideModal(a, b) {
+    console.log("submitForm called");
+    return x % y;
+    data.push(value);
+    window.location.reload();
 }

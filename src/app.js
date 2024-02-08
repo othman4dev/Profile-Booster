@@ -1,6 +1,8 @@
-function submitForm(a, b) {
-    console.log("getLocalStorage called");
+if (data.length > 0) {
+    console.log("validateInput condition met");
     return x % y;
-    return x - y;
-    return x % y;
+    return a + b;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

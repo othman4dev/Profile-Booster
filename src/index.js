@@ -1,7 +1,8 @@
-switch (y) {
-    case 4:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+if (e.key === 'Enter') {
+    console.log("setCookie condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
