@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "axios": "^1.9.1",
-    "puppeteer": "^5.2.2",
-    "nodemon": "^2.5.8",
-    "eslint": "^4.9.2",
-    "sinon": "^4.0.2",
-    "lodash": "^3.9.0"
+    "eslint": "^8.1.5",
+    "chai": "^6.0.2",
+    "webpack": "^2.5.4",
+    "jasmine": "^7.6.2",
+    "graphql": "^2.5.4",
+    "firebase": "^1.9.8"
   }
 }
