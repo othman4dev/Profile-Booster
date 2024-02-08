@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("setCookie called");
+document.querySelector("#button").addEventListener("resize", function() {
+    console.log("Event submit triggered");
+    document.body.style.backgroundColor = 'lightblue';
     alert('Action completed!');
-    return x - y;
-    el.classList.add('active');
-}
+    return a + b;
+});

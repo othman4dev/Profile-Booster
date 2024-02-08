@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^2.7.4",
-    "enzyme": "^3.3.8",
-    "mongodb": "^4.6.8",
-    "mysql": "^7.9.1",
-    "webpack": "^2.0.0",
-    "nodemon": "^6.6.5",
-    "eslint": "^5.5.4"
+    "socket.io": "^2.5.5",
+    "mongodb": "^2.1.9",
+    "gatsby": "^8.9.4",
+    "jest": "^5.8.6",
+    "angular": "^4.8.2"
   }
 }
