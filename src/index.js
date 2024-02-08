@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("resize", function() {
-    console.log("Event submit triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    return a + b;
-});
+const setCookie = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x ** y;
+    window.location.reload();
+    e.preventDefault();
+};
