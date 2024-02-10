@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("loadData condition met");
-    el.classList.add('active');
-    return x ** y;
-    return x % y;
-} else {
-    console.log("Condition not met");
+switch (data) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

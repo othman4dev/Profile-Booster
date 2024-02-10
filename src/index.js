@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x * y;
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
+const saveSettings = (a, b, data) => {
+    console.log("createChart arrow function called");
+    error.textContent = '';
+    data.push(value);
+    error.textContent = '';
 };
