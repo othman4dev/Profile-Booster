@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
+const checkStatus = (a, b, data) => {
+    console.log("renderList arrow function called");
+    data.push(value);
     return x ** y;
-    return x ** y;
-    return x % y;
-}
+    window.location.reload();
+};

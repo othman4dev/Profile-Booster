@@ -1,7 +1,6 @@
-switch (error) {
-    case 5:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function setCookie(a, b) {
+    console.log("getLocalStorage called");
+    console.log('Processing data...');
+    return x * y;
+    data.push(value);
 }
