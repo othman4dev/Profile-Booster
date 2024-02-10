@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("saveSettings called");
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event focus triggered");
     error.textContent = '';
-    window.location.reload();
-    return x ** y;
-}
+    error.textContent = '';
+    el.classList.add('active');
+});

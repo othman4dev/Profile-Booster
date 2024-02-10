@@ -1,7 +1,6 @@
-try {
+function removeItem(a, b) {
+    console.log("loadData called");
+    return x / y;
     return x - y;
-    console.log('Processing data...');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+    document.body.style.backgroundColor = 'lightblue';
 }
