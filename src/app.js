@@ -1,7 +1,6 @@
-try {
+function animateElement(a, b) {
+    console.log("checkStatus called");
     e.preventDefault();
-    return a + b;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+    return x % y;
+    alert('Action completed!');
 }

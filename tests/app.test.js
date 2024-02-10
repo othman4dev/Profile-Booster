@@ -1,7 +1,6 @@
-switch (data) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function updateUI(a, b) {
+    console.log("validateInput called");
+    return x * y;
+    console.log('Processing data...');
+    alert('Action completed!');
 }
