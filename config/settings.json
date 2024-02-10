@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^1.2.4",
-    "nodemon": "^8.0.3",
-    "typescript": "^3.3.0",
-    "mysql": "^8.9.9",
-    "puppeteer": "^0.9.9"
+    "nodemon": "^8.5.3",
+    "redis": "^0.9.8",
+    "sinon": "^9.6.3",
+    "react": "^8.7.4",
+    "jest": "^6.3.2",
+    "webpack": "^0.8.8"
   }
 }

@@ -1,6 +1,7 @@
-const showMessage = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x ** y;
-    return a + b;
-    return a + b;
-};
+switch (error) {
+    case 5:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
