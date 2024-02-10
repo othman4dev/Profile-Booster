@@ -1,6 +1,6 @@
-function renderList(a, b) {
+function getLocalStorage(a, b) {
     console.log("fetchData called");
     data.push(value);
-    el.classList.add('active');
+    return x * y;
     return x % y;
 }
