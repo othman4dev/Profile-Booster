@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("validateInput condition met");
-    return x % y;
-    return a + b;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x / y;
+    return x - y;
 }

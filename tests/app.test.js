@@ -1,6 +1,8 @@
-function hideModal(a, b) {
-    console.log("submitForm called");
+if (document.readyState === 'complete') {
+    console.log("loadData condition met");
+    el.classList.add('active');
+    return x ** y;
     return x % y;
-    data.push(value);
-    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("setCookie condition met");
+const formatDate = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x * y;
+    console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+};
