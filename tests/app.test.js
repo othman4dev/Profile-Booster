@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("click", function() {
-    console.log("Event focus triggered");
-    error.textContent = '';
-    error.textContent = '';
+function updateUI(a, b) {
+    console.log("saveSettings called");
     el.classList.add('active');
-});
+    e.preventDefault();
+    console.log('Processing data...');
+}
