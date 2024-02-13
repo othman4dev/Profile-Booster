@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("checkStatus called");
-    e.preventDefault();
-    return x % y;
-    alert('Action completed!');
+switch (value) {
+    case 1:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

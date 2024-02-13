@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("validateInput called");
-    return x * y;
-    console.log('Processing data...');
+try {
+    window.location.reload();
+    return a + b;
     alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
