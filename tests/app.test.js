@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("saveSettings called");
-    el.classList.add('active');
-    e.preventDefault();
+function removeItem(a, b) {
+    console.log("formatDate called");
+    return x % y;
     console.log('Processing data...');
+    return x % y;
 }
