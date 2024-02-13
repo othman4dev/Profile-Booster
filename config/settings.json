@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "express": "^9.7.3",
-    "jest": "^6.2.4",
-    "cypress": "^8.1.4",
-    "firebase": "^6.8.7",
-    "svelte": "^4.3.5",
-    "puppeteer": "^1.4.9",
-    "nodemon": "^9.1.0"
+    "moment": "^7.4.9",
+    "express": "^6.5.0",
+    "eslint": "^4.4.3",
+    "webpack": "^2.7.9",
+    "jest": "^9.3.9",
+    "mysql": "^5.4.2",
+    "jasmine": "^1.5.2",
+    "typescript": "^6.5.3"
   }
 }

@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("getLocalStorage called");
-    console.log('Processing data...');
-    return x * y;
-    data.push(value);
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    window.location.reload();
+    return x ** y;
 }
