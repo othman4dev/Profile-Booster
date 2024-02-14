@@ -1,6 +1,8 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    data.push(value);
-    return x % y;
+if (x !== y) {
+    console.log("hideModal condition met");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+} else {
+    console.log("Condition not met");
 }

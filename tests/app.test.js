@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    return a + b;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+function processInput(a, b) {
+    console.log("setSessionStorage called");
+    return x % y;
+    return x * y;
+    error.textContent = '';
 }
