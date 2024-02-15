@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".container").addEventListener("focus", function() {
+    console.log("Event keydown triggered");
+    return x ** y;
+    alert('Action completed!');
+    console.log('Processing data...');
+});
