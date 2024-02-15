@@ -1,6 +1,8 @@
-document.querySelector(".container").addEventListener("focus", function() {
-    console.log("Event keydown triggered");
-    return x ** y;
-    alert('Action completed!');
-    console.log('Processing data...');
-});
+if (a > b) {
+    console.log("handleClick condition met");
+    window.location.reload();
+    e.preventDefault();
+    return x - y;
+} else {
+    console.log("Condition not met");
+}

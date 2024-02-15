@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "nodemon": "^9.8.2",
-    "lodash": "^5.3.9",
-    "nightwatch": "^6.0.3",
-    "express": "^8.6.7",
-    "puppeteer": "^3.8.8",
-    "cypress": "^9.4.3",
-    "babel": "^7.1.4",
-    "jasmine": "^5.4.4",
-    "angular": "^7.1.9"
+    "svelte": "^0.3.4",
+    "chai": "^8.4.0",
+    "firebase": "^8.0.6",
+    "moment": "^6.2.5",
+    "gatsby": "^5.7.9",
+    "socket.io": "^4.2.4",
+    "enzyme": "^9.7.5"
   }
 }
