@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("hideModal condition met");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+function hideModal(a, b) {
+    console.log("submitForm called");
     return x * y;
-} else {
-    console.log("Condition not met");
+    return x * y;
+    return x ** y;
 }
