@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
+const animateElement = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x - y;
+    return a + b;
     error.textContent = '';
-    return x * y;
-}
+};
