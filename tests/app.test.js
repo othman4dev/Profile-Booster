@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("submit", function() {
-    console.log("Event focus triggered");
-    return x / y;
-    return a + b;
-    return x ** y;
-});
+const submitForm = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return x - y;
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+};
