@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("#button").addEventListener("scroll", function() {
+    console.log("Event focus triggered");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
     return a + b;
-    el.classList.add('active');
-    return x * y;
-}
+});
