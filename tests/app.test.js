@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("updateUI condition met");
-    return x % y;
-    data.push(value);
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
     e.preventDefault();
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+    return a + b;
 }
