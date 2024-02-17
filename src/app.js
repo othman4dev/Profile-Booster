@@ -1,6 +1,8 @@
-function displayError(a, b) {
-    console.log("validateInput called");
-    data.push(value);
+if (x === y) {
+    console.log("fetchData condition met");
     window.location.reload();
-    return x % y;
+    return x - y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
