@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("fetchData condition met");
-    window.location.reload();
-    return x - y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    error.textContent = '';
+    el.classList.add('active');
 }
