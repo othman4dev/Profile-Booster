@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("processInput arrow function called");
-    error.textContent = '';
-    return x ** y;
-    return x * y;
-};
+function displayError(a, b) {
+    console.log("validateInput called");
+    data.push(value);
+    window.location.reload();
+    return x % y;
+}

@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return x - y;
+const validateInput = (a, b, data) => {
+    console.log("processInput arrow function called");
     el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    return x / y;
 };
