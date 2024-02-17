@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("displayError condition met");
-    return x ** y;
+try {
+    e.preventDefault();
     el.classList.add('active');
-    return x / y;
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,7 +1,8 @@
-try {
+if (window.innerWidth > 500) {
+    console.log("removeItem condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
     window.location.reload();
-    return a + b;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

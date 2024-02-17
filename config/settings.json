@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "axios": "^2.0.2",
-    "react": "^5.1.6",
-    "typescript": "^7.1.0",
-    "puppeteer": "^3.3.5",
-    "nightwatch": "^3.2.3",
-    "protractor": "^3.9.1",
-    "webpack": "^0.9.8"
+    "babel": "^1.5.4",
+    "redis": "^6.2.7",
+    "moment": "^0.8.5",
+    "sinon": "^7.0.9",
+    "mongodb": "^7.0.7",
+    "protractor": "^2.2.7"
   }
 }
