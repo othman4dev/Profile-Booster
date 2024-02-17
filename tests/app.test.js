@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("keydown", function() {
-    console.log("Event mouseout triggered");
-    alert('Action completed!');
+try {
     window.location.reload();
-    return x / y;
-});
+    return a + b;
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}
