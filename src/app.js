@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("animateElement called");
+try {
+    return x ** y;
+    return a + b;
     e.preventDefault();
-    error.textContent = '';
-    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }
