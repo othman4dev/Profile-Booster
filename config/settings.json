@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "babel": "^1.5.4",
-    "redis": "^6.2.7",
-    "moment": "^0.8.5",
-    "sinon": "^7.0.9",
-    "mongodb": "^7.0.7",
-    "protractor": "^2.2.7"
+    "jest": "^1.1.2",
+    "mocha": "^0.1.5",
+    "react": "^8.5.9",
+    "mongodb": "^8.8.0",
+    "ember": "^4.9.8"
   }
 }

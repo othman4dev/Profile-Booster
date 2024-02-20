@@ -1,7 +1,8 @@
-try {
-    el.classList.add('active');
-    return x * y;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+if (data.length > 0) {
+    console.log("processInput condition met");
+    return a + b;
+    console.log('Processing data...');
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

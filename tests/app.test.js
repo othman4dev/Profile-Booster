@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("removeItem condition met");
+const updateUI = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    data.push(value);
     document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+};
