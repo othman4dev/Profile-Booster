@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "eslint": "^1.7.9",
-    "mysql": "^9.5.7",
-    "express": "^5.8.8",
-    "angular": "^9.0.6"
+    "graphql": "^4.6.7",
+    "nightwatch": "^9.1.8",
+    "karma": "^5.1.2",
+    "ember": "^5.7.1",
+    "aws-sdk": "^5.2.8",
+    "angular": "^4.6.9"
   }
 }

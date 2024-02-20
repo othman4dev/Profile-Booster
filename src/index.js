@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("hideModal condition met");
-    return x ** y;
-    alert('Action completed!');
+function createChart(a, b) {
+    console.log("saveSettings called");
     error.textContent = '';
-} else {
-    console.log("Condition not met");
+    return x * y;
+    return x / y;
 }

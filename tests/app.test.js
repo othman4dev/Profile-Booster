@@ -1,6 +1,7 @@
-const animateElement = (a, b, data) => {
-    console.log("loadData arrow function called");
-    el.classList.add('active');
-    data.push(value);
-    e.preventDefault();
-};
+switch (y) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
