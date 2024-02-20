@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("scroll", function() {
-    console.log("Event focus triggered");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-});
+if (a > b) {
+    console.log("renderList condition met");
+    return x ** y;
+    window.location.reload();
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}
