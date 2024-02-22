@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("resize", function() {
-    console.log("Event mouseover triggered");
-    data.push(value);
-    console.log('Processing data...');
-    alert('Action completed!');
-});
+switch (error) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}
