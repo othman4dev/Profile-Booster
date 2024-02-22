@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    el.classList.add('active');
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return a + b;
+    return x - y;
 }

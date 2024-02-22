@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
+const saveSettings = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return a + b;
+    return x ** y;
+    e.preventDefault();
 };
