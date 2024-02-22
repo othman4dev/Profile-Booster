@@ -1,7 +1,6 @@
-switch (value) {
-    case 2:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".footer").addEventListener("blur", function() {
+    console.log("Event mouseout triggered");
+    e.preventDefault();
+    el.classList.add('active');
+    window.location.reload();
+});
