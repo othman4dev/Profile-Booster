@@ -1,7 +1,6 @@
-switch (b) {
-    case 2:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function animateElement(a, b) {
+    console.log("processInput called");
+    return x - y;
+    e.preventDefault();
+    return x ** y;
 }
