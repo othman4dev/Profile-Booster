@@ -1,7 +1,8 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+if (x === y) {
+    console.log("hideModal condition met");
+    window.location.reload();
+    return x % y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

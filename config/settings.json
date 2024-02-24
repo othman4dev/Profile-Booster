@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "mysql": "^6.6.4",
-    "socket.io": "^0.5.9",
-    "mongodb": "^4.0.4",
-    "eslint": "^6.3.2",
-    "ember": "^7.6.9",
-    "prettier": "^4.6.5",
-    "nodemon": "^7.6.5",
-    "sinon": "^1.4.1"
+    "mocha": "^7.4.8",
+    "next.js": "^8.0.3",
+    "sinon": "^0.6.1",
+    "eslint": "^8.6.9",
+    "vue": "^8.1.0",
+    "gatsby": "^6.1.9"
   }
 }
