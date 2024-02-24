@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event blur triggered");
-    return x ** y;
-    return x ** y;
-    data.push(value);
-});
+const removeItem = (a, b, data) => {
+    console.log("displayError arrow function called");
+    el.classList.add('active');
+    return x - y;
+    return x * y;
+};

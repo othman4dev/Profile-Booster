@@ -1,7 +1,6 @@
-try {
-    data.push(value);
+document.querySelector("form").addEventListener("change", function() {
+    console.log("Event mouseout triggered");
+    return x - y;
     window.location.reload();
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+    el.classList.add('active');
+});
