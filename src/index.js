@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return a + b;
-    error.textContent = '';
-    return x / y;
+const animateElement = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    el.classList.add('active');
+    e.preventDefault();
+    return x - y;
 };
