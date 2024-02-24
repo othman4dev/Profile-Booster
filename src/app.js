@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    window.location.reload();
-    return x % y;
-}
+const checkStatus = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x ** y;
+    return x ** y;
+    el.classList.add('active');
+};
