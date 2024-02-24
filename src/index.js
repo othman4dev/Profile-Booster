@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("handleClick condition met");
+function createChart(a, b) {
+    console.log("submitForm called");
     e.preventDefault();
-    return x * y;
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    e.preventDefault();
 }
