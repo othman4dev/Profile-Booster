@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("validateInput condition met");
-    return x - y;
+if (document.readyState === 'complete') {
+    console.log("formatDate condition met");
+    error.textContent = '';
     el.classList.add('active');
-    return x - y;
+    console.log('Processing data...');
 } else {
     console.log("Condition not met");
 }
