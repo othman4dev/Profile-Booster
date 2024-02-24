@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    alert('Action completed!');
-    return x % y;
-    alert('Action completed!');
-};
+document.querySelector("#input").addEventListener("scroll", function() {
+    console.log("Event change triggered");
+    return x ** y;
+    return x ** y;
+    return a + b;
+});

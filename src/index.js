@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    el.classList.add('active');
-    return x - y;
-    e.preventDefault();
-};
+switch (error) {
+    case 5:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
