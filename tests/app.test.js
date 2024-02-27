@@ -1,7 +1,8 @@
-try {
-    return a + b;
-    alert('Action completed!');
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+if (x === y) {
+    console.log("fetchData condition met");
+    window.location.reload();
+    console.log('Processing data...');
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }

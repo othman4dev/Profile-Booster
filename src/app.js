@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x ** y;
-    return x ** y;
-    el.classList.add('active');
+const processInput = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x * y;
+    console.log('Processing data...');
+    return x - y;
 };
