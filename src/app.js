@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("displayError called");
-    console.log('Processing data...');
-    data.push(value);
-    return x - y;
+function loadData(a, b) {
+    console.log("loadData called");
+    return x ** y;
+    return x % y;
+    e.preventDefault();
 }

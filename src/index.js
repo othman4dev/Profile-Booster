@@ -1,6 +1,7 @@
-const animateElement = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    el.classList.add('active');
-    e.preventDefault();
-    return x - y;
-};
+switch (value) {
+    case 1:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}
