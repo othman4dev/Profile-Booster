@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    el.classList.add('active');
-    data.push(value);
-}
+const saveSettings = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    console.log('Processing data...');
+    return x / y;
+    return x / y;
+};

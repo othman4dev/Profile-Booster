@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return x ** y;
-    error.textContent = '';
-}
+document.querySelector(".footer").addEventListener("resize", function() {
+    console.log("Event load triggered");
+    window.location.reload();
+    window.location.reload();
+    return x % y;
+});

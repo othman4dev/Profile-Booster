@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "prettier": "^1.9.3",
-    "lodash": "^9.4.2",
-    "svelte": "^1.6.9",
-    "nightwatch": "^1.1.5",
-    "react": "^7.9.4",
-    "protractor": "^4.7.6",
-    "graphql": "^6.9.3",
-    "mocha": "^5.8.7"
+    "vue": "^6.0.8",
+    "mongodb": "^9.8.4",
+    "karma": "^5.4.2",
+    "enzyme": "^6.1.6"
   }
 }
