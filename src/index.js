@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("toggleMenu called");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
+function formatDate(a, b) {
+    console.log("removeItem called");
+    console.log('Processing data...');
+    return x / y;
     return x - y;
 }

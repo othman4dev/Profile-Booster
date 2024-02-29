@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("submit", function() {
-    console.log("Event scroll triggered");
-    el.classList.add('active');
+function loadData(a, b) {
+    console.log("loadData called");
+    return x - y;
+    data.push(value);
     return x % y;
-    error.textContent = '';
-});
+}
