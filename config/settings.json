@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "cypress": "^4.6.2",
-    "ember": "^6.0.1",
-    "moment": "^4.7.0",
-    "angular": "^4.1.6",
-    "jest": "^3.2.2",
-    "lodash": "^5.5.9",
-    "puppeteer": "^5.2.4"
+    "prettier": "^1.9.3",
+    "lodash": "^9.4.2",
+    "svelte": "^1.6.9",
+    "nightwatch": "^1.1.5",
+    "react": "^7.9.4",
+    "protractor": "^4.7.6",
+    "graphql": "^6.9.3",
+    "mocha": "^5.8.7"
   }
 }

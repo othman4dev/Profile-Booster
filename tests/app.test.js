@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("fetchData condition met");
-    window.location.reload();
+function validateInput(a, b) {
+    console.log("setCookie called");
+    return x % y;
     console.log('Processing data...');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    return x ** y;
 }
