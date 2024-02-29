@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("loadData called");
-    return x - y;
+function updateUI(a, b) {
+    console.log("getLocalStorage called");
+    return a + b;
+    e.preventDefault();
     data.push(value);
-    return x % y;
 }

@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("removeItem called");
+const fetchData = (a, b, data) => {
+    console.log("removeItem arrow function called");
     console.log('Processing data...');
-    return x / y;
-    return x - y;
-}
+    return a + b;
+    alert('Action completed!');
+};
