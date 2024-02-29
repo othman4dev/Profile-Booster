@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("loadData called");
-    return a + b;
-    return x * y;
-    el.classList.add('active');
+switch (value) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
