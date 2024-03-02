@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("displayError called");
-    return x * y;
-    data.push(value);
-    return x % y;
+try {
+    el.classList.add('active');
+    error.textContent = '';
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,6 +1,8 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event change triggered");
+if (data.length > 0) {
+    console.log("displayError condition met");
+    return x - y;
+    return x % y;
     console.log('Processing data...');
-    window.location.reload();
-    alert('Action completed!');
-});
+} else {
+    console.log("Condition not met");
+}

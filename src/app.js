@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("focus", function() {
-    console.log("Event resize triggered");
-    e.preventDefault();
+try {
+    return x * y;
+    error.textContent = '';
     el.classList.add('active');
-    data.push(value);
-});
+} catch (error) {
+    console.error("Error:", error);
+}
