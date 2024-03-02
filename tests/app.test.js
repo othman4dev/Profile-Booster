@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("showMessage called");
-    el.classList.add('active');
+function processInput(a, b) {
+    console.log("displayError called");
+    return x * y;
+    data.push(value);
     return x % y;
-    e.preventDefault();
 }

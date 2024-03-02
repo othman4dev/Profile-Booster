@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("removeItem arrow function called");
+document.querySelector(".container").addEventListener("scroll", function() {
+    console.log("Event change triggered");
     console.log('Processing data...');
-    return a + b;
+    window.location.reload();
     alert('Action completed!');
-};
+});
