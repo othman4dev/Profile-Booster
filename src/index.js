@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("mouseout", function() {
-    console.log("Event submit triggered");
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return x * y;
     e.preventDefault();
-    window.location.reload();
-    el.classList.add('active');
-});
+}
