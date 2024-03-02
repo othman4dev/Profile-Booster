@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("resize", function() {
-    console.log("Event load triggered");
+document.querySelector("#input").addEventListener("mouseout", function() {
+    console.log("Event submit triggered");
+    e.preventDefault();
     window.location.reload();
-    window.location.reload();
-    return x % y;
+    el.classList.add('active');
 });
