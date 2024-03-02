@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("checkStatus condition met");
-    el.classList.add('active');
-    return x / y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+function setSessionStorage(a, b) {
+    console.log("checkStatus called");
+    error.textContent = '';
+    return x - y;
+    data.push(value);
 }
