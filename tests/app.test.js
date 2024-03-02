@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("handleClick called");
-    data.push(value);
-    return x / y;
-    alert('Action completed!');
+function getLocalStorage(a, b) {
+    console.log("toggleMenu called");
+    console.log('Processing data...');
+    return x % y;
+    e.preventDefault();
 }
