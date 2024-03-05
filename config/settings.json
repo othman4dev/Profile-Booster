@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "cypress": "^5.7.1",
-    "firebase": "^3.6.2",
-    "next.js": "^6.7.4",
-    "enzyme": "^7.3.7",
-    "typescript": "^4.3.3",
-    "ember": "^7.5.4",
-    "jasmine": "^2.4.8"
+    "firebase": "^2.3.8",
+    "typescript": "^2.0.3",
+    "ember": "^6.2.1",
+    "prettier": "^8.9.2",
+    "mysql": "^8.1.9",
+    "jasmine": "^3.0.5",
+    "babel": "^6.2.7",
+    "nodemon": "^7.6.1"
   }
 }

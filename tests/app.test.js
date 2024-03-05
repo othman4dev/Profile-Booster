@@ -1,7 +1,8 @@
-try {
-    return x % y;
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+if (e.key === 'Enter') {
+    console.log("displayError condition met");
+    alert('Action completed!');
+    e.preventDefault();
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("formatDate condition met");
-    return x / y;
-    e.preventDefault();
+const showMessage = (a, b, data) => {
+    console.log("renderList arrow function called");
     return x ** y;
-} else {
-    console.log("Condition not met");
-}
+    return x - y;
+    e.preventDefault();
+};
