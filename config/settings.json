@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^1.5.0",
-    "react": "^5.7.0",
-    "typescript": "^9.7.0",
-    "sinon": "^4.7.4",
-    "jest": "^7.9.6",
-    "eslint": "^3.2.0",
-    "mysql": "^2.5.1"
+    "typescript": "^3.3.6",
+    "express": "^0.5.1",
+    "axios": "^4.3.4",
+    "jasmine": "^4.4.7",
+    "eslint": "^0.5.4",
+    "chai": "^0.3.4"
   }
 }
