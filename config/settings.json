@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "babel": "^0.1.1",
-    "aws-sdk": "^5.9.6",
-    "express": "^8.5.0",
-    "mysql": "^0.9.4",
-    "prettier": "^6.8.5",
-    "jest": "^6.7.1"
+    "firebase": "^1.5.6",
+    "prettier": "^6.6.3",
+    "svelte": "^0.8.8",
+    "aws-sdk": "^0.7.4",
+    "next.js": "^5.8.3",
+    "nodemon": "^3.8.5"
   }
 }
