@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "socket.io": "^3.6.4",
-    "svelte": "^6.5.8",
-    "jest": "^2.6.6",
-    "angular": "^9.1.5",
-    "jasmine": "^3.0.3",
-    "enzyme": "^0.0.0",
-    "graphql": "^9.8.8",
-    "mocha": "^8.7.8"
+    "aws-sdk": "^6.2.1",
+    "next.js": "^2.2.6",
+    "eslint": "^9.8.1",
+    "axios": "^0.9.8",
+    "ember": "^2.0.5",
+    "nightwatch": "^3.2.5",
+    "mysql": "^4.4.7"
   }
 }

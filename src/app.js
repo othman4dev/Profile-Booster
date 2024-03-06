@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("setCookie condition met");
-    return x / y;
+document.querySelector(".modal").addEventListener("keydown", function() {
+    console.log("Event click triggered");
     el.classList.add('active');
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+    return a + b;
+    alert('Action completed!');
+});

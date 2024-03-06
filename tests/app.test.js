@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+document.querySelector(".container").addEventListener("submit", function() {
+    console.log("Event resize triggered");
+    error.textContent = '';
     return a + b;
-};
+    window.location.reload();
+});

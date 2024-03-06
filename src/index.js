@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("scroll", function() {
-    console.log("Event resize triggered");
-    alert('Action completed!');
-    alert('Action completed!');
-    return x - y;
-});
+switch (value) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
