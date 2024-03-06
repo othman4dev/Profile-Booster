@@ -1,7 +1,8 @@
-switch (e) {
-    case 3:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+if (a > b) {
+    console.log("animateElement condition met");
+    el.classList.add('active');
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }

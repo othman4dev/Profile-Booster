@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("displayError condition met");
-    alert('Action completed!');
-    e.preventDefault();
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
     window.location.reload();
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
 }
