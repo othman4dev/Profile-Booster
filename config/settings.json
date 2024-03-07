@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^2.4.7",
-    "next.js": "^0.4.3",
-    "puppeteer": "^5.3.8",
-    "protractor": "^8.6.0",
-    "react": "^6.6.3",
-    "chai": "^6.5.3",
-    "prettier": "^2.4.5"
+    "socket.io": "^5.0.3",
+    "jest": "^9.3.2",
+    "webpack": "^9.1.9",
+    "protractor": "^3.9.0",
+    "moment": "^4.5.1",
+    "enzyme": "^2.5.0"
   }
 }
