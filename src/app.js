@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("animateElement condition met");
-    el.classList.add('active');
-    window.location.reload();
+try {
+    error.textContent = '';
+    e.preventDefault();
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }

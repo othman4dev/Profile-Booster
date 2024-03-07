@@ -1,6 +1,8 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
+if (x !== y) {
+    console.log("setCookie condition met");
     console.log('Processing data...');
-    window.location.reload();
-    console.log('Processing data...');
+    alert('Action completed!');
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
