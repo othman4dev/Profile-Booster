@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event click triggered");
-    alert('Action completed!');
-    el.classList.add('active');
-    return x / y;
-});
+const formatDate = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    return a + b;
+};

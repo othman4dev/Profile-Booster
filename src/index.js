@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("fetchData called");
-    return x % y;
-    data.push(value);
-    window.location.reload();
-}
+document.querySelector("#input").addEventListener("scroll", function() {
+    console.log("Event resize triggered");
+    alert('Action completed!');
+    alert('Action completed!');
+    return x - y;
+});
