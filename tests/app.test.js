@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    return x % y;
-    e.preventDefault();
-}
+document.querySelector(".container").addEventListener("blur", function() {
+    console.log("Event focus triggered");
+    return x / y;
+    error.textContent = '';
+    return a + b;
+});

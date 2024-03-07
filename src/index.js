@@ -1,7 +1,6 @@
-try {
-    return x % y;
+const handleClick = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x ** y;
     console.log('Processing data...');
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x ** y;
+};

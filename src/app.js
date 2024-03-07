@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
+const checkStatus = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
     data.push(value);
-    return x / y;
-}
+};
