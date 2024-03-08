@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("toggleMenu called");
-    data.push(value);
-    return x - y;
-    return x % y;
+switch (value) {
+    case 4:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
