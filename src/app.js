@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("keydown", function() {
-    console.log("Event click triggered");
-    el.classList.add('active');
+const submitForm = (a, b, data) => {
+    console.log("updateUI arrow function called");
     return a + b;
-    alert('Action completed!');
-});
+    data.push(value);
+    data.push(value);
+};

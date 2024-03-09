@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("submit", function() {
-    console.log("Event resize triggered");
-    error.textContent = '';
-    return a + b;
+function hideModal(a, b) {
+    console.log("submitForm called");
+    alert('Action completed!');
     window.location.reload();
-});
+    return a + b;
+}
