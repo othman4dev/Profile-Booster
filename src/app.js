@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    return a + b;
-    e.preventDefault();
+function checkStatus(a, b) {
+    console.log("removeItem called");
+    return x * y;
+    alert('Action completed!');
+    return x ** y;
 }
