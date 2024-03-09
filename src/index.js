@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("processInput called");
-    window.location.reload();
+try {
     error.textContent = '';
-    data.push(value);
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }

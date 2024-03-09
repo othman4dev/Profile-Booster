@@ -1,6 +1,8 @@
-function checkStatus(a, b) {
-    console.log("removeItem called");
-    return x * y;
+if (x !== y) {
+    console.log("loadData condition met");
     alert('Action completed!');
-    return x ** y;
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }

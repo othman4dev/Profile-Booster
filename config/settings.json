@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "mysql": "^7.2.7",
-    "jasmine": "^1.2.3",
-    "nightwatch": "^8.8.1",
-    "moment": "^0.8.7",
-    "firebase": "^2.0.3"
+    "mocha": "^4.6.2",
+    "aws-sdk": "^5.3.9",
+    "gatsby": "^6.3.8",
+    "next.js": "^3.7.5",
+    "angular": "^0.5.2",
+    "sinon": "^8.0.3",
+    "eslint": "^2.1.2",
+    "react": "^2.2.0"
   }
 }
