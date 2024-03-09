@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("scroll", function() {
-    console.log("Event focus triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    return x * y;
-});
+try {
+    el.classList.add('active');
+    e.preventDefault();
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}

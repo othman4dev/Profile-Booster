@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("processInput condition met");
-    el.classList.add('active');
-    return x ** y;
-    return x / y;
-} else {
-    console.log("Condition not met");
+function hideModal(a, b) {
+    console.log("toggleMenu called");
+    data.push(value);
+    return x - y;
+    return x % y;
 }
