@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("handleClick called");
+const saveSettings = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x * y;
+    return x - y;
     el.classList.add('active');
-    return x / y;
-    e.preventDefault();
-}
+};
