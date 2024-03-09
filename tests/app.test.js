@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("submitForm called");
-    alert('Action completed!');
-    window.location.reload();
-    return a + b;
+switch (data) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
