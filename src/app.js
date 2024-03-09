@@ -1,7 +1,8 @@
-try {
-    error.textContent = '';
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+if (x === y) {
+    console.log("processInput condition met");
+    el.classList.add('active');
+    return x ** y;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

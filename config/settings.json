@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "react": "^9.9.4",
-    "nightwatch": "^5.9.1",
-    "babel": "^4.5.0",
-    "ember": "^1.4.1",
-    "jest": "^8.0.6",
-    "graphql": "^0.0.8",
-    "angular": "^7.9.5"
+    "react": "^3.6.2",
+    "webpack": "^2.5.1",
+    "cypress": "^9.3.0",
+    "chai": "^2.3.4",
+    "sinon": "^6.5.8"
   }
 }
