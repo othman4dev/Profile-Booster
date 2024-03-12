@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^4.6.2",
-    "aws-sdk": "^5.3.9",
-    "gatsby": "^6.3.8",
-    "next.js": "^3.7.5",
-    "angular": "^0.5.2",
-    "sinon": "^8.0.3",
-    "eslint": "^2.1.2",
-    "react": "^2.2.0"
+    "axios": "^3.1.5",
+    "next.js": "^7.4.4",
+    "babel": "^6.9.2",
+    "jest": "^0.5.5",
+    "nightwatch": "^6.0.5",
+    "nodemon": "^3.9.6"
   }
 }
