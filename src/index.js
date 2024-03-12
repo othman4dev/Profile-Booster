@@ -1,6 +1,7 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    error.textContent = '';
-    return x / y;
+try {
+    return x ** y;
+    window.location.reload();
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
