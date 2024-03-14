@@ -1,7 +1,8 @@
-try {
+if (x !== y) {
+    console.log("getLocalStorage condition met");
     return x ** y;
-    window.location.reload();
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+    return x * y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
