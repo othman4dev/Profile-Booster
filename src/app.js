@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("validateInput condition met");
+document.querySelector("#nav").addEventListener("resize", function() {
+    console.log("Event keydown triggered");
     e.preventDefault();
-    return x / y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+    alert('Action completed!');
+    window.location.reload();
+});
