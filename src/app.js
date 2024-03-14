@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    return x / y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+function getLocalStorage(a, b) {
+    console.log("renderList called");
+    el.classList.add('active');
+    e.preventDefault();
+    window.location.reload();
 }
