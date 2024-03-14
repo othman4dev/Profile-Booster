@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("getLocalStorage condition met");
-    return x ** y;
-    return x * y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+const removeItem = (a, b, data) => {
+    console.log("processInput arrow function called");
+    error.textContent = '';
+    alert('Action completed!');
+    return a + b;
+};
