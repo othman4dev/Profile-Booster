@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "axios": "^3.1.5",
-    "next.js": "^7.4.4",
-    "babel": "^6.9.2",
-    "jest": "^0.5.5",
-    "nightwatch": "^6.0.5",
-    "nodemon": "^3.9.6"
+    "aws-sdk": "^8.3.3",
+    "eslint": "^7.8.0",
+    "nightwatch": "^1.4.7",
+    "cypress": "^3.8.4",
+    "graphql": "^3.8.3",
+    "jest": "^8.3.9"
   }
 }

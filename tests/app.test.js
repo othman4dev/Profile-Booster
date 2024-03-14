@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("input", function() {
-    console.log("Event load triggered");
+if (a > b) {
+    console.log("renderList condition met");
+    console.log('Processing data...');
+    console.log('Processing data...');
     el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-});
+} else {
+    console.log("Condition not met");
+}

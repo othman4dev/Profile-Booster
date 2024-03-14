@@ -1,7 +1,8 @@
-try {
-    return x % y;
-    data.push(value);
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+if (a > b) {
+    console.log("validateInput condition met");
+    e.preventDefault();
+    return x / y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
