@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    el.classList.add('active');
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+document.querySelector("document").addEventListener("load", function() {
+    console.log("Event blur triggered");
+    e.preventDefault();
+    return x ** y;
+    return x % y;
+});

@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("renderList called");
-    el.classList.add('active');
-    e.preventDefault();
-    window.location.reload();
+switch (x) {
+    case 1:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
