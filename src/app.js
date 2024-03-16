@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("click", function() {
-    console.log("Event change triggered");
-    return x * y;
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-});
+switch (y) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

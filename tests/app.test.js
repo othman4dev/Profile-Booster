@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    console.log('Processing data...');
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+function showMessage(a, b) {
+    console.log("setSessionStorage called");
+    return x * y;
+    return x * y;
+    return x ** y;
 }
