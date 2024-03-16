@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "mongodb": "^1.5.5",
-    "nightwatch": "^3.2.6",
-    "ember": "^3.2.6",
-    "next.js": "^2.7.0",
-    "vue": "^9.6.9",
-    "typescript": "^7.3.2",
-    "eslint": "^6.5.3"
+    "puppeteer": "^0.1.1",
+    "prettier": "^3.6.8",
+    "mocha": "^6.8.6",
+    "react": "^0.1.4",
+    "axios": "^3.1.6",
+    "moment": "^7.9.1",
+    "sinon": "^9.9.7",
+    "mongodb": "^0.3.9"
   }
 }

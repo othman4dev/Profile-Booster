@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("processInput arrow function called");
-    error.textContent = '';
-    alert('Action completed!');
-    return a + b;
-};
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x * y;
+    return x * y;
+}
