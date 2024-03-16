@@ -1,7 +1,8 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
+if (window.innerWidth > 500) {
+    console.log("animateElement condition met");
     window.location.reload();
     e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

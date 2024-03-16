@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "jest": "^6.4.8",
-    "puppeteer": "^4.3.3",
-    "karma": "^4.0.0",
-    "mongodb": "^0.1.0",
-    "sinon": "^8.7.6",
-    "mocha": "^1.2.8"
+    "next.js": "^7.0.1",
+    "jest": "^0.6.1",
+    "nightwatch": "^7.6.9",
+    "svelte": "^2.9.9",
+    "mongodb": "^8.6.3",
+    "chai": "^0.4.1"
   }
 }

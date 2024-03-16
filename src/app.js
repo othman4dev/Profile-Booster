@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event submit triggered");
     el.classList.add('active');
-    el.classList.add('active');
-}
+    return x * y;
+    window.location.reload();
+});
