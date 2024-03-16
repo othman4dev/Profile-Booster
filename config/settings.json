@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^4.8.0",
-    "lodash": "^5.4.6",
-    "next.js": "^3.6.1",
-    "graphql": "^5.8.4",
-    "chai": "^1.9.5",
-    "nodemon": "^2.9.6"
+    "mocha": "^0.5.0",
+    "gatsby": "^2.2.8",
+    "moment": "^3.1.5",
+    "webpack": "^4.8.5",
+    "graphql": "^3.2.6"
   }
 }
