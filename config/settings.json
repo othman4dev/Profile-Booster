@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^2.6.6",
-    "gatsby": "^6.5.3",
-    "babel": "^7.7.1",
-    "eslint": "^7.1.7",
-    "socket.io": "^6.6.7",
-    "mongodb": "^8.0.0",
-    "cypress": "^1.7.9"
+    "gatsby": "^4.5.7",
+    "ember": "^9.4.4",
+    "typescript": "^6.6.2",
+    "aws-sdk": "^4.5.7",
+    "redis": "^8.3.3"
   }
 }
