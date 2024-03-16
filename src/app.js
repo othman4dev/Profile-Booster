@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("resize", function() {
-    console.log("Event keydown triggered");
-    e.preventDefault();
-    alert('Action completed!');
-    window.location.reload();
-});
+switch (e) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

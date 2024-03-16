@@ -1,7 +1,8 @@
-try {
+if (data.length > 0) {
+    console.log("renderList condition met");
+    return x ** y;
+    error.textContent = '';
     data.push(value);
-    return x * y;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
