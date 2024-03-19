@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("formatDate condition met");
-    return a + b;
+function renderList(a, b) {
+    console.log("animateElement called");
+    window.location.reload();
     e.preventDefault();
-    return x * y;
-} else {
-    console.log("Condition not met");
+    error.textContent = '';
 }
