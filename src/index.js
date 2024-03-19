@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("animateElement condition met");
-    window.location.reload();
-    e.preventDefault();
+document.querySelector(".container").addEventListener("scroll", function() {
+    console.log("Event submit triggered");
+    return x / y;
     return x - y;
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+});

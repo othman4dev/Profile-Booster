@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    el.classList.add('active');
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+function hideModal(a, b) {
+    console.log("updateUI called");
+    return a + b;
+    return x ** y;
+    e.preventDefault();
 }
