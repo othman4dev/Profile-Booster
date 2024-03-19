@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "gatsby": "^4.5.7",
-    "ember": "^9.4.4",
-    "typescript": "^6.6.2",
-    "aws-sdk": "^4.5.7",
-    "redis": "^8.3.3"
+    "jest": "^8.7.6",
+    "webpack": "^5.9.5",
+    "nodemon": "^3.2.0",
+    "mysql": "^2.4.0",
+    "enzyme": "^2.8.3",
+    "moment": "^0.5.4"
   }
 }

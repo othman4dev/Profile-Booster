@@ -1,6 +1,8 @@
-document.querySelector(".container").addEventListener("focus", function() {
-    console.log("Event load triggered");
-    el.classList.add('active');
-    return x - y;
-    error.textContent = '';
-});
+if (value !== '') {
+    console.log("renderList condition met");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}
