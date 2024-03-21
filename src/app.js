@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("handleClick arrow function called");
+function fetchData(a, b) {
+    console.log("handleClick called");
+    return x - y;
+    e.preventDefault();
     return x % y;
-    return a + b;
-    return x * y;
-};
+}

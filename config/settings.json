@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^2.9.2",
-    "webpack": "^4.3.1",
-    "mongodb": "^2.0.4",
-    "ember": "^5.7.4",
-    "axios": "^0.4.4",
-    "nodemon": "^6.5.8"
+    "lodash": "^4.0.4",
+    "protractor": "^2.2.9",
+    "chai": "^2.7.4",
+    "socket.io": "^4.9.3",
+    "typescript": "^4.4.7",
+    "ember": "^6.1.0"
   }
 }
