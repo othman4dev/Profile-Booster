@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "karma": "^9.9.8",
-    "puppeteer": "^8.6.9",
-    "chai": "^2.2.3",
-    "mysql": "^1.1.7",
-    "express": "^1.0.6",
-    "angular": "^2.0.4",
-    "mocha": "^0.8.1"
+    "mongodb": "^2.9.0",
+    "eslint": "^7.4.4",
+    "ember": "^2.1.0",
+    "lodash": "^0.7.4",
+    "protractor": "^7.2.1",
+    "puppeteer": "^2.8.2",
+    "webpack": "^5.9.7"
   }
 }

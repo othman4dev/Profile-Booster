@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("mouseover", function() {
-    console.log("Event blur triggered");
-    return x % y;
-    return x ** y;
-    e.preventDefault();
-});
+try {
+    console.log('Processing data...');
+    data.push(value);
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}
