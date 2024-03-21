@@ -1,7 +1,8 @@
-switch (a) {
-    case 4:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+if (value !== '') {
+    console.log("checkStatus condition met");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

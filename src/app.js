@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    return x / y;
+function animateElement(a, b) {
+    console.log("toggleMenu called");
     window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+    window.location.reload();
+    return x - y;
 }
