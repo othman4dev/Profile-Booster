@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "karma": "^9.2.0",
-    "firebase": "^3.1.9",
-    "nodemon": "^4.1.7",
-    "axios": "^4.8.4",
-    "express": "^7.0.6",
-    "mongodb": "^5.1.1"
+    "nightwatch": "^2.9.2",
+    "webpack": "^4.3.1",
+    "mongodb": "^2.0.4",
+    "ember": "^5.7.4",
+    "axios": "^0.4.4",
+    "nodemon": "^6.5.8"
   }
 }

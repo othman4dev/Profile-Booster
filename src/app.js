@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+const validateInput = (a, b, data) => {
+    console.log("handleClick arrow function called");
     return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return a + b;
+    return x * y;
+};
