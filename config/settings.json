@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "jest": "^8.7.6",
-    "webpack": "^5.9.5",
-    "nodemon": "^3.2.0",
-    "mysql": "^2.4.0",
-    "enzyme": "^2.8.3",
-    "moment": "^0.5.4"
+    "redis": "^8.6.0",
+    "express": "^9.0.8",
+    "protractor": "^4.2.8",
+    "jest": "^8.6.4",
+    "cypress": "^9.5.5",
+    "nodemon": "^3.3.8"
   }
 }
