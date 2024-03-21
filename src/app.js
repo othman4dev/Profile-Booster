@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("click", function() {
-    console.log("Event resize triggered");
-    error.textContent = '';
-    return x * y;
-    return x * y;
+document.querySelector(".modal").addEventListener("mouseover", function() {
+    console.log("Event blur triggered");
+    return x % y;
+    return x ** y;
+    e.preventDefault();
 });
