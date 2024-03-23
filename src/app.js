@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("toggleMenu called");
-    window.location.reload();
-    window.location.reload();
-    return x - y;
+switch (y) {
+    case 1:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

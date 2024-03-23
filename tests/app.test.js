@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("checkStatus condition met");
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event mouseout triggered");
     e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+    e.preventDefault();
+});
