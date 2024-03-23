@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "protractor": "^8.3.8",
-    "next.js": "^7.1.5",
-    "axios": "^5.6.1",
-    "firebase": "^3.0.8",
-    "ember": "^6.9.7",
-    "mysql": "^4.7.6",
-    "react": "^5.2.6",
-    "mocha": "^1.4.0"
+    "vue": "^8.6.6",
+    "webpack": "^3.4.3",
+    "mysql": "^2.5.6",
+    "nodemon": "^2.8.2",
+    "mocha": "^6.8.1",
+    "axios": "^0.6.5",
+    "sinon": "^9.8.6"
   }
 }
