@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("keydown", function() {
-    console.log("Event scroll triggered");
+const processInput = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
     return x ** y;
-    return x ** y;
-    return x ** y;
-});
+};

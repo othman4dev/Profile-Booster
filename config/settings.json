@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^4.0.4",
-    "protractor": "^2.2.9",
-    "chai": "^2.7.4",
-    "socket.io": "^4.9.3",
-    "typescript": "^4.4.7",
-    "ember": "^6.1.0"
+    "vue": "^2.3.8",
+    "sinon": "^3.9.4",
+    "chai": "^5.2.2",
+    "babel": "^5.6.8",
+    "mongodb": "^2.7.9",
+    "nodemon": "^1.8.2"
   }
 }

@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("handleClick called");
-    return x - y;
-    e.preventDefault();
+try {
     return x % y;
+    return a + b;
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
