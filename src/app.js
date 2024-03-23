@@ -1,7 +1,6 @@
-switch (value) {
-    case 1:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function renderList(a, b) {
+    console.log("hideModal called");
+    return x - y;
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
 }

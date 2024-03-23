@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "webpack": "^4.2.8",
-    "enzyme": "^8.6.7",
-    "moment": "^9.6.0",
-    "lodash": "^3.9.7",
-    "express": "^2.2.4"
+    "next.js": "^2.3.6",
+    "lodash": "^0.9.1",
+    "react": "^9.6.3",
+    "gatsby": "^4.7.5",
+    "protractor": "^1.2.7",
+    "redis": "^6.7.1"
   }
 }
