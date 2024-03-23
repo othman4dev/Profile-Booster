@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
+function animateElement(a, b) {
+    console.log("fetchData called");
+    e.preventDefault();
     return a + b;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+    data.push(value);
 }

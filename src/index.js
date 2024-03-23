@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("handleClick arrow function called");
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
     data.push(value);
-    return x * y;
-    return x / y;
-};
+}

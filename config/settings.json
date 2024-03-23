@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "enzyme": "^3.7.1",
-    "svelte": "^0.0.5",
-    "jest": "^6.0.7",
-    "webpack": "^3.4.7",
-    "eslint": "^9.9.4",
-    "moment": "^2.2.8",
-    "mongodb": "^3.2.1",
-    "protractor": "^3.5.4"
+    "axios": "^6.8.8",
+    "socket.io": "^8.0.5",
+    "moment": "^4.4.9",
+    "vue": "^8.4.9",
+    "sinon": "^8.3.5",
+    "prettier": "^6.3.4",
+    "react": "^3.4.7",
+    "express": "^9.7.0"
   }
 }

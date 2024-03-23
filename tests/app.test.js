@@ -1,7 +1,6 @@
-switch (y) {
-    case 2:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    console.log('Processing data...');
+    return a + b;
 }
