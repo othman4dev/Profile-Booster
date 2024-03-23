@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    e.preventDefault();
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("document").addEventListener("focus", function() {
+    console.log("Event blur triggered");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+});

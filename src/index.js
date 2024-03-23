@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    el.classList.add('active');
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+function hideModal(a, b) {
+    console.log("displayError called");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
 }
