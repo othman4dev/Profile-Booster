@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("fetchData called");
-    e.preventDefault();
-    return a + b;
-    data.push(value);
+try {
+    return x / y;
+    return x - y;
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }
