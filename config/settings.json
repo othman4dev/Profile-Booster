@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "mongodb": "^2.9.0",
-    "eslint": "^7.4.4",
-    "ember": "^2.1.0",
-    "lodash": "^0.7.4",
-    "protractor": "^7.2.1",
-    "puppeteer": "^2.8.2",
-    "webpack": "^5.9.7"
+    "enzyme": "^3.7.1",
+    "svelte": "^0.0.5",
+    "jest": "^6.0.7",
+    "webpack": "^3.4.7",
+    "eslint": "^9.9.4",
+    "moment": "^2.2.8",
+    "mongodb": "^3.2.1",
+    "protractor": "^3.5.4"
   }
 }
