@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("hideModal called");
-    return x - y;
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    e.preventDefault();
+    return x ** y;
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }
