@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("click", function() {
-    console.log("Event load triggered");
-    return x ** y;
+if (x === y) {
+    console.log("checkStatus condition met");
+    return x * y;
+    e.preventDefault();
     el.classList.add('active');
-    data.push(value);
-});
+} else {
+    console.log("Condition not met");
+}

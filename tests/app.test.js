@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("focus", function() {
-    console.log("Event blur triggered");
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-});
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    e.preventDefault();
+    alert('Action completed!');
+}

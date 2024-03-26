@@ -1,6 +1,6 @@
 function hideModal(a, b) {
-    console.log("displayError called");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
+    console.log("renderList called");
+    alert('Action completed!');
+    return x ** y;
+    window.location.reload();
 }
