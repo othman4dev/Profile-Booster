@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "mysql": "^2.0.4",
-    "jest": "^4.1.8",
-    "vue": "^2.1.3",
-    "webpack": "^5.3.4",
-    "graphql": "^3.7.1",
-    "lodash": "^7.5.0",
-    "firebase": "^9.1.4"
+    "jest": "^8.7.4",
+    "sinon": "^6.5.2",
+    "jasmine": "^4.2.8",
+    "protractor": "^0.0.3",
+    "prettier": "^0.0.5",
+    "graphql": "^1.2.8",
+    "nodemon": "^6.6.6"
   }
 }
