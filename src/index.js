@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("renderList called");
-    alert('Action completed!');
-    return x ** y;
-    window.location.reload();
+switch (y) {
+    case 1:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
