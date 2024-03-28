@@ -1,7 +1,6 @@
-try {
-    return x ** y;
+document.querySelector(".modal").addEventListener("change", function() {
+    console.log("Event change triggered");
     return a + b;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    data.push(value);
+    return a + b;
+});
