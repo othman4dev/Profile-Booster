@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("renderList called");
-    el.classList.add('active');
-    error.textContent = '';
-    alert('Action completed!');
+switch (a) {
+    case 4:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

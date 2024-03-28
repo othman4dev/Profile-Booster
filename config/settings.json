@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "jest": "^8.7.4",
-    "sinon": "^6.5.2",
-    "jasmine": "^4.2.8",
-    "protractor": "^0.0.3",
-    "prettier": "^0.0.5",
-    "graphql": "^1.2.8",
-    "nodemon": "^6.6.6"
+    "socket.io": "^2.4.2",
+    "firebase": "^9.4.2",
+    "prettier": "^9.2.4",
+    "mongodb": "^3.8.4",
+    "redis": "^9.5.3",
+    "protractor": "^6.7.9",
+    "babel": "^8.5.7"
   }
 }
