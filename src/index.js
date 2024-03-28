@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("getLocalStorage condition met");
-    window.location.reload();
-    return a + b;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+const toggleMenu = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x ** y;
+    return x * y;
+    return x - y;
+};
