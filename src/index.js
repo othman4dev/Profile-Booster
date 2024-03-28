@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("mouseout", function() {
-    console.log("Event click triggered");
-    return x % y;
-    error.textContent = '';
-    return x ** y;
-});
+function animateElement(a, b) {
+    console.log("validateInput called");
+    alert('Action completed!');
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+}
