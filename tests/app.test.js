@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("blur", function() {
-    console.log("Event focus triggered");
-    return x ** y;
-    return x - y;
-    return a + b;
-});
+const displayError = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x / y;
+    window.location.reload();
+    return x % y;
+};
