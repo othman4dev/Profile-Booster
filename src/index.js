@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("validateInput called");
-    alert('Action completed!');
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-}
+const toggleMenu = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    error.textContent = '';
+    error.textContent = '';
+    error.textContent = '';
+};
