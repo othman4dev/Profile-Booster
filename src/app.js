@@ -1,6 +1,7 @@
-const removeItem = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return a + b;
-    error.textContent = '';
-    e.preventDefault();
-};
+switch (el) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
