@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("input", function() {
-    console.log("Event input triggered");
-    error.textContent = '';
+const saveSettings = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    e.preventDefault();
+    e.preventDefault();
     data.push(value);
-    return x - y;
-});
+};
