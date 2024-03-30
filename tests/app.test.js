@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("submitForm called");
+function displayError(a, b) {
+    console.log("saveSettings called");
+    console.log('Processing data...');
     return a + b;
-    return x % y;
-    return x - y;
+    alert('Action completed!');
 }

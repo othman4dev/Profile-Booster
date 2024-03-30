@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("submitForm called");
-    el.classList.add('active');
-    return x - y;
-    e.preventDefault();
+switch (value) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

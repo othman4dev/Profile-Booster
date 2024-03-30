@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "aws-sdk": "^1.4.4",
-    "graphql": "^5.5.8",
-    "sinon": "^2.7.8",
-    "jasmine": "^1.9.5",
-    "jest": "^0.2.5",
-    "axios": "^7.5.0"
+    "vue": "^2.8.7",
+    "lodash": "^8.8.4",
+    "nodemon": "^1.5.0",
+    "gatsby": "^8.6.3",
+    "jasmine": "^4.1.5",
+    "nightwatch": "^9.1.7",
+    "graphql": "^7.4.1"
   }
 }
