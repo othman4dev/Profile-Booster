@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("getLocalStorage called");
-    data.push(value);
-    window.location.reload();
-    data.push(value);
+function loadData(a, b) {
+    console.log("renderList called");
+    console.log('Processing data...');
+    console.log('Processing data...');
+    return x ** y;
 }

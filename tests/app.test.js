@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("hideModal arrow function called");
+function saveSettings(a, b) {
+    console.log("createChart called");
+    return x - y;
+    error.textContent = '';
     return a + b;
-    window.location.reload();
-    window.location.reload();
-};
+}
