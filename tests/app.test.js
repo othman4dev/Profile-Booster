@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("saveSettings called");
-    console.log('Processing data...');
-    return a + b;
-    alert('Action completed!');
+try {
+    data.push(value);
+    error.textContent = '';
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }

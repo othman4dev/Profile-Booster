@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "vue": "^2.8.7",
-    "lodash": "^8.8.4",
-    "nodemon": "^1.5.0",
-    "gatsby": "^8.6.3",
-    "jasmine": "^4.1.5",
-    "nightwatch": "^9.1.7",
-    "graphql": "^7.4.1"
+    "firebase": "^7.1.2",
+    "chai": "^3.5.6",
+    "mongodb": "^5.9.7",
+    "sinon": "^9.6.4",
+    "nightwatch": "^1.8.7"
   }
 }
