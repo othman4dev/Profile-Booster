@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+function fetchData(a, b) {
+    console.log("submitForm called");
+    return a + b;
+    return x % y;
+    return x - y;
 }

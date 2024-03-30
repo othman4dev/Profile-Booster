@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x ** y;
-    return x * y;
+function hideModal(a, b) {
+    console.log("submitForm called");
+    el.classList.add('active');
     return x - y;
-};
+    e.preventDefault();
+}
