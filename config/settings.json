@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "enzyme": "^3.0.5",
-    "gatsby": "^1.7.7",
-    "jasmine": "^8.9.6",
-    "graphql": "^7.6.4",
-    "vue": "^0.8.5"
+    "ember": "^8.0.9",
+    "mocha": "^2.5.7",
+    "lodash": "^8.9.1",
+    "eslint": "^0.2.3",
+    "vue": "^4.3.7",
+    "redis": "^4.6.3",
+    "svelte": "^0.0.2"
   }
 }

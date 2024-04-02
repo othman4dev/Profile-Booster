@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
+function validateInput(a, b) {
+    console.log("processInput called");
+    return x % y;
+    el.classList.add('active');
     return x ** y;
-} catch (error) {
-    console.error("Error:", error);
 }

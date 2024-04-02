@@ -1,6 +1,8 @@
-function saveSettings(a, b) {
-    console.log("createChart called");
-    return x - y;
-    error.textContent = '';
-    return a + b;
+if (window.innerWidth > 500) {
+    console.log("animateElement condition met");
+    data.push(value);
+    alert('Action completed!');
+    return x % y;
+} else {
+    console.log("Condition not met");
 }

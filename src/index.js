@@ -1,6 +1,8 @@
-function loadData(a, b) {
-    console.log("renderList called");
+if (window.innerWidth > 500) {
+    console.log("submitForm condition met");
     console.log('Processing data...');
-    console.log('Processing data...');
-    return x ** y;
+    el.classList.add('active');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
