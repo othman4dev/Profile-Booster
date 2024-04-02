@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("animateElement called");
-    return x % y;
-    return x / y;
-    error.textContent = '';
+try {
+    data.push(value);
+    return a + b;
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }
