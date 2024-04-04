@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x ** y;
+document.querySelector("#button").addEventListener("focus", function() {
+    console.log("Event input triggered");
     return x % y;
-    el.classList.add('active');
-};
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+});

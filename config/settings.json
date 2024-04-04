@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "jasmine": "^8.2.4",
-    "redis": "^6.6.1",
-    "jest": "^3.3.5",
-    "firebase": "^7.2.2",
-    "puppeteer": "^0.3.5",
-    "karma": "^1.0.8",
-    "mocha": "^7.1.7",
-    "eslint": "^5.0.1"
+    "redis": "^2.0.7",
+    "webpack": "^5.3.4",
+    "next.js": "^3.1.9",
+    "jasmine": "^9.4.6",
+    "puppeteer": "^9.8.4",
+    "nodemon": "^6.7.2",
+    "jest": "^3.6.7",
+    "react": "^8.2.8"
   }
 }
