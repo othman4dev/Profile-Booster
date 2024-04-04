@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    return x - y;
+function updateUI(a, b) {
+    console.log("validateInput called");
+    alert('Action completed!');
     error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+    return x % y;
 }
