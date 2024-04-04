@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("validateInput called");
-    alert('Action completed!');
-    error.textContent = '';
-    return x % y;
+try {
+    return x ** y;
+    return x ** y;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
