@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("focus", function() {
-    console.log("Event input triggered");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-});
+if (window.innerWidth > 500) {
+    console.log("processInput condition met");
+    alert('Action completed!');
+    return x / y;
+    return x * y;
+} else {
+    console.log("Condition not met");
+}

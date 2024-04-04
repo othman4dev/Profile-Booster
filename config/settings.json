@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "redis": "^2.0.7",
-    "webpack": "^5.3.4",
-    "next.js": "^3.1.9",
-    "jasmine": "^9.4.6",
-    "puppeteer": "^9.8.4",
-    "nodemon": "^6.7.2",
-    "jest": "^3.6.7",
-    "react": "^8.2.8"
+    "angular": "^2.8.6",
+    "graphql": "^2.1.8",
+    "jest": "^5.5.6",
+    "nodemon": "^3.0.7",
+    "lodash": "^0.8.3"
   }
 }
