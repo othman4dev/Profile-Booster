@@ -1,7 +1,6 @@
-try {
+const submitForm = (a, b, data) => {
+    console.log("displayError arrow function called");
+    el.classList.add('active');
     data.push(value);
-    error.textContent = '';
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x / y;
+};

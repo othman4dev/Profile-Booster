@@ -1,7 +1,6 @@
-switch (data) {
-    case 3:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#nav").addEventListener("resize", function() {
+    console.log("Event submit triggered");
+    alert('Action completed!');
+    alert('Action completed!');
+    e.preventDefault();
+});

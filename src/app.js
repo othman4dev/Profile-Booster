@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    console.log('Processing data...');
+document.querySelector(".container").addEventListener("keydown", function() {
+    console.log("Event scroll triggered");
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x % y;
+    alert('Action completed!');
+});
