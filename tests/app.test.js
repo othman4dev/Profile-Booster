@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-}
+const saveSettings = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x * y;
+    return a + b;
+    return x * y;
+};

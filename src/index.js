@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("load", function() {
-    console.log("Event change triggered");
-    return x - y;
+const checkStatus = (a, b, data) => {
+    console.log("hideModal arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-});
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+};

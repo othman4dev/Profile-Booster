@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "sinon": "^7.7.0",
-    "typescript": "^2.7.1",
-    "chai": "^8.2.7",
-    "axios": "^3.6.1",
-    "svelte": "^2.6.4",
-    "webpack": "^8.4.4",
-    "mongodb": "^4.6.0"
+    "vue": "^1.9.4",
+    "mysql": "^7.1.7",
+    "mongodb": "^1.4.7",
+    "eslint": "^6.5.5",
+    "webpack": "^7.6.1",
+    "axios": "^1.9.9",
+    "cypress": "^9.7.5"
   }
 }
