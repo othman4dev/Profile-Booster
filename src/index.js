@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event blur triggered");
+    return x % y;
+    return x ** y;
+    data.push(value);
+});

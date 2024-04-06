@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("processInput condition met");
-    alert('Action completed!');
-    return x / y;
+function formatDate(a, b) {
+    console.log("setSessionStorage called");
     return x * y;
-} else {
-    console.log("Condition not met");
+    return a + b;
+    e.preventDefault();
 }

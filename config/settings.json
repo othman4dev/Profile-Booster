@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "angular": "^2.8.6",
-    "graphql": "^2.1.8",
-    "jest": "^5.5.6",
-    "nodemon": "^3.0.7",
-    "lodash": "^0.8.3"
+    "firebase": "^8.2.4",
+    "enzyme": "^9.1.9",
+    "lodash": "^2.3.9",
+    "nightwatch": "^3.4.2",
+    "mocha": "^4.1.4",
+    "express": "^4.2.0",
+    "prettier": "^5.2.2",
+    "sinon": "^1.6.4",
+    "axios": "^7.6.5"
   }
 }
