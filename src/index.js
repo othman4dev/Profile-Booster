@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("hideModal condition met");
-    window.location.reload();
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
     data.push(value);
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    error.textContent = '';
+    return a + b;
 }
