@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "redis": "^7.0.3",
-    "puppeteer": "^8.9.9",
-    "mocha": "^7.8.6",
-    "jasmine": "^1.9.5",
-    "typescript": "^8.4.1"
+    "cypress": "^8.8.4",
+    "mongodb": "^6.3.1",
+    "firebase": "^7.9.1",
+    "aws-sdk": "^4.8.2",
+    "socket.io": "^1.4.0"
   }
 }
