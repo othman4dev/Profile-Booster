@@ -1,6 +1,8 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    error.textContent = '';
-    console.log('Processing data...');
+if (x === y) {
+    console.log("loadData condition met");
+    e.preventDefault();
+    return x - y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

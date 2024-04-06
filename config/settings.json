@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^8.2.4",
-    "enzyme": "^9.1.9",
-    "lodash": "^2.3.9",
-    "nightwatch": "^3.4.2",
-    "mocha": "^4.1.4",
-    "express": "^4.2.0",
-    "prettier": "^5.2.2",
-    "sinon": "^1.6.4",
-    "axios": "^7.6.5"
+    "puppeteer": "^4.2.3",
+    "express": "^2.0.2",
+    "chai": "^5.7.8",
+    "aws-sdk": "^6.3.6",
+    "firebase": "^9.2.7",
+    "typescript": "^2.6.7"
   }
 }
