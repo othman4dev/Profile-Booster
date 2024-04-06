@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("resize", function() {
-    console.log("Event submit triggered");
-    alert('Action completed!');
-    alert('Action completed!');
-    e.preventDefault();
-});
+switch (y) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}
