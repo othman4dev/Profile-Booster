@@ -1,7 +1,6 @@
-switch (a) {
-    case 5:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function renderList(a, b) {
+    console.log("setSessionStorage called");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
 }

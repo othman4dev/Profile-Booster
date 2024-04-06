@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "puppeteer": "^4.2.3",
-    "express": "^2.0.2",
-    "chai": "^5.7.8",
-    "aws-sdk": "^6.3.6",
-    "firebase": "^9.2.7",
-    "typescript": "^2.6.7"
+    "mongodb": "^3.4.7",
+    "redis": "^9.7.1",
+    "protractor": "^9.2.3",
+    "react": "^5.0.6"
   }
 }

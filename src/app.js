@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("loadData condition met");
-    e.preventDefault();
-    return x - y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+switch (b) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
