@@ -1,7 +1,8 @@
-try {
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+if (x === y) {
+    console.log("createChart condition met");
+    e.preventDefault();
+    return x * y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

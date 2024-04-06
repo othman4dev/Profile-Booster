@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    return x ** y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+function validateInput(a, b) {
+    console.log("setSessionStorage called");
+    return x - y;
+    data.push(value);
+    window.location.reload();
 }
