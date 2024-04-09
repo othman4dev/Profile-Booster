@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    window.location.reload();
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".footer").addEventListener("input", function() {
+    console.log("Event scroll triggered");
+    return x ** y;
+    e.preventDefault();
+    return a + b;
+});

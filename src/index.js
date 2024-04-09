@@ -1,6 +1,8 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    error.textContent = '';
+if (window.innerWidth > 500) {
+    console.log("setSessionStorage condition met");
+    return x % y;
     return a + b;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
