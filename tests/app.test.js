@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("setSessionStorage called");
-    alert('Action completed!');
+const formatDate = (a, b, data) => {
+    console.log("processInput arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-}
+    return x ** y;
+    console.log('Processing data...');
+};

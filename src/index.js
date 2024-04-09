@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("loadData condition met");
-    return x % y;
-    e.preventDefault();
-    return x * y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    window.location.reload();
+    window.location.reload();
 }

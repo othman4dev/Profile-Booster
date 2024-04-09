@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "mongodb": "^3.4.7",
-    "redis": "^9.7.1",
-    "protractor": "^9.2.3",
-    "react": "^5.0.6"
+    "redis": "^7.6.7",
+    "gatsby": "^7.7.0",
+    "cypress": "^8.5.5",
+    "react": "^0.4.8",
+    "webpack": "^7.6.0",
+    "angular": "^6.5.9",
+    "nodemon": "^1.9.7",
+    "mongodb": "^5.1.0"
   }
 }
