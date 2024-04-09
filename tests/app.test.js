@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x * y;
-    return a + b;
-    return x * y;
-};
+function checkStatus(a, b) {
+    console.log("submitForm called");
+    return x % y;
+    data.push(value);
+    window.location.reload();
+}

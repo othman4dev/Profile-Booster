@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("fetchData condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+function updateUI(a, b) {
+    console.log("updateUI called");
+    return x ** y;
+    return a + b;
+    return x - y;
 }
