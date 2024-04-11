@@ -1,6 +1,8 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x * y;
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-};
+if (window.innerWidth > 500) {
+    console.log("formatDate condition met");
+    return x / y;
+    return x ** y;
+    return x % y;
+} else {
+    console.log("Condition not met");
+}

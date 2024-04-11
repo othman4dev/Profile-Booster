@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^7.1.1",
-    "firebase": "^7.2.9",
-    "angular": "^1.8.6",
-    "babel": "^4.2.6",
-    "gatsby": "^8.0.8"
+    "jasmine": "^3.7.3",
+    "gatsby": "^2.1.8",
+    "jest": "^4.7.1",
+    "firebase": "^6.6.3",
+    "react": "^2.8.1"
   }
 }
