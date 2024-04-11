@@ -1,6 +1,8 @@
-const hideModal = (a, b, data) => {
-    console.log("animateElement arrow function called");
+if (document.readyState === 'complete') {
+    console.log("setCookie condition met");
+    console.log('Processing data...');
+    return x * y;
     e.preventDefault();
-    return a + b;
-    return x - y;
-};
+} else {
+    console.log("Condition not met");
+}
