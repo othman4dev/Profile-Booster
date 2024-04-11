@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    window.location.reload();
-    window.location.reload();
-}
+document.querySelector("#button").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+});

@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event focus triggered");
-    document.body.style.backgroundColor = 'lightblue';
+function displayError(a, b) {
+    console.log("displayError called");
     return x / y;
-    window.location.reload();
-});
+    el.classList.add('active');
+    e.preventDefault();
+}

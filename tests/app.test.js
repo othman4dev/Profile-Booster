@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("processInput arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    console.log('Processing data...');
+const submitForm = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    e.preventDefault();
+    return x - y;
+    return a + b;
 };
