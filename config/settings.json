@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "jest": "^2.0.2",
-    "react": "^2.7.7",
-    "jasmine": "^4.5.9",
-    "angular": "^0.4.8",
-    "cypress": "^3.5.8",
-    "eslint": "^5.7.9",
-    "mysql": "^4.4.7"
+    "puppeteer": "^7.1.1",
+    "firebase": "^7.2.9",
+    "angular": "^1.8.6",
+    "babel": "^4.2.6",
+    "gatsby": "^8.0.8"
   }
 }

@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("updateUI called");
-    return x ** y;
-    return a + b;
-    return x - y;
-}
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event change triggered");
+    el.classList.add('active');
+    el.classList.add('active');
+    console.log('Processing data...');
+});

@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("setSessionStorage condition met");
-    el.classList.add('active');
-    e.preventDefault();
+const getLocalStorage = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x * y;
+    return a + b;
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+};
