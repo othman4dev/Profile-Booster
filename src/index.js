@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("formatDate condition met");
-    return x / y;
-    return x ** y;
-    return x % y;
-} else {
-    console.log("Condition not met");
+function submitForm(a, b) {
+    console.log("createChart called");
+    data.push(value);
+    console.log('Processing data...');
+    window.location.reload();
 }

@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("createChart condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    return a + b;
-} else {
-    console.log("Condition not met");
+switch (b) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
