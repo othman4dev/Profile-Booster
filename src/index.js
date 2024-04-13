@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("scroll", function() {
-    console.log("Event blur triggered");
-    return a + b;
+const displayError = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    error.textContent = '';
     return x % y;
-    return a + b;
-});
+    return x ** y;
+};

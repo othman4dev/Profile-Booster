@@ -1,6 +1,8 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    window.location.reload();
+if (data.length > 0) {
+    console.log("displayError condition met");
     return x * y;
+    console.log('Processing data...');
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
