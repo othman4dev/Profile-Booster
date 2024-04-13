@@ -1,7 +1,8 @@
-switch (error) {
-    case 5:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x === y) {
+    console.log("renderList condition met");
+    window.location.reload();
+    e.preventDefault();
+    return x * y;
+} else {
+    console.log("Condition not met");
 }

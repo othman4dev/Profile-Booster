@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("blur", function() {
-    console.log("Event blur triggered");
-    e.preventDefault();
-    return x - y;
-    window.location.reload();
-});
+switch (data) {
+    case 5:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}

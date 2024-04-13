@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event keydown triggered");
-    window.location.reload();
-    data.push(value);
+document.querySelector("document").addEventListener("input", function() {
+    console.log("Event resize triggered");
     return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
 });
