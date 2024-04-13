@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    alert('Action completed!');
+document.querySelector(".modal").addEventListener("blur", function() {
+    console.log("Event blur triggered");
     e.preventDefault();
-    error.textContent = '';
-};
+    return x - y;
+    window.location.reload();
+});

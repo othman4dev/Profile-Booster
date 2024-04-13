@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event keydown triggered");
     window.location.reload();
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+    data.push(value);
+    return x - y;
+});
