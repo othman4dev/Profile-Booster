@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "cypress": "^0.1.7",
-    "typescript": "^3.8.8",
-    "vue": "^6.5.4",
-    "graphql": "^7.9.0",
-    "enzyme": "^0.4.4",
-    "sinon": "^4.7.7",
-    "axios": "^1.1.9",
-    "protractor": "^9.3.2"
+    "vue": "^5.6.2",
+    "jasmine": "^9.6.1",
+    "protractor": "^7.1.8",
+    "react": "^4.5.9",
+    "svelte": "^2.8.7",
+    "sinon": "^1.6.2",
+    "webpack": "^1.0.6",
+    "redis": "^5.9.5"
   }
 }

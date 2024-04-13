@@ -1,6 +1,7 @@
-const toggleMenu = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    el.classList.add('active');
-    return x / y;
-    el.classList.add('active');
-};
+try {
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}
