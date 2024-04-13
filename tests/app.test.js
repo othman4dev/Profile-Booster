@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("submitForm called");
-    el.classList.add('active');
-    el.classList.add('active');
-    return x - y;
+function toggleMenu(a, b) {
+    console.log("renderList called");
+    alert('Action completed!');
+    window.location.reload();
+    error.textContent = '';
 }

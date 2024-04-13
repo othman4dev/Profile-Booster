@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^5.5.2",
-    "angular": "^6.1.2",
-    "karma": "^4.7.4",
-    "sinon": "^1.5.4",
-    "babel": "^8.8.1"
+    "webpack": "^4.6.2",
+    "moment": "^1.8.8",
+    "redis": "^3.8.1",
+    "express": "^3.6.7",
+    "chai": "^2.9.7"
   }
 }
