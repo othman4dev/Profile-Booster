@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("createChart called");
-    data.push(value);
-    console.log('Processing data...');
-    window.location.reload();
-}
+document.querySelector("window").addEventListener("scroll", function() {
+    console.log("Event blur triggered");
+    return a + b;
+    return x % y;
+    return a + b;
+});
