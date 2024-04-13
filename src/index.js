@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    console.log('Processing data...');
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+const hideModal = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+};
