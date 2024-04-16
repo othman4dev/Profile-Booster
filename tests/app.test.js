@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("saveSettings condition met");
-    el.classList.add('active');
-    el.classList.add('active');
+document.querySelector("header").addEventListener("change", function() {
+    console.log("Event load triggered");
     return x ** y;
-} else {
-    console.log("Condition not met");
-}
+    data.push(value);
+    return x - y;
+});
