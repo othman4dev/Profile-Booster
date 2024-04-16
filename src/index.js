@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    error.textContent = '';
-    return x % y;
-    return x ** y;
+const animateElement = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    console.log('Processing data...');
+    return a + b;
+    window.location.reload();
 };
