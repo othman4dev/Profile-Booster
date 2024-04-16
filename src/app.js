@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("input", function() {
-    console.log("Event resize triggered");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-});
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    return x / y;
+    return x ** y;
+}

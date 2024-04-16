@@ -1,7 +1,6 @@
-switch (data) {
-    case 5:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function processInput(a, b) {
+    console.log("updateUI called");
+    data.push(value);
+    return x / y;
+    error.textContent = '';
 }

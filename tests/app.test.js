@@ -1,8 +1,8 @@
-if (x === y) {
-    console.log("renderList condition met");
-    window.location.reload();
-    e.preventDefault();
+if (a > b) {
+    console.log("submitForm condition met");
+    alert('Action completed!');
     return x * y;
+    console.log('Processing data...');
 } else {
     console.log("Condition not met");
 }
