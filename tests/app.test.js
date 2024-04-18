@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("change", function() {
-    console.log("Event load triggered");
-    return x ** y;
+if (x === y) {
+    console.log("fetchData condition met");
     data.push(value);
-    return x - y;
-});
+    window.location.reload();
+    return x % y;
+} else {
+    console.log("Condition not met");
+}

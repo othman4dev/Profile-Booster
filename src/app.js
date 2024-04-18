@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("formatDate called");
-    data.push(value);
-    return a + b;
-    return x ** y;
+function checkStatus(a, b) {
+    console.log("saveSettings called");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    return x - y;
 }
