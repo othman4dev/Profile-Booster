@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "next.js": "^9.3.6",
-    "redis": "^1.0.2",
-    "jest": "^5.8.0",
-    "gatsby": "^0.4.9",
-    "react": "^5.2.4"
+    "angular": "^7.4.9",
+    "sinon": "^4.6.4",
+    "nodemon": "^4.5.1",
+    "react": "^8.2.8",
+    "vue": "^4.8.0",
+    "typescript": "^4.6.2",
+    "protractor": "^9.3.9"
   }
 }

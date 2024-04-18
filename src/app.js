@@ -1,6 +1,8 @@
-function checkStatus(a, b) {
-    console.log("saveSettings called");
-    document.body.style.backgroundColor = 'lightblue';
+if (e.key === 'Enter') {
+    console.log("updateUI condition met");
+    data.push(value);
     alert('Action completed!');
-    return x - y;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }
