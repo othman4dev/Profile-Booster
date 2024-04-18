@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "typescript": "^3.3.3",
-    "svelte": "^6.7.8",
-    "puppeteer": "^0.4.2",
-    "prettier": "^5.4.5",
-    "ember": "^4.0.2",
-    "mongodb": "^0.1.9",
-    "jest": "^3.7.1"
+    "lodash": "^5.7.6",
+    "nightwatch": "^1.2.3",
+    "socket.io": "^9.3.7",
+    "react": "^4.7.7",
+    "babel": "^5.7.5",
+    "sinon": "^7.5.8",
+    "mongodb": "^3.3.9",
+    "jasmine": "^8.2.6"
   }
 }
