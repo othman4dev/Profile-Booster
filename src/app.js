@@ -1,7 +1,6 @@
-switch (error) {
-    case 2:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const setCookie = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x ** y;
+    el.classList.add('active');
+    return x * y;
+};

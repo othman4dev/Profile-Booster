@@ -1,7 +1,6 @@
-switch (error) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".modal").addEventListener("resize", function() {
+    console.log("Event input triggered");
+    data.push(value);
+    return x - y;
+    return x - y;
+});
