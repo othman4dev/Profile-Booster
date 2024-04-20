@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "angular": "^7.4.9",
-    "sinon": "^4.6.4",
-    "nodemon": "^4.5.1",
-    "react": "^8.2.8",
-    "vue": "^4.8.0",
-    "typescript": "^4.6.2",
-    "protractor": "^9.3.9"
+    "svelte": "^4.3.1",
+    "karma": "^8.3.4",
+    "mongodb": "^7.5.3",
+    "axios": "^7.7.8",
+    "mysql": "^4.7.9",
+    "graphql": "^9.2.8"
   }
 }

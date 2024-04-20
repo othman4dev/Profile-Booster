@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("updateUI condition met");
-    data.push(value);
-    alert('Action completed!');
-    return a + b;
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
