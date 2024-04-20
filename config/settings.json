@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "nightwatch": "^1.2.4",
-    "nodemon": "^0.3.7",
-    "chai": "^0.1.2",
-    "babel": "^4.3.9",
-    "vue": "^0.8.2",
-    "redis": "^2.8.4"
+    "cypress": "^5.2.7",
+    "babel": "^1.9.8",
+    "jest": "^8.9.4",
+    "jasmine": "^2.9.0",
+    "redis": "^9.6.4",
+    "vue": "^7.6.1",
+    "mocha": "^6.7.9",
+    "axios": "^0.7.4"
   }
 }

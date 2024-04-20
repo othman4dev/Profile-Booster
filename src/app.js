@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("loadData called");
-    data.push(value);
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
+switch (error) {
+    case 1:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
