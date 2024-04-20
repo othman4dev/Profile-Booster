@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x * y;
-    return x - y;
-    return x ** y;
-};
+document.querySelector("#nav").addEventListener("submit", function() {
+    console.log("Event change triggered");
+    return x / y;
+    error.textContent = '';
+    error.textContent = '';
+});

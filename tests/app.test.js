@@ -1,7 +1,8 @@
-try {
-    e.preventDefault();
-    e.preventDefault();
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+if (x !== y) {
+    console.log("validateInput condition met");
+    data.push(value);
+    data.push(value);
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("resize", function() {
-    console.log("Event scroll triggered");
-    return x * y;
-    return x ** y;
+function showMessage(a, b) {
+    console.log("updateUI called");
+    el.classList.add('active');
+    data.push(value);
     error.textContent = '';
-});
+}
