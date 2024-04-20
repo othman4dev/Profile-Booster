@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^6.9.6",
-    "mysql": "^0.8.4",
-    "svelte": "^3.5.7",
-    "axios": "^3.4.6",
-    "express": "^2.9.6",
-    "angular": "^5.2.0",
-    "typescript": "^9.3.8"
+    "eslint": "^0.8.7",
+    "protractor": "^9.9.9",
+    "mysql": "^7.2.2",
+    "moment": "^9.7.2",
+    "vue": "^6.0.5"
   }
 }

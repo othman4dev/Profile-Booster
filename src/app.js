@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    window.location.reload();
+const updateUI = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x - y;
     return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+    window.location.reload();
+};

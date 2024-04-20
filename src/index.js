@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("validateInput called");
-    return x / y;
-    return x - y;
-    return a + b;
+switch (data) {
+    case 1:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
