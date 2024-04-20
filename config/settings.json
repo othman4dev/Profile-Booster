@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^5.7.6",
-    "nightwatch": "^1.2.3",
-    "socket.io": "^9.3.7",
-    "react": "^4.7.7",
-    "babel": "^5.7.5",
-    "sinon": "^7.5.8",
-    "mongodb": "^3.3.9",
-    "jasmine": "^8.2.6"
+    "webpack": "^3.9.4",
+    "graphql": "^7.1.1",
+    "karma": "^2.6.5",
+    "vue": "^8.9.7",
+    "jest": "^1.6.9",
+    "babel": "^8.5.2"
   }
 }
