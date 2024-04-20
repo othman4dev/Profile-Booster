@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("showMessage arrow function called");
+function formatDate(a, b) {
+    console.log("animateElement called");
     return x ** y;
+    console.log('Processing data...');
     el.classList.add('active');
-    return x * y;
-};
+}

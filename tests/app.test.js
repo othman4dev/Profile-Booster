@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event input triggered");
-    data.push(value);
-    return x - y;
-    return x - y;
-});
+try {
+    window.location.reload();
+    alert('Action completed!');
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}

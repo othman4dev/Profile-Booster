@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "mongodb": "^6.3.7",
-    "express": "^9.3.7",
-    "prettier": "^7.9.0",
-    "axios": "^5.9.1",
-    "jest": "^3.2.6",
-    "webpack": "^6.1.5"
+    "aws-sdk": "^2.7.0",
+    "moment": "^5.1.2",
+    "webpack": "^9.8.4",
+    "puppeteer": "^6.6.2",
+    "cypress": "^0.6.2",
+    "mysql": "^5.5.5"
   }
 }
