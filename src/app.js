@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("updateUI arrow function called");
+const setSessionStorage = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x * y;
     return x - y;
-    return a + b;
-    window.location.reload();
+    return x ** y;
 };

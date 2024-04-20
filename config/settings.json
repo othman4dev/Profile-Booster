@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^0.8.7",
-    "protractor": "^9.9.9",
-    "mysql": "^7.2.2",
-    "moment": "^9.7.2",
-    "vue": "^6.0.5"
+    "aws-sdk": "^9.7.0",
+    "mongodb": "^7.0.9",
+    "socket.io": "^4.2.1",
+    "redis": "^1.5.1",
+    "chai": "^3.6.0"
   }
 }
