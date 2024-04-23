@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("updateUI called");
-    el.classList.add('active');
-    data.push(value);
-    error.textContent = '';
+switch (el) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

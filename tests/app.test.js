@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("validateInput condition met");
-    data.push(value);
-    data.push(value);
-    return x / y;
-} else {
-    console.log("Condition not met");
+function renderList(a, b) {
+    console.log("validateInput called");
+    el.classList.add('active');
+    return x * y;
+    e.preventDefault();
 }

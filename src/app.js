@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("submit", function() {
+document.querySelector("#button").addEventListener("focus", function() {
     console.log("Event change triggered");
-    return x / y;
-    error.textContent = '';
-    error.textContent = '';
+    window.location.reload();
+    return x % y;
+    alert('Action completed!');
 });
