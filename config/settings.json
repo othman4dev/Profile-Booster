@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^5.2.7",
-    "babel": "^1.9.8",
-    "jest": "^8.9.4",
-    "jasmine": "^2.9.0",
-    "redis": "^9.6.4",
-    "vue": "^7.6.1",
-    "mocha": "^6.7.9",
-    "axios": "^0.7.4"
+    "firebase": "^2.4.2",
+    "axios": "^0.6.2",
+    "socket.io": "^5.4.5",
+    "ember": "^9.7.1",
+    "vue": "^8.2.8"
   }
 }
