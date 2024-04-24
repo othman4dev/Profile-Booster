@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "jest": "^3.7.8",
-    "cypress": "^5.8.2",
-    "axios": "^0.4.5",
-    "nodemon": "^7.0.9",
-    "mysql": "^6.7.7",
-    "protractor": "^4.7.5"
+    "sinon": "^8.6.9",
+    "typescript": "^1.4.3",
+    "jest": "^7.8.9",
+    "axios": "^8.5.9",
+    "chai": "^2.5.0"
   }
 }

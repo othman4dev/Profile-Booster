@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("displayError condition met");
-    return x * y;
-    console.log('Processing data...');
+try {
+    return x - y;
     e.preventDefault();
-} else {
-    console.log("Condition not met");
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }

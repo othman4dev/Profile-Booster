@@ -1,7 +1,6 @@
-try {
-    return x % y;
+document.querySelector("header").addEventListener("submit", function() {
+    console.log("Event load triggered");
     return x / y;
+    window.location.reload();
     alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+});
