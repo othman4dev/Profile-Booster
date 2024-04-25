@@ -1,6 +1,7 @@
-const validateInput = (a, b, data) => {
-    console.log("displayError arrow function called");
-    el.classList.add('active');
-    return a + b;
-    return x - y;
-};
+try {
+    e.preventDefault();
+    return x ** y;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}
