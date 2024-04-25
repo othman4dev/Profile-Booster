@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("processInput condition met");
-    window.location.reload();
-    return x * y;
+function getLocalStorage(a, b) {
+    console.log("showMessage called");
+    console.log('Processing data...');
+    console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
 }
