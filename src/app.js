@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("showMessage called");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
+function hideModal(a, b) {
+    console.log("formatDate called");
+    error.textContent = '';
+    error.textContent = '';
+    return x - y;
 }
