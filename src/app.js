@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("focus", function() {
-    console.log("Event change triggered");
-    window.location.reload();
-    return x % y;
-    alert('Action completed!');
-});
+if (window.innerWidth > 500) {
+    console.log("displayError condition met");
+    return x * y;
+    console.log('Processing data...');
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}
