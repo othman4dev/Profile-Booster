@@ -1,7 +1,8 @@
-try {
+if (a > b) {
+    console.log("createChart condition met");
+    data.push(value);
     return x % y;
-    console.log('Processing data...');
     window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
