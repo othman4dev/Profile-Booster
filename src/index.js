@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    return x / y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const renderList = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    e.preventDefault();
+    return x * y;
+    console.log('Processing data...');
+};

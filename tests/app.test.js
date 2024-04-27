@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("processInput arrow function called");
-    console.log('Processing data...');
-    return x * y;
-    error.textContent = '';
+const setCookie = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return x % y;
+    return a + b;
+    window.location.reload();
 };
