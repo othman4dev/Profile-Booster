@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("formatDate called");
-    error.textContent = '';
-    error.textContent = '';
-    return x - y;
+switch (data) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

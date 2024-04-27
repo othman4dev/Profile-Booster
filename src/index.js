@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("renderList condition met");
-    window.location.reload();
-    return a + b;
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#button").addEventListener("mouseover", function() {
+    console.log("Event focus triggered");
+    return x / y;
+    console.log('Processing data...');
+    alert('Action completed!');
+});
