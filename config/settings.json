@@ -1,7 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^3.5.7",
-    "redis": "^3.9.3",
-    "chai": "^6.7.9"
+    "react": "^9.9.1",
+    "angular": "^8.7.7",
+    "sinon": "^8.3.6",
+    "karma": "^2.1.7",
+    "jest": "^4.3.2"
   }
 }
