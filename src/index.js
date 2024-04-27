@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("mouseover", function() {
-    console.log("Event focus triggered");
-    return x / y;
-    console.log('Processing data...');
-    alert('Action completed!');
-});
+switch (a) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
