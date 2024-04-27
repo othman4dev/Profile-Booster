@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "svelte": "^0.2.4",
-    "firebase": "^1.9.3",
-    "nightwatch": "^8.8.1",
-    "chai": "^8.7.7",
-    "prettier": "^7.3.5",
-    "socket.io": "^7.0.9",
-    "mocha": "^1.0.9",
-    "sinon": "^6.8.0"
+    "mongodb": "^6.0.2",
+    "gatsby": "^6.6.6",
+    "jasmine": "^6.6.1",
+    "nightwatch": "^9.1.5",
+    "sinon": "^4.5.4",
+    "socket.io": "^1.1.2",
+    "ember": "^6.7.3",
+    "react": "^3.0.8"
   }
 }

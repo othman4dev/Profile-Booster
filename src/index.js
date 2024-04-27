@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    return x % y;
+const saveSettings = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return x - y;
+    return a + b;
     return x * y;
-}
+};

@@ -1,7 +1,6 @@
-try {
+function removeItem(a, b) {
+    console.log("validateInput called");
+    alert('Action completed!');
     document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+    el.classList.add('active');
 }
