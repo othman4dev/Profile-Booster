@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("toggleMenu condition met");
+try {
+    window.location.reload();
+    window.location.reload();
     return x % y;
-    data.push(value);
-    return x - y;
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }
