@@ -1,9 +1,7 @@
 {
   "dependencies": {
-    "sinon": "^8.6.9",
-    "typescript": "^1.4.3",
-    "jest": "^7.8.9",
-    "axios": "^8.5.9",
-    "chai": "^2.5.0"
+    "eslint": "^3.5.7",
+    "redis": "^3.9.3",
+    "chai": "^6.7.9"
   }
 }

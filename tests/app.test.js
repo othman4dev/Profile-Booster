@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event load triggered");
-    return x / y;
-    window.location.reload();
-    alert('Action completed!');
-});
+try {
+    return x ** y;
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}
