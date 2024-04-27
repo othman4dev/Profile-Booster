@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("validateInput called");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
+switch (data) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
