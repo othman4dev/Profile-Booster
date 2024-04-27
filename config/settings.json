@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "react": "^9.9.1",
-    "angular": "^8.7.7",
-    "sinon": "^8.3.6",
-    "karma": "^2.1.7",
-    "jest": "^4.3.2"
+    "jest": "^1.5.7",
+    "enzyme": "^9.2.8",
+    "vue": "^6.1.2",
+    "sinon": "^1.5.0",
+    "puppeteer": "^3.4.3",
+    "mocha": "^8.6.3",
+    "express": "^1.2.3",
+    "mongodb": "^6.1.8",
+    "lodash": "^5.3.9"
   }
 }
