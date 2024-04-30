@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("setCookie arrow function called");
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    return x / y;
     e.preventDefault();
-    return x * y;
-    console.log('Processing data...');
-};
+}
