@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^3.0.4",
-    "protractor": "^5.9.6",
-    "mocha": "^7.8.0",
-    "nodemon": "^5.5.0",
-    "puppeteer": "^4.7.2",
-    "redis": "^7.4.5",
-    "webpack": "^3.9.6"
+    "ember": "^4.2.1",
+    "karma": "^8.9.7",
+    "mongodb": "^9.9.3",
+    "babel": "^9.1.9",
+    "redis": "^1.4.9",
+    "firebase": "^5.5.4"
   }
 }

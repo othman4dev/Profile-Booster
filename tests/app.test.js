@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
+const submitForm = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x % y;
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x % y;
+};
