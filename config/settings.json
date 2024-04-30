@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "jest": "^1.5.7",
-    "enzyme": "^9.2.8",
-    "vue": "^6.1.2",
-    "sinon": "^1.5.0",
-    "puppeteer": "^3.4.3",
-    "mocha": "^8.6.3",
-    "express": "^1.2.3",
-    "mongodb": "^6.1.8",
-    "lodash": "^5.3.9"
+    "next.js": "^1.6.1",
+    "firebase": "^7.5.3",
+    "angular": "^6.8.7",
+    "jasmine": "^0.3.5",
+    "socket.io": "^7.9.7",
+    "typescript": "^5.3.6"
   }
 }

@@ -1,7 +1,6 @@
-switch (a) {
-    case 2:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const removeItem = (a, b, data) => {
+    console.log("processInput arrow function called");
+    console.log('Processing data...');
+    alert('Action completed!');
+    alert('Action completed!');
+};

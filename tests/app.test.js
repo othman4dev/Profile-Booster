@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
+const checkStatus = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x - y;
     e.preventDefault();
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    el.classList.add('active');
+};
