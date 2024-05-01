@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+function renderList(a, b) {
+    console.log("saveSettings called");
+    return x - y;
+    return a + b;
+    console.log('Processing data...');
 }

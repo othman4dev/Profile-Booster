@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("mouseout", function() {
-    console.log("Event load triggered");
-    return x / y;
-    return a + b;
-    return a + b;
-});
+function getLocalStorage(a, b) {
+    console.log("loadData called");
+    error.textContent = '';
+    return x - y;
+    return x - y;
+}
