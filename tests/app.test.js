@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x % y;
-    return x - y;
-    return x % y;
-};
+document.querySelector("form").addEventListener("input", function() {
+    console.log("Event blur triggered");
+    data.push(value);
+    console.log('Processing data...');
+    return x ** y;
+});

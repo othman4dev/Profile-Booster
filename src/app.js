@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("toggleMenu condition met");
+function setSessionStorage(a, b) {
+    console.log("formatDate called");
     console.log('Processing data...');
-    return x - y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
 }
