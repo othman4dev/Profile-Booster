@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("loadData called");
-    error.textContent = '';
-    return x - y;
-    return x - y;
-}
+document.querySelector("document").addEventListener("mouseout", function() {
+    console.log("Event scroll triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    window.location.reload();
+});

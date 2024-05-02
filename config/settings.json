@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^1.6.6",
-    "lodash": "^3.6.8",
-    "nodemon": "^8.0.4",
-    "next.js": "^6.1.4",
-    "aws-sdk": "^2.0.7",
-    "mysql": "^6.8.9",
-    "firebase": "^5.5.4",
-    "gatsby": "^6.6.1",
-    "webpack": "^2.5.3"
+    "lodash": "^4.8.7",
+    "enzyme": "^6.1.5",
+    "socket.io": "^6.3.4",
+    "jest": "^6.3.1",
+    "karma": "^4.0.1",
+    "puppeteer": "^0.7.7"
   }
 }

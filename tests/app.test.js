@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("saveSettings called");
-    return x - y;
-    return a + b;
-    console.log('Processing data...');
+switch (value) {
+    case 4:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
