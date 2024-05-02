@@ -1,6 +1,7 @@
-function setSessionStorage(a, b) {
-    console.log("formatDate called");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
+switch (value) {
+    case 4:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

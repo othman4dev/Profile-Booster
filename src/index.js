@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+const renderList = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    console.log('Processing data...');
+    console.log('Processing data...');
+    console.log('Processing data...');
+};
