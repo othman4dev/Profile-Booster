@@ -1,6 +1,8 @@
-const checkStatus = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
+if (a > b) {
+    console.log("submitForm condition met");
+    return x % y;
     return x - y;
-    e.preventDefault();
-    el.classList.add('active');
-};
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

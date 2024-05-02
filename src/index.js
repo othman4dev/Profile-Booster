@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("processInput arrow function called");
+function submitForm(a, b) {
+    console.log("hideModal called");
+    e.preventDefault();
+    alert('Action completed!');
     console.log('Processing data...');
-    alert('Action completed!');
-    alert('Action completed!');
-};
+}
