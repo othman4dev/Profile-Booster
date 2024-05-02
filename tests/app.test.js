@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("submitForm condition met");
+function removeItem(a, b) {
+    console.log("processInput called");
+    e.preventDefault();
+    return a + b;
     return x % y;
-    return x - y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
 }

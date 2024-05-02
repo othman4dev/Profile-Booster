@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("hideModal called");
-    e.preventDefault();
-    alert('Action completed!');
-    console.log('Processing data...');
+function checkStatus(a, b) {
+    console.log("createChart called");
+    return x * y;
+    return x / y;
+    el.classList.add('active');
 }

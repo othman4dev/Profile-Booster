@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("getLocalStorage condition met");
-    data.push(value);
-    el.classList.add('active');
+const validateInput = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+    return x / y;
+    return x % y;
+};

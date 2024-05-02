@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "ember": "^1.9.0",
-    "enzyme": "^4.3.1",
-    "axios": "^4.4.9",
-    "eslint": "^9.7.7"
+    "puppeteer": "^9.5.4",
+    "gatsby": "^8.5.0",
+    "svelte": "^5.2.7",
+    "webpack": "^7.5.4",
+    "firebase": "^2.3.7"
   }
 }
