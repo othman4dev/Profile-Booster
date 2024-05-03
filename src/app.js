@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("saveSettings called");
-    return x ** y;
-    return x % y;
-    error.textContent = '';
+switch (el) {
+    case 3:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }

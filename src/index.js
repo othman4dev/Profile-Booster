@@ -1,7 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("showMessage condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+if (document.readyState === 'complete') {
+    console.log("formatDate condition met");
+    console.log('Processing data...');
+    return a + b;
     return a + b;
 } else {
     console.log("Condition not met");
