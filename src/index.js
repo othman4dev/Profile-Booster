@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector("#input").addEventListener("scroll", function() {
+    console.log("Event input triggered");
+    return x - y;
+    return a + b;
+    window.location.reload();
+});

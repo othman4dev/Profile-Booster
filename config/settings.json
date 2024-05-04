@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^4.8.7",
-    "enzyme": "^6.1.5",
-    "socket.io": "^6.3.4",
-    "jest": "^6.3.1",
-    "karma": "^4.0.1",
-    "puppeteer": "^0.7.7"
+    "mocha": "^7.8.1",
+    "moment": "^1.2.4",
+    "eslint": "^9.3.2",
+    "react": "^3.8.6",
+    "express": "^6.7.1",
+    "karma": "^8.3.5"
   }
 }

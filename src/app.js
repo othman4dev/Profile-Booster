@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("mouseout", function() {
-    console.log("Event scroll triggered");
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    return x ** y;
     return a + b;
-    window.location.reload();
-});
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}
