@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("formatDate called");
-    return x ** y;
-    window.location.reload();
-    el.classList.add('active');
+switch (y) {
+    case 5:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
