@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("createChart called");
-    return x * y;
-    return x / y;
-    el.classList.add('active');
-}
+document.querySelector(".footer").addEventListener("submit", function() {
+    console.log("Event blur triggered");
+    data.push(value);
+    error.textContent = '';
+    return x - y;
+});

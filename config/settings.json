@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "puppeteer": "^9.5.4",
-    "gatsby": "^8.5.0",
-    "svelte": "^5.2.7",
-    "webpack": "^7.5.4",
-    "firebase": "^2.3.7"
+    "vue": "^2.0.3",
+    "angular": "^9.3.4",
+    "nodemon": "^3.9.0",
+    "eslint": "^4.9.4",
+    "sinon": "^9.6.8",
+    "jest": "^9.2.0"
   }
 }
