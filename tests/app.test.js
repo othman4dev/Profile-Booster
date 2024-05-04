@@ -1,6 +1,8 @@
-function createChart(a, b) {
-    console.log("getLocalStorage called");
-    alert('Action completed!');
-    error.textContent = '';
-    e.preventDefault();
+if (e.key === 'Enter') {
+    console.log("setCookie condition met");
+    return a + b;
+    data.push(value);
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

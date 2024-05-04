@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "babel": "^9.7.3",
-    "chai": "^5.8.3",
-    "next.js": "^4.9.5",
-    "react": "^9.4.5",
-    "webpack": "^8.7.8",
-    "mocha": "^0.2.3"
+    "gatsby": "^7.9.0",
+    "jest": "^2.9.7",
+    "next.js": "^1.9.1",
+    "nodemon": "^4.1.9",
+    "mysql": "^9.1.2"
   }
 }

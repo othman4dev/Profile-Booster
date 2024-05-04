@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("checkStatus condition met");
-    return x - y;
-    return x - y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+function setSessionStorage(a, b) {
+    console.log("saveSettings called");
+    error.textContent = '';
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
 }
