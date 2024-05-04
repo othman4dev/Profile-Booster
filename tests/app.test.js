@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("validateInput condition met");
+document.querySelector("#nav").addEventListener("blur", function() {
+    console.log("Event mouseout triggered");
     return a + b;
-    return a + b;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+    return x / y;
+    data.push(value);
+});

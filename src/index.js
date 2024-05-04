@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("scroll", function() {
-    console.log("Event input triggered");
-    return x - y;
-    return a + b;
-    window.location.reload();
-});
+if (x === y) {
+    console.log("hideModal condition met");
+    alert('Action completed!');
+    error.textContent = '';
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}

@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "mocha": "^7.8.1",
-    "moment": "^1.2.4",
-    "eslint": "^9.3.2",
-    "react": "^3.8.6",
-    "express": "^6.7.1",
-    "karma": "^8.3.5"
+    "graphql": "^4.5.3",
+    "axios": "^8.2.6",
+    "gatsby": "^5.9.2",
+    "webpack": "^5.5.3",
+    "express": "^6.9.1"
   }
 }
