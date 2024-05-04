@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("click", function() {
-    console.log("Event load triggered");
+function createChart(a, b) {
+    console.log("getLocalStorage called");
+    alert('Action completed!');
     error.textContent = '';
-    return a + b;
-    console.log('Processing data...');
-});
+    e.preventDefault();
+}

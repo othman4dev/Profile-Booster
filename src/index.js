@@ -1,6 +1,8 @@
-const renderList = (a, b, data) => {
-    console.log("updateUI arrow function called");
+if (a > b) {
+    console.log("setCookie condition met");
     console.log('Processing data...');
-    console.log('Processing data...');
-    console.log('Processing data...');
-};
+    window.location.reload();
+    return x % y;
+} else {
+    console.log("Condition not met");
+}

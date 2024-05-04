@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jest": "^6.9.9",
-    "nodemon": "^0.3.3",
-    "ember": "^8.5.8",
-    "svelte": "^1.2.5",
-    "aws-sdk": "^0.2.9"
+    "babel": "^9.7.3",
+    "chai": "^5.8.3",
+    "next.js": "^4.9.5",
+    "react": "^9.4.5",
+    "webpack": "^8.7.8",
+    "mocha": "^0.2.3"
   }
 }

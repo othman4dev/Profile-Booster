@@ -1,7 +1,8 @@
-switch (value) {
-    case 4:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x !== y) {
+    console.log("checkStatus condition met");
+    return x - y;
+    return x - y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
