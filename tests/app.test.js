@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("setCookie condition met");
-    return a + b;
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
     data.push(value);
-    data.push(value);
-} else {
-    console.log("Condition not met");
+    return x % y;
 }

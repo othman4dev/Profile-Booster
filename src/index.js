@@ -1,6 +1,7 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    el.classList.add('active');
-    return x - y;
+switch (b) {
+    case 4:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,6 +1,6 @@
 function setSessionStorage(a, b) {
-    console.log("saveSettings called");
-    error.textContent = '';
+    console.log("loadData called");
+    alert('Action completed!');
+    alert('Action completed!');
     console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
 }
