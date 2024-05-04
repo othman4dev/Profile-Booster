@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^4.5.3",
-    "axios": "^8.2.6",
-    "gatsby": "^5.9.2",
-    "webpack": "^5.5.3",
-    "express": "^6.9.1"
+    "chai": "^9.8.4",
+    "moment": "^2.0.6",
+    "angular": "^0.7.2",
+    "redis": "^3.4.0",
+    "gatsby": "^9.5.7",
+    "sinon": "^5.4.6"
   }
 }

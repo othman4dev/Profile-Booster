@@ -1,7 +1,6 @@
-switch (e) {
-    case 3:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x % y;
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+};

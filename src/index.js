@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("hideModal condition met");
-    alert('Action completed!');
-    error.textContent = '';
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+const renderList = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    el.classList.add('active');
+    window.location.reload();
+    window.location.reload();
+};
