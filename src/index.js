@@ -1,6 +1,8 @@
-const renderList = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    el.classList.add('active');
-    window.location.reload();
-    window.location.reload();
-};
+if (e.key === 'Enter') {
+    console.log("hideModal condition met");
+    return x - y;
+    e.preventDefault();
+    return a + b;
+} else {
+    console.log("Condition not met");
+}

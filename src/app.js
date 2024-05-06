@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x % y;
-    e.preventDefault();
+document.querySelector("form").addEventListener("focus", function() {
+    console.log("Event input triggered");
+    window.location.reload();
     document.body.style.backgroundColor = 'lightblue';
-};
+    data.push(value);
+});
