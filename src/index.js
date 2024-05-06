@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("formatDate condition met");
-    console.log('Processing data...');
+try {
     return a + b;
-    return a + b;
-} else {
-    console.log("Condition not met");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }

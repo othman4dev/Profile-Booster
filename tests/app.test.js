@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("setSessionStorage called");
-    el.classList.add('active');
-    error.textContent = '';
-    return x % y;
+switch (x) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
