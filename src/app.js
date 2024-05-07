@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("loadData called");
-    alert('Action completed!');
-    alert('Action completed!');
-    console.log('Processing data...');
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x % y;
+    return x * y;
 }
