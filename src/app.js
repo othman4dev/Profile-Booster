@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    window.location.reload();
-};
+switch (data) {
+    case 4:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

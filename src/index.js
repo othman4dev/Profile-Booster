@@ -1,7 +1,6 @@
-try {
-    return a + b;
+function createChart(a, b) {
+    console.log("toggleMenu called");
     window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+    alert('Action completed!');
+    return a + b;
 }

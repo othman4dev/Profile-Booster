@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "next.js": "^4.9.6",
-    "eslint": "^8.2.7",
-    "gatsby": "^1.9.3",
-    "protractor": "^0.2.7",
-    "lodash": "^6.3.0",
-    "jest": "^0.8.8"
+    "eslint": "^1.2.2",
+    "vue": "^9.8.6",
+    "sinon": "^0.4.8",
+    "babel": "^3.3.9",
+    "nodemon": "^0.3.3"
   }
 }
