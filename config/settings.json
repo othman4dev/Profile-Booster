@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "sinon": "^9.7.2",
-    "aws-sdk": "^8.7.9",
-    "svelte": "^3.0.3",
-    "gatsby": "^3.9.6",
-    "nightwatch": "^5.5.5"
+    "eslint": "^8.7.6",
+    "jasmine": "^0.4.0",
+    "socket.io": "^3.3.4",
+    "mysql": "^4.3.0",
+    "react": "^8.5.0",
+    "nodemon": "^9.3.5",
+    "redis": "^7.4.6",
+    "lodash": "^1.2.1"
   }
 }
