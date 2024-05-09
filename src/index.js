@@ -1,6 +1,8 @@
-function createChart(a, b) {
-    console.log("toggleMenu called");
-    window.location.reload();
-    alert('Action completed!');
-    return a + b;
+if (window.innerWidth > 500) {
+    console.log("setSessionStorage condition met");
+    return x / y;
+    console.log('Processing data...');
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

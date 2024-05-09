@@ -1,7 +1,8 @@
-try {
-    return x ** y;
-    alert('Action completed!');
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+if (document.readyState === 'complete') {
+    console.log("handleClick condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

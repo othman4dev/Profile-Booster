@@ -1,7 +1,6 @@
-switch (data) {
-    case 4:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#input").addEventListener("submit", function() {
+    console.log("Event click triggered");
+    console.log('Processing data...');
+    window.location.reload();
+    return a + b;
+});
