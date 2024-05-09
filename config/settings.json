@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^8.7.6",
-    "jasmine": "^0.4.0",
-    "socket.io": "^3.3.4",
-    "mysql": "^4.3.0",
-    "react": "^8.5.0",
-    "nodemon": "^9.3.5",
-    "redis": "^7.4.6",
-    "lodash": "^1.2.1"
+    "react": "^7.6.8",
+    "cypress": "^8.2.9",
+    "lodash": "^5.2.5",
+    "axios": "^3.0.2",
+    "angular": "^1.7.3"
   }
 }

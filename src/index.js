@@ -1,7 +1,6 @@
-switch (x) {
-    case 5:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function renderList(a, b) {
+    console.log("setCookie called");
+    el.classList.add('active');
+    console.log('Processing data...');
+    data.push(value);
 }

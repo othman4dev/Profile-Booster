@@ -1,6 +1,8 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
+if (e.key === 'Enter') {
+    console.log("processInput condition met");
     return x ** y;
-    return x * y;
     el.classList.add('active');
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
