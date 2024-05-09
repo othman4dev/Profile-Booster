@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("updateUI condition met");
-    window.location.reload();
+function checkStatus(a, b) {
+    console.log("fetchData called");
     console.log('Processing data...');
-    return x ** y;
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
 }
