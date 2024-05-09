@@ -1,7 +1,6 @@
-try {
-    return x - y;
+const checkStatus = (a, b, data) => {
+    console.log("submitForm arrow function called");
     return x / y;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x * y;
+    return x - y;
+};
