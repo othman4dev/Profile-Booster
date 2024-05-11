@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("formatDate called");
-    return x * y;
-    return x * y;
-    data.push(value);
-}
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event scroll triggered");
+    return x % y;
+    el.classList.add('active');
+    return x ** y;
+});

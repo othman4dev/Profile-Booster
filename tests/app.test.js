@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("updateUI called");
+const getLocalStorage = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    return x * y;
-}
+    return x / y;
+    return x % y;
+};
