@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("focus", function() {
-    console.log("Event scroll triggered");
-    error.textContent = '';
-    data.push(value);
-    e.preventDefault();
-});
+const hideModal = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    el.classList.add('active');
+    return x ** y;
+    el.classList.add('active');
+};
