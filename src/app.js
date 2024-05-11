@@ -1,7 +1,6 @@
-switch (value) {
-    case 3:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const toggleMenu = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return a + b;
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+};

@@ -1,6 +1,7 @@
-const formatDate = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    alert('Action completed!');
+try {
     e.preventDefault();
+    console.log('Processing data...');
     el.classList.add('active');
-};
+} catch (error) {
+    console.error("Error:", error);
+}
