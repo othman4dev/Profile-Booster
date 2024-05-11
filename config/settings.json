@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "enzyme": "^4.4.3",
-    "svelte": "^0.0.0",
-    "firebase": "^2.7.9",
-    "vue": "^1.7.0",
-    "karma": "^7.5.7"
+    "ember": "^2.7.6",
+    "cypress": "^4.7.6",
+    "angular": "^5.3.7",
+    "chai": "^5.9.6",
+    "axios": "^3.9.1",
+    "jest": "^3.8.4",
+    "lodash": "^3.4.9"
   }
 }

@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    error.textContent = '';
-    return x - y;
-    return x % y;
-};
+document.querySelector("window").addEventListener("blur", function() {
+    console.log("Event scroll triggered");
+    el.classList.add('active');
+    window.location.reload();
+    data.push(value);
+});

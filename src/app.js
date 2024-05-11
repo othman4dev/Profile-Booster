@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    el.classList.add('active');
-    return x ** y;
-    el.classList.add('active');
-};
+document.querySelector(".container").addEventListener("scroll", function() {
+    console.log("Event click triggered");
+    console.log('Processing data...');
+    return a + b;
+    return x % y;
+});
