@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("processInput condition met");
-    return x ** y;
-    el.classList.add('active');
-    return x % y;
-} else {
-    console.log("Condition not met");
+try {
+    window.location.reload();
+    console.log('Processing data...');
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }

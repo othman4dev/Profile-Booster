@@ -1,6 +1,8 @@
-function renderList(a, b) {
-    console.log("setCookie called");
-    el.classList.add('active');
-    console.log('Processing data...');
-    data.push(value);
+if (x === y) {
+    console.log("hideModal condition met");
+    return x % y;
+    return a + b;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
