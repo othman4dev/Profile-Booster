@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("createChart called");
-    alert('Action completed!');
-    e.preventDefault();
-    console.log('Processing data...');
+function hideModal(a, b) {
+    console.log("toggleMenu called");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    el.classList.add('active');
 }

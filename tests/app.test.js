@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    return x % y;
-};
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    return x ** y;
+    console.log('Processing data...');
+}

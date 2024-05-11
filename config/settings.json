@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "jest": "^4.9.0",
-    "mocha": "^9.6.8",
-    "webpack": "^9.6.3",
-    "cypress": "^9.7.9"
+    "axios": "^2.4.0",
+    "svelte": "^0.5.7",
+    "graphql": "^0.3.4",
+    "gatsby": "^2.7.8",
+    "mocha": "^4.3.4"
   }
 }
