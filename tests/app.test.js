@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("handleClick condition met");
+if (window.innerWidth > 500) {
+    console.log("validateInput condition met");
+    console.log('Processing data...');
+    return x * y;
     document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    return x / y;
 } else {
     console.log("Condition not met");
 }

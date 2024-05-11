@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "moment": "^5.9.5",
-    "webpack": "^3.2.0",
-    "gatsby": "^0.7.5",
-    "eslint": "^2.8.1",
-    "cypress": "^4.5.1",
-    "nightwatch": "^0.8.3",
-    "mocha": "^6.8.7",
-    "axios": "^8.3.2",
-    "chai": "^4.2.9"
+    "chai": "^4.4.8",
+    "graphql": "^7.1.2",
+    "mongodb": "^3.9.6",
+    "enzyme": "^0.2.2",
+    "nodemon": "^7.4.8"
   }
 }

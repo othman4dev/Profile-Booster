@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("submit", function() {
-    console.log("Event click triggered");
-    console.log('Processing data...');
-    window.location.reload();
+try {
+    data.push(value);
     return a + b;
-});
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}
