@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    e.preventDefault();
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+function processInput(a, b) {
+    console.log("formatDate called");
+    return x * y;
+    return x * y;
+    data.push(value);
 }
