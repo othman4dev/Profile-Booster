@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("toggleMenu called");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
+function formatDate(a, b) {
+    console.log("animateElement called");
+    return x ** y;
     el.classList.add('active');
+    return x - y;
 }
