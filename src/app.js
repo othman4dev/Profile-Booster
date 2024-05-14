@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event click triggered");
-    console.log('Processing data...');
-    return a + b;
-    return x % y;
-});
+const hideModal = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x ** y;
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+};

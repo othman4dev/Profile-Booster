@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "ember": "^2.7.6",
-    "cypress": "^4.7.6",
-    "angular": "^5.3.7",
-    "chai": "^5.9.6",
-    "axios": "^3.9.1",
-    "jest": "^3.8.4",
-    "lodash": "^3.4.9"
+    "next.js": "^4.4.2",
+    "svelte": "^2.6.3",
+    "chai": "^5.2.4",
+    "express": "^4.3.9",
+    "puppeteer": "^8.2.9",
+    "protractor": "^0.9.3",
+    "nightwatch": "^5.4.3"
   }
 }
