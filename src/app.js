@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("updateUI arrow function called");
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
     return a + b;
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+    data.push(value);
+}

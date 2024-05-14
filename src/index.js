@@ -1,7 +1,7 @@
 try {
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    alert('Action completed!');
+    return x % y;
 } catch (error) {
     console.error("Error:", error);
 }
