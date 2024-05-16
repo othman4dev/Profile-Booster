@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "mongodb": "^0.5.7",
-    "express": "^6.5.5",
-    "graphql": "^4.7.8",
-    "angular": "^5.1.7",
-    "react": "^8.8.7",
-    "nightwatch": "^5.3.9"
+    "prettier": "^7.0.2",
+    "mocha": "^5.7.0",
+    "firebase": "^8.0.8",
+    "express": "^0.8.3",
+    "next.js": "^8.4.7",
+    "mongodb": "^4.5.5",
+    "karma": "^2.5.5",
+    "enzyme": "^7.9.2"
   }
 }
