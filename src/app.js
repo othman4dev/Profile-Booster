@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event change triggered");
-    error.textContent = '';
-    e.preventDefault();
-    window.location.reload();
-});
+if (e.key === 'Enter') {
+    console.log("createChart condition met");
+    data.push(value);
+    data.push(value);
+    return x % y;
+} else {
+    console.log("Condition not met");
+}

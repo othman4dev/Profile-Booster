@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("saveSettings condition met");
-    return x ** y;
+document.querySelector("#input").addEventListener("input", function() {
+    console.log("Event mouseover triggered");
+    error.textContent = '';
     return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+    return a + b;
+});
