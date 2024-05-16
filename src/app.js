@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    return x ** y;
-    return x % y;
-}
+const animateElement = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+};

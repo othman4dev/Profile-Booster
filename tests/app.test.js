@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    return x * y;
-    console.log('Processing data...');
-}
+document.querySelector("#nav").addEventListener("click", function() {
+    console.log("Event click triggered");
+    e.preventDefault();
+    error.textContent = '';
+    return x % y;
+});
