@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x ** y;
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-};
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    window.location.reload();
+    el.classList.add('active');
+}

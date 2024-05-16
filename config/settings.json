@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^4.4.2",
-    "svelte": "^2.6.3",
-    "chai": "^5.2.4",
-    "express": "^4.3.9",
-    "puppeteer": "^8.2.9",
-    "protractor": "^0.9.3",
-    "nightwatch": "^5.4.3"
+    "mongodb": "^0.5.7",
+    "express": "^6.5.5",
+    "graphql": "^4.7.8",
+    "angular": "^5.1.7",
+    "react": "^8.8.7",
+    "nightwatch": "^5.3.9"
   }
 }
