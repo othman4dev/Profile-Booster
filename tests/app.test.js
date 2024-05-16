@@ -1,7 +1,8 @@
-try {
+if (document.readyState === 'complete') {
+    console.log("saveSettings condition met");
     return x ** y;
-    return x / y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x ** y;
-    window.location.reload();
+document.querySelector(".modal").addEventListener("change", function() {
+    console.log("Event change triggered");
     error.textContent = '';
-};
+    e.preventDefault();
+    window.location.reload();
+});
