@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    alert('Action completed!');
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("document").addEventListener("blur", function() {
+    console.log("Event resize triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    return x - y;
+});
