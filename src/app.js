@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("setCookie called");
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-}
+document.querySelector("#input").addEventListener("scroll", function() {
+    console.log("Event focus triggered");
+    return x - y;
+    window.location.reload();
+    return x % y;
+});

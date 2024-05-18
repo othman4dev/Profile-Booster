@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    alert('Action completed!');
-    alert('Action completed!');
-    return x - y;
-};
+function formatDate(a, b) {
+    console.log("processInput called");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    error.textContent = '';
+}
