@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("click", function() {
-    console.log("Event click triggered");
-    e.preventDefault();
-    error.textContent = '';
-    return x % y;
-});
+if (window.innerWidth > 500) {
+    console.log("setCookie condition met");
+    return x * y;
+    el.classList.add('active');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}

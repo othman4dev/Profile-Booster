@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "mongodb": "^7.9.4",
-    "aws-sdk": "^4.1.6",
-    "next.js": "^3.5.2",
-    "mocha": "^0.3.7",
-    "mysql": "^2.6.1"
+    "firebase": "^6.1.0",
+    "mysql": "^3.4.1",
+    "enzyme": "^5.5.8",
+    "vue": "^7.5.9",
+    "jest": "^2.0.2",
+    "nightwatch": "^3.0.9",
+    "prettier": "^2.8.5",
+    "webpack": "^2.6.2",
+    "protractor": "^7.3.0"
   }
 }
