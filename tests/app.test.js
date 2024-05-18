@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("click", function() {
-    console.log("Event scroll triggered");
-    e.preventDefault();
-    return x / y;
-    return x ** y;
-});
+function setCookie(a, b) {
+    console.log("processInput called");
+    el.classList.add('active');
+    window.location.reload();
+    error.textContent = '';
+}

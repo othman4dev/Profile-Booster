@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "prettier": "^7.0.2",
-    "mocha": "^5.7.0",
-    "firebase": "^8.0.8",
-    "express": "^0.8.3",
-    "next.js": "^8.4.7",
-    "mongodb": "^4.5.5",
-    "karma": "^2.5.5",
-    "enzyme": "^7.9.2"
+    "jest": "^9.4.5",
+    "protractor": "^1.8.3",
+    "angular": "^6.6.5",
+    "next.js": "^2.3.5",
+    "firebase": "^2.2.8",
+    "webpack": "^0.6.1",
+    "mongodb": "^5.0.2",
+    "axios": "^5.4.8"
   }
 }

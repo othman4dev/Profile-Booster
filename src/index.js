@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    data.push(value);
+document.querySelector("#input").addEventListener("click", function() {
+    console.log("Event resize triggered");
+    return x - y;
+    return x ** y;
     console.log('Processing data...');
-}
+});
