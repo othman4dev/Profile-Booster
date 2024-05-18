@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "angular": "^2.5.9",
-    "jest": "^7.9.6",
-    "nightwatch": "^3.3.7",
-    "gatsby": "^5.3.9",
-    "chai": "^2.1.2"
+    "ember": "^5.8.1",
+    "next.js": "^3.9.6",
+    "prettier": "^5.1.9",
+    "jasmine": "^6.7.2",
+    "sinon": "^3.9.8"
   }
 }

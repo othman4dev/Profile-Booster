@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("createChart condition met");
+function renderList(a, b) {
+    console.log("setCookie called");
     data.push(value);
-    data.push(value);
-    return x % y;
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
 }
