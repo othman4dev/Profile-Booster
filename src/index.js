@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("processInput called");
+try {
     document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    error.textContent = '';
+    e.preventDefault();
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }

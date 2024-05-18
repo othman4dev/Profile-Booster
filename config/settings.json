@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^3.9.3",
-    "firebase": "^4.8.9",
-    "webpack": "^6.5.6",
-    "angular": "^1.2.8",
-    "protractor": "^2.3.5",
-    "react": "^8.9.8",
-    "eslint": "^2.0.4"
+    "jasmine": "^8.1.5",
+    "next.js": "^5.6.6",
+    "vue": "^3.8.4",
+    "jest": "^6.8.6",
+    "cypress": "^3.4.7"
   }
 }

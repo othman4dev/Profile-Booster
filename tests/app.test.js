@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("checkStatus called");
-    return a + b;
-    return a + b;
-    error.textContent = '';
+switch (y) {
+    case 1:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
