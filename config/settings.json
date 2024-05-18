@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "next.js": "^5.9.2",
-    "protractor": "^4.4.7",
-    "enzyme": "^5.8.0",
-    "graphql": "^3.7.9",
-    "vue": "^7.3.9",
-    "mysql": "^1.0.2",
-    "jest": "^7.1.9"
+    "moment": "^7.7.4",
+    "vue": "^9.8.8",
+    "socket.io": "^8.6.8",
+    "ember": "^6.7.1",
+    "express": "^0.6.0"
   }
 }

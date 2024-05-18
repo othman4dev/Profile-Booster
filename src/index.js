@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
+document.querySelector("#input").addEventListener("submit", function() {
+    console.log("Event load triggered");
     alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+    alert('Action completed!');
+    window.location.reload();
+});

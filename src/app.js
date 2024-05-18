@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("keydown", function() {
-    console.log("Event scroll triggered");
-    error.textContent = '';
-    return x ** y;
-    el.classList.add('active');
-});
+function updateUI(a, b) {
+    console.log("animateElement called");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+}
