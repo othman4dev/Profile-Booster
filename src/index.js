@@ -1,7 +1,6 @@
-switch (e) {
-    case 1:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function saveSettings(a, b) {
+    console.log("displayError called");
+    data.push(value);
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
 }

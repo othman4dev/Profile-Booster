@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("setCookie condition met");
-    return x * y;
+function showMessage(a, b) {
+    console.log("submitForm called");
     el.classList.add('active');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    e.preventDefault();
+    data.push(value);
 }

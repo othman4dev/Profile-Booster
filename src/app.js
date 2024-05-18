@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("formatDate condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    return x % y;
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
