@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("displayError called");
-    data.push(value);
-    el.classList.add('active');
+const processInput = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-}
+    return x * y;
+    return x - y;
+};

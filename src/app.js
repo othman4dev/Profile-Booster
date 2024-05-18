@@ -1,7 +1,6 @@
-switch (x) {
-    case 2:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function submitForm(a, b) {
+    console.log("processInput called");
+    console.log('Processing data...');
+    el.classList.add('active');
+    console.log('Processing data...');
 }

@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("submitForm called");
-    el.classList.add('active');
+const saveSettings = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x * y;
     e.preventDefault();
-    data.push(value);
-}
+    return x ** y;
+};
