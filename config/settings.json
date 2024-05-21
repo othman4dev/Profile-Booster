@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^8.1.5",
-    "next.js": "^5.6.6",
-    "vue": "^3.8.4",
-    "jest": "^6.8.6",
-    "cypress": "^3.4.7"
+    "mongodb": "^8.4.0",
+    "jest": "^9.8.8",
+    "webpack": "^8.1.5",
+    "protractor": "^9.8.7",
+    "next.js": "^5.8.6"
   }
 }

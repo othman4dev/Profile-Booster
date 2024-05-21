@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
+function handleClick(a, b) {
+    console.log("getLocalStorage called");
+    console.log('Processing data...');
     data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+    console.log('Processing data...');
 }

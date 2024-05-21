@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    console.log('Processing data...');
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    return a + b;
+    return x * y;
 }
