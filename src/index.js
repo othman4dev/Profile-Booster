@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    return x - y;
-};
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return x % y;
+    return x / y;
+}

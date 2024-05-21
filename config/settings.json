@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "nightwatch": "^7.8.2",
-    "mocha": "^9.9.8",
-    "protractor": "^6.6.7",
-    "socket.io": "^6.0.0",
-    "lodash": "^8.3.6",
-    "jest": "^8.5.2",
-    "enzyme": "^1.4.3",
-    "graphql": "^7.0.8"
+    "redis": "^3.0.8",
+    "ember": "^9.8.0",
+    "express": "^8.2.1",
+    "webpack": "^8.8.5"
   }
 }
