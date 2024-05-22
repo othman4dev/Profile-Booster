@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    return x % y;
-    return x / y;
-}
+const loadData = (a, b, data) => {
+    console.log("processInput arrow function called");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+};

@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("mouseover", function() {
-    console.log("Event scroll triggered");
+function getLocalStorage(a, b) {
+    console.log("hideModal called");
+    return x % y;
     return x / y;
-    return a + b;
-    window.location.reload();
-});
+    document.body.style.backgroundColor = 'lightblue';
+}
