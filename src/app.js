@@ -1,7 +1,8 @@
-try {
-    e.preventDefault();
+if (x !== y) {
+    console.log("checkStatus condition met");
     return x / y;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+    e.preventDefault();
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

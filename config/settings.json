@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^5.8.9",
-    "puppeteer": "^5.2.4",
-    "ember": "^7.6.6",
-    "moment": "^4.2.9",
-    "vue": "^6.7.7"
+    "jest": "^1.2.6",
+    "enzyme": "^5.6.9",
+    "mysql": "^3.7.1",
+    "eslint": "^9.6.9",
+    "chai": "^5.7.4",
+    "cypress": "^1.4.4"
   }
 }
