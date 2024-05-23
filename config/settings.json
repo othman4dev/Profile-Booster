@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^8.4.0",
-    "jest": "^9.8.8",
-    "webpack": "^8.1.5",
-    "protractor": "^9.8.7",
-    "next.js": "^5.8.6"
+    "enzyme": "^5.8.9",
+    "puppeteer": "^5.2.4",
+    "ember": "^7.6.6",
+    "moment": "^4.2.9",
+    "vue": "^6.7.7"
   }
 }

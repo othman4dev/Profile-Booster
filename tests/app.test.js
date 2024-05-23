@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("displayError called");
-    error.textContent = '';
-    el.classList.add('active');
+function setCookie(a, b) {
+    console.log("updateUI called");
     return a + b;
+    return a + b;
+    window.location.reload();
 }
