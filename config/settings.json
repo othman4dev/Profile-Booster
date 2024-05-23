@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "redis": "^3.0.8",
-    "ember": "^9.8.0",
-    "express": "^8.2.1",
-    "webpack": "^8.8.5"
+    "babel": "^8.4.3",
+    "puppeteer": "^9.5.9",
+    "vue": "^5.4.7",
+    "moment": "^5.8.4",
+    "mysql": "^8.2.1"
   }
 }

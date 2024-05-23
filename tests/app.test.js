@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("submit", function() {
-    console.log("Event change triggered");
-    return x % y;
-    console.log('Processing data...');
-    return x - y;
-});
+switch (el) {
+    case 1:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
