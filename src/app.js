@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    return x - y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+const saveSettings = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    el.classList.add('active');
+    return a + b;
+    window.location.reload();
+};
