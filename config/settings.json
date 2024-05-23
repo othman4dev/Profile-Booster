@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "nightwatch": "^0.1.6",
-    "typescript": "^8.1.2",
-    "mysql": "^9.7.5",
-    "jasmine": "^1.7.4",
-    "karma": "^1.8.6"
+    "jasmine": "^4.3.4",
+    "karma": "^3.5.0",
+    "react": "^4.4.3",
+    "chai": "^9.3.6",
+    "axios": "^6.7.6"
   }
 }

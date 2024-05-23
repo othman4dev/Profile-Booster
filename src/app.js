@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    el.classList.add('active');
-    return a + b;
-    window.location.reload();
-};
+function hideModal(a, b) {
+    console.log("processInput called");
+    alert('Action completed!');
+    return x ** y;
+    return x - y;
+}
