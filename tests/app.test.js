@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("displayError called");
-    error.textContent = '';
-    return x / y;
-    window.location.reload();
-}
+document.querySelector(".container").addEventListener("focus", function() {
+    console.log("Event submit triggered");
+    data.push(value);
+    data.push(value);
+    data.push(value);
+});
