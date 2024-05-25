@@ -1,6 +1,8 @@
-const toggleMenu = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x % y;
-    return x - y;
-    error.textContent = '';
-};
+if (x === y) {
+    console.log("fetchData condition met");
+    return x / y;
+    e.preventDefault();
+    return a + b;
+} else {
+    console.log("Condition not met");
+}

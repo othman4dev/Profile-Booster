@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("mouseover", function() {
-    console.log("Event blur triggered");
-    return x ** y;
-    alert('Action completed!');
-    return x % y;
-});
+const setSessionStorage = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x - y;
+    e.preventDefault();
+    return a + b;
+};

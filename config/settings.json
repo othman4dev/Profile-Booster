@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "nightwatch": "^0.0.6",
-    "mocha": "^3.7.9",
-    "gatsby": "^2.6.9",
-    "ember": "^4.4.8",
-    "socket.io": "^6.7.1",
-    "aws-sdk": "^7.1.0",
-    "redis": "^7.8.1",
-    "axios": "^2.8.0",
-    "react": "^9.4.4"
+    "babel": "^4.5.5",
+    "karma": "^5.7.5",
+    "enzyme": "^4.5.3",
+    "moment": "^0.4.1",
+    "prettier": "^6.1.4"
   }
 }

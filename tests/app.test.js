@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("setSessionStorage called");
-    data.push(value);
-    data.push(value);
-    return x - y;
+try {
+    el.classList.add('active');
+    return x * y;
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }
