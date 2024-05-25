@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("processInput called");
-    alert('Action completed!');
-    return x ** y;
-    return x - y;
+switch (y) {
+    case 1:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

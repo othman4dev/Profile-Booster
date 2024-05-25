@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("focus", function() {
-    console.log("Event keydown triggered");
-    window.location.reload();
-    return a + b;
-    el.classList.add('active');
-});
+switch (a) {
+    case 2:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
