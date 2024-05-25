@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("showMessage arrow function called");
+document.querySelector("#nav").addEventListener("input", function() {
+    console.log("Event click triggered");
     error.textContent = '';
     el.classList.add('active');
-    el.classList.add('active');
-};
+    window.location.reload();
+});

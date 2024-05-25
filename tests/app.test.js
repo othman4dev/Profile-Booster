@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
+function getLocalStorage(a, b) {
+    console.log("updateUI called");
+    error.textContent = '';
     return x % y;
-} catch (error) {
-    console.error("Error:", error);
+    window.location.reload();
 }
