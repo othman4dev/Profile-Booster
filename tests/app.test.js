@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("saveSettings condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+switch (el) {
+    case 1:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

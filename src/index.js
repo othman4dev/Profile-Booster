@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("processInput arrow function called");
-    alert('Action completed!');
+const handleClick = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+    return x / y;
 };
