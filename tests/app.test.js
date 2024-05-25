@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("click", function() {
-    console.log("Event scroll triggered");
-    console.log('Processing data...');
-    return x * y;
-    return x - y;
-});
+function setSessionStorage(a, b) {
+    console.log("displayError called");
+    error.textContent = '';
+    return x / y;
+    window.location.reload();
+}
