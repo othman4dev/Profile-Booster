@@ -1,7 +1,6 @@
-switch (el) {
-    case 1:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function animateElement(a, b) {
+    console.log("setSessionStorage called");
+    data.push(value);
+    data.push(value);
+    return x - y;
 }

@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
+const toggleMenu = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x % y;
+    return x - y;
+    error.textContent = '';
 };

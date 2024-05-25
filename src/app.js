@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    e.preventDefault();
+document.querySelector(".footer").addEventListener("mouseover", function() {
+    console.log("Event blur triggered");
     return x ** y;
+    alert('Action completed!');
     return x % y;
-};
+});
