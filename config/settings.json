@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "jest": "^3.2.7",
-    "axios": "^4.4.9",
-    "ember": "^3.0.9",
-    "react": "^8.4.6",
-    "moment": "^7.9.6",
-    "express": "^5.2.0",
-    "next.js": "^7.5.7"
+    "cypress": "^8.9.3",
+    "vue": "^4.8.5",
+    "jest": "^4.7.5",
+    "karma": "^2.7.5",
+    "next.js": "^4.0.5",
+    "react": "^8.0.3",
+    "protractor": "^9.3.1",
+    "mysql": "^9.5.5",
+    "enzyme": "^8.1.4"
   }
 }
