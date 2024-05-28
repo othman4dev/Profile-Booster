@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "mysql": "^5.7.9",
-    "ember": "^5.0.9",
-    "enzyme": "^4.7.7",
-    "protractor": "^0.4.1",
-    "lodash": "^0.0.3",
-    "puppeteer": "^7.4.4"
+    "chai": "^9.8.3",
+    "redis": "^2.1.4",
+    "protractor": "^1.6.0",
+    "mongodb": "^7.4.6",
+    "next.js": "^4.1.7",
+    "mysql": "^3.9.7",
+    "jest": "^8.5.0",
+    "nightwatch": "^3.0.1"
   }
 }

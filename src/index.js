@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("input", function() {
-    console.log("Event click triggered");
-    error.textContent = '';
-    el.classList.add('active');
-    window.location.reload();
-});
+function handleClick(a, b) {
+    console.log("createChart called");
+    alert('Action completed!');
+    return a + b;
+    data.push(value);
+}

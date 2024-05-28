@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("updateUI called");
-    error.textContent = '';
+document.querySelector(".footer").addEventListener("change", function() {
+    console.log("Event focus triggered");
+    return a + b;
     return x % y;
-    window.location.reload();
-}
+    e.preventDefault();
+});
