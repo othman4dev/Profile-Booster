@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("fetchData condition met");
-    return x / y;
-    e.preventDefault();
+const displayError = (a, b, data) => {
+    console.log("showMessage arrow function called");
     return a + b;
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+    alert('Action completed!');
+};

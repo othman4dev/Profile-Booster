@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return x - y;
-    e.preventDefault();
-    return a + b;
-};
+switch (y) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
+document.querySelector("window").addEventListener("scroll", function() {
+    console.log("Event load triggered");
     return x * y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    data.push(value);
+    data.push(value);
+});

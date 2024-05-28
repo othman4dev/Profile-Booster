@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "babel": "^4.5.5",
-    "karma": "^5.7.5",
-    "enzyme": "^4.5.3",
-    "moment": "^0.4.1",
-    "prettier": "^6.1.4"
+    "lodash": "^7.4.0",
+    "puppeteer": "^7.1.5",
+    "react": "^4.3.6",
+    "svelte": "^5.0.9",
+    "vue": "^0.3.6",
+    "typescript": "^7.5.4"
   }
 }
