@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("processInput arrow function called");
-    el.classList.add('active');
-    return x ** y;
-    error.textContent = '';
-};
+document.querySelector(".container").addEventListener("load", function() {
+    console.log("Event scroll triggered");
+    return x / y;
+    alert('Action completed!');
+    return a + b;
+});

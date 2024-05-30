@@ -1,7 +1,6 @@
-switch (a) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function fetchData(a, b) {
+    console.log("formatDate called");
+    e.preventDefault();
+    el.classList.add('active');
+    return x ** y;
 }
