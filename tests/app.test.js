@@ -1,7 +1,6 @@
-switch (value) {
-    case 3:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("form").addEventListener("load", function() {
+    console.log("Event click triggered");
+    alert('Action completed!');
+    window.location.reload();
+    console.log('Processing data...');
+});

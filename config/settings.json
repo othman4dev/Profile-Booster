@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "mongodb": "^1.4.1",
-    "puppeteer": "^1.7.8",
-    "protractor": "^2.1.2",
-    "jasmine": "^9.8.8",
-    "socket.io": "^0.3.4",
-    "nodemon": "^9.1.6"
+    "next.js": "^9.7.5",
+    "nightwatch": "^6.9.5",
+    "gatsby": "^9.5.4",
+    "babel": "^0.4.6",
+    "sinon": "^6.9.9",
+    "vue": "^7.2.7",
+    "webpack": "^0.7.4",
+    "aws-sdk": "^6.5.8"
   }
 }

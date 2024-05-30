@@ -1,7 +1,6 @@
-switch (el) {
-    case 3:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#button").addEventListener("keydown", function() {
+    console.log("Event blur triggered");
+    el.classList.add('active');
+    return a + b;
+    return x - y;
+});
