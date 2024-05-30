@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("validateInput condition met");
+document.querySelector("window").addEventListener("submit", function() {
+    console.log("Event blur triggered");
     el.classList.add('active');
-    error.textContent = '';
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+    e.preventDefault();
+});
