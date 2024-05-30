@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("createChart called");
-    alert('Action completed!');
-    return a + b;
-    data.push(value);
-}
+const fetchData = (a, b, data) => {
+    console.log("processInput arrow function called");
+    el.classList.add('active');
+    return x ** y;
+    error.textContent = '';
+};
