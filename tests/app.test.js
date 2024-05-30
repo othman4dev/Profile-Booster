@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("scroll", function() {
-    console.log("Event load triggered");
-    return x * y;
-    data.push(value);
-    data.push(value);
-});
+function hideModal(a, b) {
+    console.log("renderList called");
+    return x - y;
+    return x - y;
+    return x ** y;
+}

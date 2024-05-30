@@ -1,6 +1,8 @@
-const displayError = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return a + b;
-    return x * y;
-    alert('Action completed!');
-};
+if (e.key === 'Enter') {
+    console.log("validateInput condition met");
+    el.classList.add('active');
+    error.textContent = '';
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}
