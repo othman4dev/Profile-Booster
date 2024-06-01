@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("load", function() {
-    console.log("Event click triggered");
-    alert('Action completed!');
-    window.location.reload();
-    console.log('Processing data...');
-});
+if (value !== '') {
+    console.log("saveSettings condition met");
+    return x - y;
+    return a + b;
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
