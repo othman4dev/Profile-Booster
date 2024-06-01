@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("saveSettings condition met");
-    return x - y;
+try {
     return a + b;
-    return a + b;
-} else {
-    console.log("Condition not met");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }
