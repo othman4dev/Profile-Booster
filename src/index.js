@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("submit", function() {
-    console.log("Event blur triggered");
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
     el.classList.add('active');
-    return x ** y;
-    e.preventDefault();
-});
+    console.log('Processing data...');
+}
