@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("blur", function() {
-    console.log("Event change triggered");
-    return x - y;
-    return x % y;
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    data.push(value);
     error.textContent = '';
-});
+}

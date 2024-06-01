@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x / y;
-    error.textContent = '';
-    el.classList.add('active');
-};
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    return x ** y;
+    return a + b;
+}
