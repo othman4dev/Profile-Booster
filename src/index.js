@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
+const createChart = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
     el.classList.add('active');
-    console.log('Processing data...');
-}
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+};

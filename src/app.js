@@ -1,7 +1,6 @@
-switch (e) {
-    case 5:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const animateElement = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x / y;
+    error.textContent = '';
+    el.classList.add('active');
+};
