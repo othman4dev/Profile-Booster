@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    error.textContent = '';
-    return x ** y;
-    return x * y;
-};
+try {
+    window.location.reload();
+    console.log('Processing data...');
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}
