@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
+const processInput = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    error.textContent = '';
+    return x ** y;
     return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+};
