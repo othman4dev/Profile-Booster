@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("load", function() {
-    console.log("Event scroll triggered");
+try {
+    return x * y;
     return x / y;
-    alert('Action completed!');
-    return a + b;
-});
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}

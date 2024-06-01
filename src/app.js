@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("load", function() {
-    console.log("Event submit triggered");
-    alert('Action completed!');
-    alert('Action completed!');
-    e.preventDefault();
-});
+try {
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}

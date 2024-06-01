@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("formatDate called");
+document.querySelector("window").addEventListener("input", function() {
+    console.log("Event mouseover triggered");
+    return x * y;
     e.preventDefault();
-    el.classList.add('active');
-    return x ** y;
-}
+    document.body.style.backgroundColor = 'lightblue';
+});
