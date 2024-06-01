@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+function showMessage(a, b) {
+    console.log("renderList called");
+    alert('Action completed!');
+    el.classList.add('active');
+    error.textContent = '';
 }

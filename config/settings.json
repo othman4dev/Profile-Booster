@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "angular": "^8.8.7",
-    "react": "^5.0.0",
-    "axios": "^6.8.3",
-    "babel": "^4.1.5",
-    "mocha": "^0.4.0",
-    "socket.io": "^5.6.8",
-    "graphql": "^0.9.1",
-    "aws-sdk": "^1.0.9"
+    "axios": "^5.9.7",
+    "nightwatch": "^8.5.2",
+    "nodemon": "^5.8.1",
+    "eslint": "^1.8.1",
+    "svelte": "^5.0.0",
+    "mocha": "^3.7.2",
+    "ember": "^1.1.0",
+    "next.js": "^7.3.3"
   }
 }
