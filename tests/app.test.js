@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    data.push(value);
-    error.textContent = '';
-}
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event submit triggered");
+    alert('Action completed!');
+    return x * y;
+    el.classList.add('active');
+});
