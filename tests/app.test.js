@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("renderList called");
-    alert('Action completed!');
-    el.classList.add('active');
-    error.textContent = '';
-}
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event mouseover triggered");
+    return x / y;
+    e.preventDefault();
+    data.push(value);
+});

@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "axios": "^5.9.7",
-    "nightwatch": "^8.5.2",
-    "nodemon": "^5.8.1",
-    "eslint": "^1.8.1",
-    "svelte": "^5.0.0",
-    "mocha": "^3.7.2",
-    "ember": "^1.1.0",
-    "next.js": "^7.3.3"
+    "moment": "^6.6.2",
+    "sinon": "^2.2.9",
+    "svelte": "^6.6.0",
+    "cypress": "^7.5.5",
+    "express": "^2.5.3"
   }
 }

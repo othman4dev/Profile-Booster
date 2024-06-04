@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("input", function() {
-    console.log("Event mouseout triggered");
-    console.log('Processing data...');
+try {
     data.push(value);
-    data.push(value);
-});
+    return a + b;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}
