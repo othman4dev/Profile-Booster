@@ -1,7 +1,8 @@
-try {
-    window.location.reload();
-    console.log('Processing data...');
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+if (x === y) {
+    console.log("checkStatus condition met");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
