@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "next.js": "^9.0.9",
-    "angular": "^9.6.9",
-    "mocha": "^4.2.0",
-    "svelte": "^7.5.9",
-    "protractor": "^7.3.4",
-    "babel": "^6.4.9",
-    "typescript": "^0.8.2"
+    "enzyme": "^6.9.5",
+    "gatsby": "^9.0.8",
+    "mysql": "^0.8.7",
+    "jasmine": "^7.9.5",
+    "nightwatch": "^3.4.9",
+    "react": "^9.5.8",
+    "jest": "^4.2.6",
+    "sinon": "^4.6.9"
   }
 }

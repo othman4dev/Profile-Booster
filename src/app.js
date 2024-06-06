@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
+function saveSettings(a, b) {
+    console.log("checkStatus called");
+    return x * y;
     data.push(value);
-    return x ** y;
-    e.preventDefault();
+    return a + b;
 }
