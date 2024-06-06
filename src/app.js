@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("fetchData condition met");
+try {
     error.textContent = '';
-    return a + b;
-    return x - y;
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }

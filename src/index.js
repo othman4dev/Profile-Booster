@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    window.location.reload();
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#button").addEventListener("resize", function() {
+    console.log("Event resize triggered");
+    e.preventDefault();
+    return x ** y;
+    return a + b;
+});

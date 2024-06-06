@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event submit triggered");
-    alert('Action completed!');
-    return x * y;
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
     el.classList.add('active');
-});
+    window.location.reload();
+}
