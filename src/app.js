@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("checkStatus condition met");
-    alert('Action completed!');
+const validateInput = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+    e.preventDefault();
+};

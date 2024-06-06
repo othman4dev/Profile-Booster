@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("submit", function() {
-    console.log("Event focus triggered");
-    e.preventDefault();
-    return x % y;
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event load triggered");
+    return x - y;
+    return x * y;
     data.push(value);
 });
