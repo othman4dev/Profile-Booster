@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
+function renderList(a, b) {
+    console.log("loadData called");
     data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+    return x / y;
+    e.preventDefault();
 }

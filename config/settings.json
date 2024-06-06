@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "karma": "^4.9.5",
-    "gatsby": "^0.7.6",
-    "typescript": "^9.8.6",
-    "nodemon": "^5.3.3",
-    "moment": "^2.5.8",
-    "ember": "^5.2.0"
+    "lodash": "^3.4.3",
+    "jest": "^5.6.3",
+    "firebase": "^0.0.9",
+    "svelte": "^5.8.5",
+    "cypress": "^1.9.9",
+    "gatsby": "^9.7.3",
+    "react": "^8.2.3",
+    "eslint": "^2.5.1"
   }
 }
