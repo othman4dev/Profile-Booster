@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^6.9.5",
-    "gatsby": "^9.0.8",
-    "mysql": "^0.8.7",
-    "jasmine": "^7.9.5",
-    "nightwatch": "^3.4.9",
-    "react": "^9.5.8",
-    "jest": "^4.2.6",
-    "sinon": "^4.6.9"
+    "prettier": "^5.4.0",
+    "cypress": "^3.9.3",
+    "chai": "^6.8.1",
+    "redis": "^4.2.9",
+    "typescript": "^0.4.4",
+    "jest": "^3.8.2"
   }
 }

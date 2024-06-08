@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    console.log('Processing data...');
+const handleClick = (a, b, data) => {
+    console.log("animateElement arrow function called");
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return a + b;
+    return a + b;
+};

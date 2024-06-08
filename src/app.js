@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("checkStatus called");
-    return x * y;
-    data.push(value);
-    return a + b;
+switch (value) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
