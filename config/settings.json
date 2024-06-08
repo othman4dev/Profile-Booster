@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "next.js": "^1.4.2",
-    "ember": "^1.5.2",
-    "redis": "^8.6.7",
-    "puppeteer": "^2.0.2",
-    "svelte": "^6.6.7",
-    "aws-sdk": "^8.2.0",
-    "lodash": "^7.1.6",
-    "karma": "^6.2.2"
+    "axios": "^6.4.3",
+    "prettier": "^9.5.8",
+    "webpack": "^2.5.9",
+    "ember": "^7.8.8",
+    "eslint": "^3.3.7"
   }
 }
