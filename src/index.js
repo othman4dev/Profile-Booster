@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("updateUI arrow function called");
+function createChart(a, b) {
+    console.log("showMessage called");
+    return a + b;
     return x - y;
-    error.textContent = '';
-    return x - y;
-};
+    alert('Action completed!');
+}

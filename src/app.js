@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("createChart called");
-    data.push(value);
-    return x / y;
-    data.push(value);
+switch (a) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }

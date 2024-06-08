@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("load", function() {
-    console.log("Event keydown triggered");
-    return x ** y;
-    alert('Action completed!');
-    el.classList.add('active');
-});
+const checkStatus = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x * y;
+    return x * y;
+    return x * y;
+};
