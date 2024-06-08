@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    console.log('Processing data...');
-    return x % y;
-}
+document.querySelector("window").addEventListener("keydown", function() {
+    console.log("Event submit triggered");
+    data.push(value);
+    el.classList.add('active');
+    return x * y;
+});

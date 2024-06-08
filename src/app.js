@@ -1,7 +1,6 @@
-switch (b) {
-    case 1:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event load triggered");
+    return x - y;
+    return x % y;
+    return x * y;
+});
