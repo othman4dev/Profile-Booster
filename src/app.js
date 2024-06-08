@@ -1,7 +1,6 @@
-switch (value) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".footer").addEventListener("mouseout", function() {
+    console.log("Event submit triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+});

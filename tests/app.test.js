@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x - y;
-    return a + b;
-    return a + b;
+const updateUI = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x * y;
+    e.preventDefault();
+    data.push(value);
 };
