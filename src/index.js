@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("loadData arrow function called");
-    console.log('Processing data...');
-    return x * y;
-    console.log('Processing data...');
+const checkStatus = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x - y;
+    error.textContent = '';
+    return x - y;
 };

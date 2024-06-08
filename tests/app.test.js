@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("change", function() {
-    console.log("Event submit triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    return a + b;
+document.querySelector(".container").addEventListener("load", function() {
+    console.log("Event keydown triggered");
+    return x ** y;
+    alert('Action completed!');
+    el.classList.add('active');
 });

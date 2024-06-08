@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event scroll triggered");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-});
+function animateElement(a, b) {
+    console.log("createChart called");
+    data.push(value);
+    return x / y;
+    data.push(value);
+}
