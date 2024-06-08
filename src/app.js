@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("loadData called");
-    data.push(value);
-    return x / y;
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
     e.preventDefault();
-}
+});

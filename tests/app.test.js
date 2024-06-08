@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("fetchData called");
-    alert('Action completed!');
-    return x / y;
-    error.textContent = '';
-}
+document.querySelector("#input").addEventListener("change", function() {
+    console.log("Event submit triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    return a + b;
+});

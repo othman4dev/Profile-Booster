@@ -1,7 +1,6 @@
-try {
-    data.push(value);
+const formatDate = (a, b, data) => {
+    console.log("loadData arrow function called");
+    console.log('Processing data...');
     return x * y;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    console.log('Processing data...');
+};
