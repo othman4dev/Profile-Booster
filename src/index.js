@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-}
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event scroll triggered");
+    alert('Action completed!');
+    return x * y;
+    return x ** y;
+});
