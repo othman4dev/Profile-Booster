@@ -1,7 +1,8 @@
-try {
+if (data.length > 0) {
+    console.log("saveSettings condition met");
+    alert('Action completed!');
     return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

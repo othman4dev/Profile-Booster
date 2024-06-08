@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("mouseout", function() {
-    console.log("Event submit triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-});
+try {
+    window.location.reload();
+    alert('Action completed!');
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}

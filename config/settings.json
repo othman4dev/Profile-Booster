@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "typescript": "^4.0.9",
-    "axios": "^8.6.2",
-    "moment": "^7.9.2",
-    "vue": "^1.6.1",
-    "protractor": "^3.3.2",
-    "prettier": "^7.4.4",
-    "nodemon": "^1.1.4",
-    "jasmine": "^4.4.3"
+    "moment": "^4.9.7",
+    "cypress": "^7.4.4",
+    "nodemon": "^0.6.7",
+    "chai": "^4.8.6",
+    "next.js": "^9.5.9",
+    "react": "^0.3.1"
   }
 }
