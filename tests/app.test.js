@@ -1,7 +1,8 @@
-try {
+if (x === y) {
+    console.log("setCookie condition met");
+    return x / y;
+    return x - y;
     el.classList.add('active');
-    return x * y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

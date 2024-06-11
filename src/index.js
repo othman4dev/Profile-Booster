@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("saveSettings condition met");
-    alert('Action completed!');
-    return x - y;
-    return a + b;
-} else {
-    console.log("Condition not met");
+try {
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }
