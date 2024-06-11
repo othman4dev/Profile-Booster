@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("keydown", function() {
-    console.log("Event scroll triggered");
-    alert('Action completed!');
-    return x * y;
+if (data.length > 0) {
+    console.log("setSessionStorage condition met");
     return x ** y;
-});
+    return x / y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}
