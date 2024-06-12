@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("setCookie arrow function called");
+const checkStatus = (a, b, data) => {
+    console.log("loadData arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
     return x % y;
-    e.preventDefault();
-    e.preventDefault();
 };

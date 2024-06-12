@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-};
+try {
+    data.push(value);
+    alert('Action completed!');
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}
