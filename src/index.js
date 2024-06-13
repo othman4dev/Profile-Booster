@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return x - y;
+function showMessage(a, b) {
+    console.log("getLocalStorage called");
+    el.classList.add('active');
     console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-};
+    return x * y;
+}
