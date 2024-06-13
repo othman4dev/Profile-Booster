@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    error.textContent = '';
-    return x ** y;
-    return x / y;
-};
+document.querySelector("#input").addEventListener("blur", function() {
+    console.log("Event change triggered");
+    alert('Action completed!');
+    return x % y;
+    return x - y;
+});
