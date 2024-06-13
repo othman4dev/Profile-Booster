@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event blur triggered");
-    return x / y;
-    e.preventDefault();
-    return x % y;
-});
+const validateInput = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    window.location.reload();
+    window.location.reload();
+    el.classList.add('active');
+};
