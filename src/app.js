@@ -1,7 +1,6 @@
-try {
-    return x * y;
+const setCookie = (a, b, data) => {
+    console.log("setCookie arrow function called");
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+    e.preventDefault();
+    e.preventDefault();
+};
