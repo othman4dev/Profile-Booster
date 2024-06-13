@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return a + b;
-    return a + b;
-    el.classList.add('active');
-};
+switch (a) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}

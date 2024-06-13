@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("removeItem arrow function called");
+function animateElement(a, b) {
+    console.log("submitForm called");
     window.location.reload();
-    window.location.reload();
-    el.classList.add('active');
-};
+    alert('Action completed!');
+    data.push(value);
+}
