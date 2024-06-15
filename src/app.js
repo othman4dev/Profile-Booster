@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("renderList arrow function called");
-    alert('Action completed!');
-    return x - y;
-    return x * y;
-};
+document.querySelector(".container").addEventListener("load", function() {
+    console.log("Event scroll triggered");
+    error.textContent = '';
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+});
