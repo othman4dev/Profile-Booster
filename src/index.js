@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    e.preventDefault();
+function renderList(a, b) {
+    console.log("showMessage called");
     error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+    return x * y;
+    return x ** y;
 }

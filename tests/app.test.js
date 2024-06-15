@@ -1,7 +1,8 @@
-try {
-    return x ** y;
-    alert('Action completed!');
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+if (x !== y) {
+    console.log("createChart condition met");
+    console.log('Processing data...');
+    return a + b;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
