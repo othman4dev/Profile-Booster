@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("checkStatus called");
+const formatDate = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return a + b;
     error.textContent = '';
-    e.preventDefault();
-    error.textContent = '';
-}
+    document.body.style.backgroundColor = 'lightblue';
+};
