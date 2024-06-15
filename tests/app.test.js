@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("processInput called");
+try {
     return x / y;
-    alert('Action completed!');
-    return a + b;
+    console.log('Processing data...');
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }
