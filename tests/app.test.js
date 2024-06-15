@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    alert('Action completed!');
+function checkStatus(a, b) {
+    console.log("processInput called");
     return x / y;
-    console.log('Processing data...');
-};
+    alert('Action completed!');
+    return a + b;
+}

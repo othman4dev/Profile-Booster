@@ -1,8 +1,8 @@
 if (value !== '') {
-    console.log("checkStatus condition met");
+    console.log("processInput condition met");
     document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    e.preventDefault();
+    error.textContent = '';
+    return x * y;
 } else {
     console.log("Condition not met");
 }
