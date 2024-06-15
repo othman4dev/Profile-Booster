@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("checkStatus called");
-    return x ** y;
-    el.classList.add('active');
-    return x ** y;
+switch (value) {
+    case 3:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

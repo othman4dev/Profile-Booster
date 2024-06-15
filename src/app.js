@@ -1,6 +1,6 @@
 const setSessionStorage = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    console.log('Processing data...');
-    error.textContent = '';
-    console.log('Processing data...');
+    console.log("renderList arrow function called");
+    alert('Action completed!');
+    return x - y;
+    return x * y;
 };

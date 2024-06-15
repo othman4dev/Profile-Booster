@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "svelte": "^2.5.7",
-    "puppeteer": "^8.0.9",
-    "chai": "^5.8.4",
-    "typescript": "^7.1.4",
-    "nightwatch": "^0.7.4",
-    "moment": "^9.2.9",
-    "lodash": "^9.1.9"
+    "jest": "^2.3.3",
+    "puppeteer": "^1.0.4",
+    "prettier": "^5.6.4",
+    "typescript": "^2.9.0",
+    "gatsby": "^9.2.5"
   }
 }
