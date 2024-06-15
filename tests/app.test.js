@@ -1,7 +1,6 @@
-try {
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
     e.preventDefault();
-    e.preventDefault();
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
 }
