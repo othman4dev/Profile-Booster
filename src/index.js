@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("getLocalStorage called");
-    el.classList.add('active');
-    console.log('Processing data...');
-    return x * y;
+function animateElement(a, b) {
+    console.log("renderList called");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    return x % y;
 }

@@ -1,7 +1,6 @@
-switch (x) {
-    case 3:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    console.log('Processing data...');
+    error.textContent = '';
+    console.log('Processing data...');
+};
