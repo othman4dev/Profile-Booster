@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("removeItem condition met");
-    return x / y;
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event change triggered");
+    console.log('Processing data...');
     e.preventDefault();
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+    e.preventDefault();
+});
