@@ -1,6 +1,8 @@
-function saveSettings(a, b) {
-    console.log("toggleMenu called");
-    return a + b;
-    error.textContent = '';
-    error.textContent = '';
+if (window.innerWidth > 500) {
+    console.log("removeItem condition met");
+    e.preventDefault();
+    return x * y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

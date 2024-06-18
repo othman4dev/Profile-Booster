@@ -1,6 +1,8 @@
-function renderList(a, b) {
-    console.log("showMessage called");
-    error.textContent = '';
-    return x * y;
-    return x ** y;
+if (x === y) {
+    console.log("checkStatus condition met");
+    e.preventDefault();
+    return x - y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
