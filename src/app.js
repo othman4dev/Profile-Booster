@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("mouseover", function() {
-    console.log("Event change triggered");
-    console.log('Processing data...');
-    e.preventDefault();
-    e.preventDefault();
-});
+function checkStatus(a, b) {
+    console.log("updateUI called");
+    return x % y;
+    return x * y;
+    return x % y;
+}
