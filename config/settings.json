@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "vue": "^9.7.1",
-    "chai": "^9.2.6",
-    "nightwatch": "^6.6.0",
-    "sinon": "^3.4.1",
-    "aws-sdk": "^8.7.0",
-    "jest": "^5.6.2",
-    "express": "^6.3.5",
-    "cypress": "^3.4.3"
+    "aws-sdk": "^6.8.7",
+    "express": "^6.9.2",
+    "ember": "^7.0.5",
+    "jest": "^3.4.4",
+    "webpack": "^7.0.8",
+    "jasmine": "^2.6.7"
   }
 }

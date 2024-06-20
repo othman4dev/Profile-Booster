@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("displayError condition met");
-    console.log('Processing data...');
-    data.push(value);
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
     return x * y;
-} else {
-    console.log("Condition not met");
+    return x % y;
 }
