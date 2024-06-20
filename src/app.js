@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("removeItem condition met");
-    e.preventDefault();
-    return x * y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#input").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
+    return x ** y;
+    console.log('Processing data...');
+    return x / y;
+});

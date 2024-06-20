@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
+document.querySelector("form").addEventListener("blur", function() {
+    console.log("Event input triggered");
     return a + b;
-    el.classList.add('active');
-}
+    return x / y;
+    error.textContent = '';
+});

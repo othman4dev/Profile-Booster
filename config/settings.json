@@ -1,8 +1,13 @@
 {
   "dependencies": {
-    "nodemon": "^3.0.3",
-    "cypress": "^1.8.4",
-    "gatsby": "^7.5.9",
-    "prettier": "^5.2.6"
+    "jasmine": "^0.3.8",
+    "enzyme": "^1.7.2",
+    "vue": "^0.8.8",
+    "next.js": "^2.8.0",
+    "typescript": "^2.2.5",
+    "express": "^3.8.6",
+    "karma": "^4.7.5",
+    "jest": "^8.1.9",
+    "chai": "^0.1.2"
   }
 }
