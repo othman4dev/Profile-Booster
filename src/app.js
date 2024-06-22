@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    return x / y;
+const createChart = (a, b, data) => {
+    console.log("displayError arrow function called");
     return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x / y;
+    error.textContent = '';
+};

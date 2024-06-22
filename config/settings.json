@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^7.9.5",
-    "cypress": "^4.3.2",
-    "mocha": "^1.1.8",
-    "lodash": "^2.1.5",
-    "express": "^0.2.6",
-    "typescript": "^2.0.7",
-    "protractor": "^4.7.1"
+    "redis": "^0.0.6",
+    "protractor": "^6.0.5",
+    "axios": "^8.3.3",
+    "webpack": "^6.6.4",
+    "socket.io": "^9.7.3",
+    "mysql": "^4.2.0"
   }
 }
