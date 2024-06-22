@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^6.8.8",
-    "jasmine": "^1.0.9",
-    "cypress": "^2.7.3",
-    "redis": "^0.2.8",
-    "vue": "^2.6.2",
-    "mysql": "^7.2.0",
-    "gatsby": "^7.8.3",
-    "ember": "^3.4.8"
+    "svelte": "^6.1.2",
+    "express": "^9.3.2",
+    "moment": "^8.9.0",
+    "prettier": "^9.2.1",
+    "chai": "^3.5.4",
+    "socket.io": "^7.4.4"
   }
 }

@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("resize", function() {
-    console.log("Event mouseout triggered");
-    error.textContent = '';
-    error.textContent = '';
-    el.classList.add('active');
-});
+switch (x) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

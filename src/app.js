@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("mouseout", function() {
-    console.log("Event load triggered");
-    return x % y;
+const saveSettings = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    console.log('Processing data...');
+    console.log('Processing data...');
     el.classList.add('active');
-    data.push(value);
-});
+};
