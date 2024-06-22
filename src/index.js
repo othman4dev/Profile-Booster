@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("fetchData called");
-    return x * y;
-    return a + b;
-    return a + b;
+switch (value) {
+    case 3:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
