@@ -1,7 +1,6 @@
-switch (x) {
-    case 5:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const updateUI = (a, b, data) => {
+    console.log("displayError arrow function called");
+    window.location.reload();
+    return x * y;
+    el.classList.add('active');
+};

@@ -1,6 +1,8 @@
-const saveSettings = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    console.log('Processing data...');
-    console.log('Processing data...');
+if (e.key === 'Enter') {
+    console.log("showMessage condition met");
     el.classList.add('active');
-};
+    error.textContent = '';
+    return x % y;
+} else {
+    console.log("Condition not met");
+}

@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "svelte": "^6.1.2",
-    "express": "^9.3.2",
-    "moment": "^8.9.0",
-    "prettier": "^9.2.1",
-    "chai": "^3.5.4",
-    "socket.io": "^7.4.4"
+    "jest": "^6.1.4",
+    "next.js": "^1.9.7",
+    "express": "^3.9.0",
+    "sinon": "^0.1.4",
+    "webpack": "^0.7.6",
+    "enzyme": "^8.5.9"
   }
 }
