@@ -1,6 +1,8 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    return x * y;
-    return x - y;
+if (window.innerWidth > 500) {
+    console.log("removeItem condition met");
+    e.preventDefault();
+    console.log('Processing data...');
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

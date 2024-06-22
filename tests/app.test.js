@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("displayError condition met");
-    return x ** y;
+document.querySelector(".container").addEventListener("resize", function() {
+    console.log("Event resize triggered");
+    el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    return x % y;
+});

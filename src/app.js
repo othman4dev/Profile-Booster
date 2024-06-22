@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x ** y;
-    return x / y;
-    error.textContent = '';
-};
+function renderList(a, b) {
+    console.log("toggleMenu called");
+    return x % y;
+    return x - y;
+    return x - y;
+}
