@@ -1,6 +1,8 @@
-function renderList(a, b) {
-    console.log("toggleMenu called");
-    return x % y;
-    return x - y;
-    return x - y;
+if (document.readyState === 'complete') {
+    console.log("toggleMenu condition met");
+    console.log('Processing data...');
+    return x / y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

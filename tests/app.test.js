@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("resize", function() {
-    console.log("Event resize triggered");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-});
+try {
+    return x / y;
+    return x - y;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}
