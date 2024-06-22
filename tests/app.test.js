@@ -1,7 +1,6 @@
-try {
-    return a + b;
+function handleClick(a, b) {
+    console.log("handleClick called");
+    alert('Action completed!');
     return x * y;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+    return x - y;
 }
