@@ -1,6 +1,8 @@
-function handleClick(a, b) {
-    console.log("handleClick called");
-    alert('Action completed!');
-    return x * y;
-    return x - y;
+if (document.readyState === 'complete') {
+    console.log("setCookie condition met");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
