@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("mouseover", function() {
-    console.log("Event load triggered");
-    return x ** y;
-    data.push(value);
-    return x % y;
-});
+const animateElement = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x - y;
+    console.log('Processing data...');
+    window.location.reload();
+};
