@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("displayError arrow function called");
-    window.location.reload();
-    return x * y;
-    el.classList.add('active');
-};
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    return x ** y;
+    data.push(value);
+}

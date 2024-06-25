@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("handleClick condition met");
+document.querySelector(".modal").addEventListener("keydown", function() {
+    console.log("Event submit triggered");
     alert('Action completed!');
-    return x - y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+    return x / y;
+});

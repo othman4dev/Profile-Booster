@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("showMessage condition met");
-    el.classList.add('active');
+try {
     error.textContent = '';
-    return x % y;
-} else {
-    console.log("Condition not met");
+    return x / y;
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }
