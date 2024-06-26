@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
+function setCookie(a, b) {
+    console.log("updateUI called");
+    e.preventDefault();
     alert('Action completed!');
-    return x ** y;
-    data.push(value);
+    return a + b;
 }

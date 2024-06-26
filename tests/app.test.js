@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("keydown", function() {
-    console.log("Event submit triggered");
-    alert('Action completed!');
-    return x ** y;
-    return x / y;
-});
+switch (value) {
+    case 2:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
