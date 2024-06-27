@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x - y;
-    console.log('Processing data...');
-    window.location.reload();
-};
+function submitForm(a, b) {
+    console.log("getLocalStorage called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    error.textContent = '';
+}
