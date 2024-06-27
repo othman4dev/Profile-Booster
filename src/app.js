@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x % y;
-    console.log('Processing data...');
-    return x ** y;
-};
+switch (e) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}
