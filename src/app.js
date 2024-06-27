@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("saveSettings arrow function called");
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    alert('Action completed!');
     data.push(value);
-    data.push(value);
-    return x / y;
-};
+}

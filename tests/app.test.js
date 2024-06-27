@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("updateUI condition met");
-    e.preventDefault();
-    data.push(value);
+document.querySelector(".modal").addEventListener("mouseover", function() {
+    console.log("Event focus triggered");
+    el.classList.add('active');
     return x / y;
-} else {
-    console.log("Condition not met");
-}
+    console.log('Processing data...');
+});
