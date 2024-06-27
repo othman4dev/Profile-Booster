@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^7.6.0",
-    "nodemon": "^0.5.6",
-    "mysql": "^4.0.6",
-    "socket.io": "^4.8.2",
-    "babel": "^2.0.3",
-    "nightwatch": "^5.7.7",
-    "angular": "^3.5.0",
-    "cypress": "^0.5.2",
-    "puppeteer": "^0.6.3"
+    "sinon": "^6.2.4",
+    "eslint": "^1.5.9",
+    "graphql": "^7.8.4",
+    "aws-sdk": "^5.3.2",
+    "nodemon": "^5.2.3",
+    "enzyme": "^0.2.5"
   }
 }

@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("updateUI called");
-    e.preventDefault();
-    alert('Action completed!');
+document.querySelector("form").addEventListener("keydown", function() {
+    console.log("Event submit triggered");
+    window.location.reload();
     return a + b;
-}
+    return x - y;
+});

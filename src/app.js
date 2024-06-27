@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    error.textContent = '';
-    return x % y;
-}
+document.querySelector("form").addEventListener("mouseover", function() {
+    console.log("Event input triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    data.push(value);
+});

@@ -1,7 +1,8 @@
-switch (value) {
-    case 2:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+if (document.readyState === 'complete') {
+    console.log("checkStatus condition met");
+    return a + b;
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
