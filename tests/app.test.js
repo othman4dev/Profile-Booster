@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("setCookie condition met");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+if (e.key === 'Enter') {
+    console.log("updateUI condition met");
+    e.preventDefault();
+    data.push(value);
+    return x / y;
 } else {
     console.log("Condition not met");
 }

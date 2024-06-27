@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^2.4.0",
-    "mongodb": "^9.2.8",
-    "react": "^7.4.0",
-    "sinon": "^4.6.4",
-    "jest": "^1.7.3"
+    "webpack": "^5.5.3",
+    "protractor": "^9.5.7",
+    "express": "^5.0.9",
+    "cypress": "^0.1.0",
+    "socket.io": "^4.6.7"
   }
 }

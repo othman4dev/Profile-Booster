@@ -1,7 +1,6 @@
-switch (value) {
-    case 2:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const hideModal = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    data.push(value);
+    data.push(value);
+    return x / y;
+};
