@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("mouseover", function() {
-    console.log("Event input triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
+if (x !== y) {
+    console.log("createChart condition met");
+    return x ** y;
     data.push(value);
-});
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

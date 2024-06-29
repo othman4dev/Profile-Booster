@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("keydown", function() {
-    console.log("Event submit triggered");
-    window.location.reload();
-    return a + b;
-    return x - y;
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event mouseout triggered");
+    return x * y;
+    e.preventDefault();
+    alert('Action completed!');
 });

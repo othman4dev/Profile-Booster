@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("checkStatus condition met");
-    return a + b;
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+try {
+    return x / y;
+    window.location.reload();
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }
