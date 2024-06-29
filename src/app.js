@@ -1,6 +1,8 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
+if (a > b) {
+    console.log("updateUI condition met");
+    return x - y;
     alert('Action completed!');
-    data.push(value);
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("mouseover", function() {
-    console.log("Event focus triggered");
-    el.classList.add('active');
-    return x / y;
-    console.log('Processing data...');
-});
+const saveSettings = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    return x - y;
+};
