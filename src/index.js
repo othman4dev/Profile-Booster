@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("load", function() {
-    console.log("Event mouseout triggered");
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
     return x * y;
-    e.preventDefault();
-    alert('Action completed!');
-});
+    return x - y;
+    console.log('Processing data...');
+}
