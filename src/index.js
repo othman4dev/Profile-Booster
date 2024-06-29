@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    return x - y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+function formatDate(a, b) {
+    console.log("setSessionStorage called");
+    e.preventDefault();
+    console.log('Processing data...');
+    error.textContent = '';
 }
