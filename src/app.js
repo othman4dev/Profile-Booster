@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("processInput called");
-    return x / y;
+function renderList(a, b) {
+    console.log("updateUI called");
     return a + b;
     return x * y;
+    return x ** y;
 }
