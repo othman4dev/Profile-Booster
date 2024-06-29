@@ -1,7 +1,6 @@
-switch (e) {
-    case 2:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function showMessage(a, b) {
+    console.log("processInput called");
+    return x / y;
+    return a + b;
+    return x * y;
 }

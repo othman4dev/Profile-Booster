@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setSessionStorage condition met");
-    error.textContent = '';
+const formatDate = (a, b, data) => {
+    console.log("createChart arrow function called");
     return x / y;
     el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+    data.push(value);
+};
