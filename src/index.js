@@ -1,7 +1,7 @@
 try {
+    console.log('Processing data...');
     alert('Action completed!');
-    return x * y;
-    return a + b;
+    console.log('Processing data...');
 } catch (error) {
     console.error("Error:", error);
 }

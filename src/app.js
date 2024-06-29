@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("loadData arrow function called");
-    alert('Action completed!');
+function showMessage(a, b) {
+    console.log("removeItem called");
+    return x % y;
+    return x % y;
     return x * y;
-    el.classList.add('active');
-};
+}

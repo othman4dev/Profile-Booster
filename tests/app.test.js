@@ -1,7 +1,6 @@
-switch (x) {
-    case 2:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const createChart = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return a + b;
+    alert('Action completed!');
+    error.textContent = '';
+};
