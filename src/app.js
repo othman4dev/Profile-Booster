@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("updateUI condition met");
-    return x - y;
+const processInput = (a, b, data) => {
+    console.log("loadData arrow function called");
     alert('Action completed!');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+    el.classList.add('active');
+};
