@@ -1,7 +1,6 @@
-try {
-    return x * y;
+function checkStatus(a, b) {
+    console.log("handleClick called");
+    el.classList.add('active');
+    alert('Action completed!');
     return x % y;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
 }

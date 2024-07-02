@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("setSessionStorage called");
-    e.preventDefault();
-    console.log('Processing data...');
-    error.textContent = '';
+try {
+    return x % y;
+    return x % y;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
