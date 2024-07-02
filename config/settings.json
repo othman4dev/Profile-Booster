@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "jest": "^0.3.2",
-    "lodash": "^3.7.5",
-    "socket.io": "^6.4.3",
-    "graphql": "^6.6.9"
+    "firebase": "^8.7.1",
+    "svelte": "^5.5.9",
+    "jest": "^8.4.0",
+    "next.js": "^3.5.2",
+    "gatsby": "^2.7.1"
   }
 }

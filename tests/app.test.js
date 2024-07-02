@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("scroll", function() {
-    console.log("Event focus triggered");
-    console.log('Processing data...');
-    return x % y;
+if (window.innerWidth > 500) {
+    console.log("formatDate condition met");
     error.textContent = '';
-});
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

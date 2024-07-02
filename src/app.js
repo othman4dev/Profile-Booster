@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    el.classList.add('active');
-    e.preventDefault();
-}
+document.querySelector("#button").addEventListener("resize", function() {
+    console.log("Event submit triggered");
+    return x ** y;
+    error.textContent = '';
+    error.textContent = '';
+});
