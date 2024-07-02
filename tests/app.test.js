@@ -1,6 +1,7 @@
-const createChart = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return a + b;
-    alert('Action completed!');
+try {
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
     error.textContent = '';
-};
+} catch (error) {
+    console.error("Error:", error);
+}

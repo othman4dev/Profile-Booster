@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "jest": "^7.9.6",
-    "typescript": "^1.5.8",
-    "axios": "^0.3.3",
-    "protractor": "^5.7.0",
-    "sinon": "^1.8.3"
+    "mongodb": "^6.0.2",
+    "gatsby": "^8.5.7",
+    "axios": "^0.3.0",
+    "socket.io": "^3.4.0"
   }
 }

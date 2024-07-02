@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("removeItem called");
-    return x % y;
-    return x % y;
-    return x * y;
+try {
+    el.classList.add('active');
+    el.classList.add('active');
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
