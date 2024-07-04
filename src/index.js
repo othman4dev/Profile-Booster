@@ -1,6 +1,8 @@
-const processInput = (a, b, data) => {
-    console.log("renderList arrow function called");
-    el.classList.add('active');
+if (a > b) {
+    console.log("validateInput condition met");
     window.location.reload();
-    e.preventDefault();
-};
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
