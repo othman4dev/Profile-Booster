@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "vue": "^2.9.8",
-    "moment": "^0.2.5",
-    "prettier": "^9.0.7",
-    "typescript": "^8.5.2",
-    "jest": "^7.9.6",
-    "ember": "^4.1.8",
-    "socket.io": "^0.8.4",
-    "sinon": "^8.0.6",
-    "eslint": "^5.8.7"
+    "jest": "^2.6.9",
+    "svelte": "^2.3.9",
+    "puppeteer": "^2.9.8",
+    "cypress": "^2.3.7",
+    "firebase": "^2.3.0",
+    "nodemon": "^0.5.1"
   }
 }
