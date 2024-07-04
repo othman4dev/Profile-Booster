@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^8.7.1",
-    "svelte": "^5.5.9",
-    "jest": "^8.4.0",
-    "next.js": "^3.5.2",
-    "gatsby": "^2.7.1"
+    "cypress": "^8.2.0",
+    "moment": "^8.6.9",
+    "sinon": "^1.7.6",
+    "mongodb": "^1.6.7",
+    "jasmine": "^1.2.8",
+    "gatsby": "^4.7.0"
   }
 }

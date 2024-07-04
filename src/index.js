@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    alert('Action completed!');
-    return x / y;
+const processInput = (a, b, data) => {
+    console.log("renderList arrow function called");
     el.classList.add('active');
+    window.location.reload();
+    e.preventDefault();
 };

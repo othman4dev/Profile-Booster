@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("resize", function() {
-    console.log("Event submit triggered");
-    return x ** y;
-    error.textContent = '';
-    error.textContent = '';
-});
+function createChart(a, b) {
+    console.log("renderList called");
+    window.location.reload();
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+}

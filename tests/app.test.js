@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("formatDate condition met");
-    error.textContent = '';
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+try {
+    data.push(value);
+    alert('Action completed!');
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
