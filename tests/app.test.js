@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x * y;
-    window.location.reload();
+const loadData = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return a + b;
+    return x ** y;
     return x - y;
 };
