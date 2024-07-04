@@ -1,6 +1,8 @@
-const loadData = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return a + b;
+if (window.innerWidth > 500) {
+    console.log("renderList condition met");
+    alert('Action completed!');
     return x ** y;
-    return x - y;
-};
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}
