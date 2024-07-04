@@ -1,8 +1,13 @@
 {
   "dependencies": {
-    "mongodb": "^6.0.2",
-    "gatsby": "^8.5.7",
-    "axios": "^0.3.0",
-    "socket.io": "^3.4.0"
+    "vue": "^2.9.8",
+    "moment": "^0.2.5",
+    "prettier": "^9.0.7",
+    "typescript": "^8.5.2",
+    "jest": "^7.9.6",
+    "ember": "^4.1.8",
+    "socket.io": "^0.8.4",
+    "sinon": "^8.0.6",
+    "eslint": "^5.8.7"
   }
 }

@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("document").addEventListener("blur", function() {
+    console.log("Event mouseover triggered");
+    window.location.reload();
+    console.log('Processing data...');
+    return x * y;
+});
