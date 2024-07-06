@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event scroll triggered");
+    return x * y;
+    console.log('Processing data...');
     error.textContent = '';
-    alert('Action completed!');
-    data.push(value);
-}
+});

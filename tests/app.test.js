@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("renderList condition met");
+if (document.readyState === 'complete') {
+    console.log("formatDate condition met");
     alert('Action completed!');
+    console.log('Processing data...');
     return x ** y;
-    alert('Action completed!');
 } else {
     console.log("Condition not met");
 }
