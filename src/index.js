@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    return x ** y;
-    return x / y;
-}
+document.querySelector(".modal").addEventListener("load", function() {
+    console.log("Event focus triggered");
+    data.push(value);
+    el.classList.add('active');
+    data.push(value);
+});

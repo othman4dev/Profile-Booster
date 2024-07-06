@@ -1,6 +1,8 @@
-function animateElement(a, b) {
-    console.log("submitForm called");
+if (window.innerWidth > 500) {
+    console.log("updateUI condition met");
     console.log('Processing data...');
+    return x % y;
     window.location.reload();
-    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
