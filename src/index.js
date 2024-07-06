@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("mouseout", function() {
-    console.log("Event input triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+function checkStatus(a, b) {
+    console.log("fetchData called");
+    alert('Action completed!');
+    window.location.reload();
+    return x ** y;
+}

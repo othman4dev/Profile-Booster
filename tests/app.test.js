@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("click", function() {
-    console.log("Event mouseout triggered");
-    return x * y;
-    e.preventDefault();
-    return x / y;
-});
+switch (value) {
+    case 4:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
