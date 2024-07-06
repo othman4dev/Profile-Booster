@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("removeItem called");
-    console.log('Processing data...');
-    error.textContent = '';
-    data.push(value);
-}
+document.querySelector("#input").addEventListener("input", function() {
+    console.log("Event scroll triggered");
+    return a + b;
+    e.preventDefault();
+    return x - y;
+});
