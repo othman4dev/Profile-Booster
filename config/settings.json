@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "nightwatch": "^2.9.1",
-    "prettier": "^2.8.2",
-    "react": "^8.6.3",
-    "mongodb": "^9.5.1",
-    "cypress": "^2.3.4",
-    "moment": "^8.4.4"
+    "gatsby": "^6.8.9",
+    "firebase": "^2.6.7",
+    "redis": "^6.7.0",
+    "moment": "^5.3.2",
+    "jest": "^9.2.8",
+    "next.js": "^3.0.1",
+    "nodemon": "^0.5.4"
   }
 }

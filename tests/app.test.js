@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("blur", function() {
-    console.log("Event blur triggered");
-    return a + b;
-    alert('Action completed!');
+document.querySelector("#nav").addEventListener("click", function() {
+    console.log("Event mouseout triggered");
+    return x * y;
+    e.preventDefault();
     return x / y;
 });
