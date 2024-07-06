@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".container").addEventListener("mouseout", function() {
+    console.log("Event scroll triggered");
+    return x ** y;
+    el.classList.add('active');
+    window.location.reload();
+});
