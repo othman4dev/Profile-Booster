@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "jest": "^2.6.9",
-    "svelte": "^2.3.9",
-    "puppeteer": "^2.9.8",
-    "cypress": "^2.3.7",
-    "firebase": "^2.3.0",
-    "nodemon": "^0.5.1"
+    "babel": "^1.0.5",
+    "chai": "^6.5.5",
+    "mysql": "^2.7.1",
+    "moment": "^2.0.8",
+    "protractor": "^3.7.6",
+    "typescript": "^4.1.5",
+    "nightwatch": "^7.0.4"
   }
 }

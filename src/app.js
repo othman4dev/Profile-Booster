@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x % y;
-    return x / y;
+function animateElement(a, b) {
+    console.log("submitForm called");
+    console.log('Processing data...');
     window.location.reload();
-};
+    alert('Action completed!');
+}
