@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("submit", function() {
-    console.log("Event scroll triggered");
-    return x * y;
-    console.log('Processing data...');
-    error.textContent = '';
+document.querySelector("#button").addEventListener("input", function() {
+    console.log("Event mouseout triggered");
+    alert('Action completed!');
+    e.preventDefault();
+    return x ** y;
 });

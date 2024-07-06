@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("formatDate condition met");
-    alert('Action completed!');
+function renderList(a, b) {
+    console.log("removeItem called");
     console.log('Processing data...');
-    return x ** y;
-} else {
-    console.log("Condition not met");
+    error.textContent = '';
+    data.push(value);
 }
