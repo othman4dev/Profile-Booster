@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "redis": "^7.7.4",
-    "next.js": "^1.4.8",
-    "sinon": "^5.7.0",
-    "mysql": "^5.7.2"
+    "nightwatch": "^2.9.1",
+    "prettier": "^2.8.2",
+    "react": "^8.6.3",
+    "mongodb": "^9.5.1",
+    "cypress": "^2.3.4",
+    "moment": "^8.4.4"
   }
 }

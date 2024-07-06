@@ -1,7 +1,8 @@
-switch (b) {
-    case 4:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+if (value !== '') {
+    console.log("showMessage condition met");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
