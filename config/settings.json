@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "eslint": "^9.2.6",
-    "react": "^1.1.8",
-    "axios": "^6.1.8",
-    "enzyme": "^5.8.0",
-    "prettier": "^2.9.7"
+    "aws-sdk": "^7.8.9",
+    "nightwatch": "^3.3.3",
+    "jest": "^2.2.7",
+    "chai": "^3.4.0",
+    "axios": "^3.1.2",
+    "graphql": "^6.1.8"
   }
 }

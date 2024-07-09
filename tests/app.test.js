@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("input", function() {
-    console.log("Event scroll triggered");
-    return a + b;
-    e.preventDefault();
-    return x - y;
-});
+if (x !== y) {
+    console.log("renderList condition met");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+} else {
+    console.log("Condition not met");
+}
