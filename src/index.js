@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("fetchData called");
-    alert('Action completed!');
-    window.location.reload();
-    return x ** y;
-}
+document.querySelector("header").addEventListener("input", function() {
+    console.log("Event scroll triggered");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+});
