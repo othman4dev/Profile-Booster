@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("setCookie condition met");
-    el.classList.add('active');
+try {
+    return x % y;
+    error.textContent = '';
     return a + b;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }
