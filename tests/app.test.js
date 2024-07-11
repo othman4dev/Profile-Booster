@@ -1,7 +1,6 @@
-switch (y) {
-    case 4:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const removeItem = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+};

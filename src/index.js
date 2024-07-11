@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("scroll", function() {
-    console.log("Event mouseover triggered");
-    return x * y;
-    error.textContent = '';
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
     return x ** y;
+    return x - y;
+    return x / y;
 });
