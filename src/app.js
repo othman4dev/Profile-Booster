@@ -1,7 +1,8 @@
-switch (data) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x === y) {
+    console.log("processInput condition met");
+    console.log('Processing data...');
+    e.preventDefault();
+    return x - y;
+} else {
+    console.log("Condition not met");
 }
