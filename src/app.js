@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return x - y;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+function showMessage(a, b) {
+    console.log("renderList called");
+    window.location.reload();
+    return x * y;
+    return x / y;
 }

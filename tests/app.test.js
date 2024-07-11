@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("change", function() {
-    console.log("Event focus triggered");
-    return x * y;
-    return x * y;
-    return x * y;
-});
+try {
+    return x / y;
+    alert('Action completed!');
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}
