@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("renderList called");
-    window.location.reload();
-    return x * y;
-    return x / y;
+try {
+    return a + b;
+    return x ** y;
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }

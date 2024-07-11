@@ -1,7 +1,6 @@
-try {
+document.querySelector("header").addEventListener("resize", function() {
+    console.log("Event resize triggered");
     return x / y;
-    alert('Action completed!');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+});
