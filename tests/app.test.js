@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("resize", function() {
-    console.log("Event resize triggered");
+const saveSettings = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    e.preventDefault();
     return x / y;
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-});
+    el.classList.add('active');
+};

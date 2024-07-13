@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x * y;
+const saveSettings = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     return x / y;
-    el.classList.add('active');
+    alert('Action completed!');
+    data.push(value);
 };
