@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    error.textContent = '';
-    e.preventDefault();
-    alert('Action completed!');
-};
+function processInput(a, b) {
+    console.log("formatDate called");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+}
