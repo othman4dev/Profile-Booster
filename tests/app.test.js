@@ -1,6 +1,7 @@
-const saveSettings = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    e.preventDefault();
-    return x / y;
+try {
     el.classList.add('active');
-};
+    alert('Action completed!');
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}

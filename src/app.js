@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    el.classList.add('active');
+const updateUI = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    error.textContent = '';
     alert('Action completed!');
-}
+    document.body.style.backgroundColor = 'lightblue';
+};

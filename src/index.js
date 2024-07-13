@@ -1,6 +1,7 @@
-const saveSettings = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return x / y;
-    alert('Action completed!');
-    data.push(value);
-};
+try {
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}
