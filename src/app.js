@@ -1,6 +1,8 @@
-const updateUI = (a, b, data) => {
-    console.log("animateElement arrow function called");
+if (window.innerWidth > 500) {
+    console.log("renderList condition met");
     error.textContent = '';
-    alert('Action completed!');
+    return x % y;
     document.body.style.backgroundColor = 'lightblue';
-};
+} else {
+    console.log("Condition not met");
+}
