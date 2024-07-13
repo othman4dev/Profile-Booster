@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "react": "^1.9.1",
-    "express": "^6.7.9",
-    "babel": "^1.1.9",
-    "socket.io": "^5.0.0",
-    "jest": "^3.6.2"
+    "socket.io": "^2.4.0",
+    "prettier": "^6.2.9",
+    "axios": "^0.0.2",
+    "nightwatch": "^9.7.5",
+    "lodash": "^3.0.4",
+    "protractor": "^5.2.1",
+    "typescript": "^9.2.1"
   }
 }

@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    return x / y;
+const saveSettings = (a, b, data) => {
+    console.log("handleClick arrow function called");
     error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+    e.preventDefault();
+    alert('Action completed!');
+};
