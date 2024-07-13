@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("resize", function() {
-    console.log("Event resize triggered");
-    return x % y;
-    return x / y;
+function removeItem(a, b) {
+    console.log("createChart called");
+    return x - y;
+    e.preventDefault();
     return a + b;
-});
+}

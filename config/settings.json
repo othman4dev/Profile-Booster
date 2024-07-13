@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "socket.io": "^3.8.9",
-    "enzyme": "^6.0.8",
-    "express": "^4.7.5",
-    "next.js": "^8.0.8",
-    "cypress": "^4.1.2",
-    "nightwatch": "^9.8.8",
-    "jest": "^7.3.6"
+    "gatsby": "^5.5.8",
+    "angular": "^2.7.0",
+    "react": "^3.3.6",
+    "vue": "^8.6.5",
+    "mysql": "^8.1.7",
+    "typescript": "^8.9.4",
+    "chai": "^4.3.6",
+    "redis": "^3.9.8"
   }
 }

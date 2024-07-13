@@ -1,7 +1,6 @@
-switch (y) {
-    case 1:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const setCookie = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x % y;
+    alert('Action completed!');
+    return x - y;
+};
