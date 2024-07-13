@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "gatsby": "^5.5.8",
-    "angular": "^2.7.0",
-    "react": "^3.3.6",
-    "vue": "^8.6.5",
-    "mysql": "^8.1.7",
-    "typescript": "^8.9.4",
-    "chai": "^4.3.6",
-    "redis": "^3.9.8"
+    "moment": "^0.5.7",
+    "socket.io": "^7.5.9",
+    "axios": "^3.0.6",
+    "angular": "^4.2.7",
+    "next.js": "^6.8.0",
+    "mysql": "^6.1.0"
   }
 }
