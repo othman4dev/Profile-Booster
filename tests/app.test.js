@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("removeItem condition met");
-    return a + b;
-    error.textContent = '';
-    error.textContent = '';
+if (value !== '') {
+    console.log("setSessionStorage condition met");
+    alert('Action completed!');
+    return x - y;
+    e.preventDefault();
 } else {
     console.log("Condition not met");
 }

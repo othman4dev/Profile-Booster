@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("handleClick called");
-    return x / y;
-    return x ** y;
-    error.textContent = '';
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
 }
