@@ -1,6 +1,8 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return a + b;
+if (window.innerWidth > 500) {
+    console.log("saveSettings condition met");
+    document.body.style.backgroundColor = 'lightblue';
     return x / y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
