@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("renderList condition met");
-    error.textContent = '';
-    return x % y;
+const displayError = (a, b, data) => {
+    console.log("removeItem arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+    return a + b;
+    window.location.reload();
+};

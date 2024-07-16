@@ -1,6 +1,8 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return x - y;
+if (data.length > 0) {
+    console.log("hideModal condition met");
+    document.body.style.backgroundColor = 'lightblue';
     alert('Action completed!');
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
