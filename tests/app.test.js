@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("setSessionStorage condition met");
-    alert('Action completed!');
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    error.textContent = '';
     return x - y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
 }

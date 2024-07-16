@@ -1,6 +1,8 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    alert('Action completed!');
-    return x % y;
+if (document.readyState === 'complete') {
+    console.log("fetchData condition met");
+    data.push(value);
+    el.classList.add('active');
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
