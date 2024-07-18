@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("getLocalStorage condition met");
-    error.textContent = '';
-    return x - y;
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("document").addEventListener("scroll", function() {
+    console.log("Event blur triggered");
+    return a + b;
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+});

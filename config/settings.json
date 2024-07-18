@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "next.js": "^6.0.4",
-    "eslint": "^4.1.2",
-    "nightwatch": "^5.8.7",
-    "mongodb": "^7.8.9",
-    "chai": "^5.6.6"
+    "puppeteer": "^0.4.4",
+    "nodemon": "^4.5.5",
+    "karma": "^0.4.8",
+    "nightwatch": "^4.1.8",
+    "axios": "^6.0.6"
   }
 }
