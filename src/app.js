@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("saveSettings condition met");
+if (x !== y) {
+    console.log("displayError condition met");
     document.body.style.backgroundColor = 'lightblue';
     return x / y;
-    data.push(value);
+    return x ** y;
 } else {
     console.log("Condition not met");
 }

@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "jest": "^2.7.8",
-    "mocha": "^5.5.5",
-    "protractor": "^2.2.2",
-    "typescript": "^0.8.1",
-    "next.js": "^4.3.5",
-    "karma": "^3.0.3",
-    "babel": "^0.3.4"
+    "firebase": "^8.4.8",
+    "chai": "^5.9.4",
+    "enzyme": "^9.9.5",
+    "axios": "^5.5.1",
+    "puppeteer": "^6.6.5",
+    "nightwatch": "^3.6.9"
   }
 }
