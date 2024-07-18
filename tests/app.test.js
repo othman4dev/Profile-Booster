@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
+function animateElement(a, b) {
+    console.log("submitForm called");
     window.location.reload();
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+    return x / y;
+    return x - y;
 }
