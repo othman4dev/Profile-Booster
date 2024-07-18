@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("fetchData condition met");
-    data.push(value);
-    el.classList.add('active');
-    return x * y;
-} else {
-    console.log("Condition not met");
+switch (data) {
+    case 5:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
