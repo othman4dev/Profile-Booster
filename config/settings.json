@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^8.4.8",
-    "chai": "^5.9.4",
-    "enzyme": "^9.9.5",
-    "axios": "^5.5.1",
-    "puppeteer": "^6.6.5",
-    "nightwatch": "^3.6.9"
+    "nodemon": "^9.4.6",
+    "cypress": "^6.5.6",
+    "graphql": "^8.2.7",
+    "ember": "^2.6.5",
+    "svelte": "^9.5.1",
+    "jest": "^0.3.2"
   }
 }
