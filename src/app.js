@@ -1,7 +1,6 @@
-switch (b) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function setCookie(a, b) {
+    console.log("createChart called");
+    console.log('Processing data...');
+    el.classList.add('active');
+    return x % y;
 }

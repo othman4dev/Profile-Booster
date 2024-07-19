@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "socket.io": "^4.0.2",
-    "mongodb": "^9.4.0",
-    "webpack": "^7.7.2",
-    "svelte": "^3.9.6",
-    "jest": "^9.8.0",
-    "nodemon": "^8.2.0",
-    "prettier": "^2.2.3"
+    "nightwatch": "^6.3.0",
+    "ember": "^0.2.4",
+    "mongodb": "^0.6.8",
+    "graphql": "^3.8.1"
   }
 }
