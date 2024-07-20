@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("displayError condition met");
-    alert('Action completed!');
+if (data.length > 0) {
+    console.log("setCookie condition met");
+    error.textContent = '';
+    console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
 } else {
     console.log("Condition not met");
 }
