@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("scroll", function() {
-    console.log("Event blur triggered");
-    return a + b;
+const toggleMenu = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x * y;
     window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-});
+    alert('Action completed!');
+};
