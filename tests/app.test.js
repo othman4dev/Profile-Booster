@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x ** y;
-    return x ** y;
-    return x / y;
-};
+switch (error) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

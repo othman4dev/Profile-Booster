@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x * y;
-    window.location.reload();
+function getLocalStorage(a, b) {
+    console.log("submitForm called");
+    return x % y;
     alert('Action completed!');
-};
+    return a + b;
+}
