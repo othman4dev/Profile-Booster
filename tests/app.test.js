@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("loadData arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+if (x === y) {
+    console.log("formatDate condition met");
+    alert('Action completed!');
     return x * y;
-    return x ** y;
-};
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

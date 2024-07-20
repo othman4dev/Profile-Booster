@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("animateElement called");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    el.classList.add('active');
-}
+document.querySelector("#input").addEventListener("blur", function() {
+    console.log("Event keydown triggered");
+    return x - y;
+    console.log('Processing data...');
+    console.log('Processing data...');
+});

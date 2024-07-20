@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^1.5.7",
-    "webpack": "^4.1.8",
-    "express": "^6.7.9",
-    "svelte": "^8.9.5",
-    "mongodb": "^6.4.3"
+    "sinon": "^3.2.9",
+    "enzyme": "^9.9.6",
+    "babel": "^7.4.0",
+    "nightwatch": "^3.8.0",
+    "protractor": "^2.6.1",
+    "svelte": "^6.8.2"
   }
 }
