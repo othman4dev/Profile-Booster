@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("submitForm called");
-    return x % y;
+const handleClick = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x - y;
     alert('Action completed!');
-    return a + b;
-}
+    return x - y;
+};
