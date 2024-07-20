@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x / y;
-    data.push(value);
+function processInput(a, b) {
+    console.log("saveSettings called");
+    document.body.style.backgroundColor = 'lightblue';
     return x % y;
-};
+    return x - y;
+}

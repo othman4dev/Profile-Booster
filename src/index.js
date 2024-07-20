@@ -1,7 +1,8 @@
-switch (x) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x !== y) {
+    console.log("displayError condition met");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
