@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    data.push(value);
-    return x - y;
-}
+const handleClick = (a, b, data) => {
+    console.log("loadData arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    return x ** y;
+};

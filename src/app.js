@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("createChart called");
-    console.log('Processing data...');
+function setSessionStorage(a, b) {
+    console.log("animateElement called");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
     el.classList.add('active');
-    return x % y;
 }
