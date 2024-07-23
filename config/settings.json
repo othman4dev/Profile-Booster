@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "gatsby": "^8.0.1",
-    "svelte": "^2.3.6",
-    "aws-sdk": "^1.5.2",
-    "karma": "^1.9.2",
-    "nightwatch": "^2.4.8"
+    "mongodb": "^0.6.6",
+    "cypress": "^2.9.6",
+    "gatsby": "^8.7.0",
+    "karma": "^1.6.9",
+    "axios": "^5.4.9",
+    "eslint": "^1.6.4",
+    "chai": "^8.5.4",
+    "babel": "^5.1.2"
   }
 }

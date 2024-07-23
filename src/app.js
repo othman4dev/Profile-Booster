@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("input", function() {
-    console.log("Event mouseout triggered");
-    return x % y;
-    console.log('Processing data...');
-    data.push(value);
-});
+if (x !== y) {
+    console.log("processInput condition met");
+    error.textContent = '';
+    alert('Action completed!');
+    return x / y;
+} else {
+    console.log("Condition not met");
+}

@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x - y;
-    alert('Action completed!');
-    return x - y;
-};
+function toggleMenu(a, b) {
+    console.log("formatDate called");
+    window.location.reload();
+    e.preventDefault();
+    data.push(value);
+}
