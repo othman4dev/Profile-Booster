@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("setCookie condition met");
+document.querySelector(".container").addEventListener("keydown", function() {
+    console.log("Event load triggered");
+    return a + b;
+    return x / y;
     error.textContent = '';
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+});
