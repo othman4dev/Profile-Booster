@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("formatDate condition met");
-    alert('Action completed!');
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("document").addEventListener("load", function() {
+    console.log("Event keydown triggered");
+    return x % y;
+    return x % y;
+    window.location.reload();
+});

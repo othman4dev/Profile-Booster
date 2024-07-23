@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("blur", function() {
-    console.log("Event keydown triggered");
-    return x - y;
-    console.log('Processing data...');
-    console.log('Processing data...');
+document.querySelector(".container").addEventListener("blur", function() {
+    console.log("Event focus triggered");
+    return a + b;
+    e.preventDefault();
+    e.preventDefault();
 });
