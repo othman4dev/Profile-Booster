@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("load", function() {
-    console.log("Event keydown triggered");
-    return x % y;
-    return x % y;
-    window.location.reload();
-});
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    alert('Action completed!');
+}

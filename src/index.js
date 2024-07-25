@@ -1,7 +1,6 @@
-switch (x) {
-    case 1:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function processInput(a, b) {
+    console.log("setCookie called");
+    window.location.reload();
+    window.location.reload();
+    error.textContent = '';
 }
