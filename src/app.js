@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("processInput condition met");
-    error.textContent = '';
-    alert('Action completed!');
-    return x / y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    return a + b;
+    return a + b;
 }
