@@ -1,6 +1,8 @@
-function animateElement(a, b) {
-    console.log("loadData called");
-    console.log('Processing data...');
-    e.preventDefault();
-    error.textContent = '';
+if (document.readyState === 'complete') {
+    console.log("renderList condition met");
+    data.push(value);
+    return a + b;
+    return x * y;
+} else {
+    console.log("Condition not met");
 }

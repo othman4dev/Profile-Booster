@@ -1,7 +1,6 @@
-switch (y) {
-    case 1:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const showMessage = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    error.textContent = '';
+    e.preventDefault();
+    e.preventDefault();
+};
