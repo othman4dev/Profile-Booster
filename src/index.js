@@ -1,7 +1,6 @@
-switch (el) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function checkStatus(a, b) {
+    console.log("loadData called");
+    return x ** y;
+    return x - y;
+    return x / y;
 }
