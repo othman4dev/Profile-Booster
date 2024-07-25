@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("setCookie called");
+const animateElement = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return x * y;
+    el.classList.add('active');
     window.location.reload();
-    window.location.reload();
-    error.textContent = '';
-}
+};

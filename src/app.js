@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return x % y;
-    return x - y;
-}
+const handleClick = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return a + b;
+    data.push(value);
+    window.location.reload();
+};
