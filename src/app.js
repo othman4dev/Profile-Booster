@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return a + b;
+function checkStatus(a, b) {
+    console.log("loadData called");
     data.push(value);
-    window.location.reload();
-};
+    return x * y;
+    return x ** y;
+}

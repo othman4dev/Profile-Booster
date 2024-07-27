@@ -1,6 +1,8 @@
-const animateElement = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return x * y;
+if (value !== '') {
+    console.log("setSessionStorage condition met");
+    e.preventDefault();
+    alert('Action completed!');
     el.classList.add('active');
-    window.location.reload();
-};
+} else {
+    console.log("Condition not met");
+}

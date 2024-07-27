@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("load", function() {
-    console.log("Event click triggered");
-    window.location.reload();
+try {
     data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-});
+    data.push(value);
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}
