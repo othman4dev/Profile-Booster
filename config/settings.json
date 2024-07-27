@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "mocha": "^5.5.5",
-    "jest": "^2.3.7",
-    "sinon": "^4.8.5",
-    "protractor": "^2.8.2",
-    "ember": "^3.2.4",
-    "nodemon": "^8.5.5",
-    "express": "^8.4.5",
-    "aws-sdk": "^0.5.9"
+    "babel": "^7.5.1",
+    "ember": "^5.6.3",
+    "protractor": "^0.6.9",
+    "enzyme": "^5.0.8",
+    "lodash": "^6.2.8",
+    "redis": "^2.3.6",
+    "prettier": "^3.5.5"
   }
 }
