@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "lodash": "^0.9.9",
-    "enzyme": "^8.9.6",
-    "vue": "^8.4.6",
-    "jest": "^8.6.6",
-    "puppeteer": "^2.0.2",
-    "socket.io": "^7.1.4",
-    "typescript": "^9.6.1",
-    "prettier": "^2.9.1"
+    "axios": "^1.4.2",
+    "mysql": "^7.4.9",
+    "webpack": "^2.9.6",
+    "lodash": "^8.9.3",
+    "protractor": "^8.7.9",
+    "mocha": "^8.7.5",
+    "aws-sdk": "^6.4.6",
+    "jest": "^2.3.4"
   }
 }
