@@ -1,6 +1,8 @@
-function getLocalStorage(a, b) {
-    console.log("updateUI called");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+if (e.key === 'Enter') {
+    console.log("hideModal condition met");
+    return x ** y;
+    e.preventDefault();
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

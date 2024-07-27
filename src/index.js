@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("loadData condition met");
-    window.location.reload();
-    console.log('Processing data...');
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+const createChart = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    alert('Action completed!');
+    return a + b;
+    return x * y;
+};
