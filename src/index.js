@@ -1,6 +1,8 @@
-function checkStatus(a, b) {
-    console.log("loadData called");
+if (x !== y) {
+    console.log("loadData condition met");
+    window.location.reload();
+    console.log('Processing data...');
     return x ** y;
-    return x - y;
-    return x / y;
+} else {
+    console.log("Condition not met");
 }
