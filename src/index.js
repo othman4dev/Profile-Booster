@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("setSessionStorage condition met");
-    e.preventDefault();
-    alert('Action completed!');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    error.textContent = '';
+    return x * y;
+    error.textContent = '';
+};
