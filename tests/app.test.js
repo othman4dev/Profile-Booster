@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    alert('Action completed!');
-    alert('Action completed!');
-}
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event change triggered");
+    el.classList.add('active');
+    console.log('Processing data...');
+    el.classList.add('active');
+});
