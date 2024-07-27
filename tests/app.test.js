@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("renderList called");
-    el.classList.add('active');
+document.querySelector(".modal").addEventListener("keydown", function() {
+    console.log("Event click triggered");
+    data.push(value);
     return x % y;
-    return x % y;
-}
+    e.preventDefault();
+});

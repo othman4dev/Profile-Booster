@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    error.textContent = '';
-    return x * y;
-    error.textContent = '';
-};
+try {
+    e.preventDefault();
+    console.log('Processing data...');
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
