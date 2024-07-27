@@ -1,8 +1,8 @@
 if (e.key === 'Enter') {
-    console.log("hideModal condition met");
-    return x ** y;
-    e.preventDefault();
+    console.log("showMessage condition met");
+    return a + b;
     console.log('Processing data...');
+    error.textContent = '';
 } else {
     console.log("Condition not met");
 }

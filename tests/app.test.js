@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return x - y;
-    data.push(value);
+try {
+    window.location.reload();
     return x ** y;
-};
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}
