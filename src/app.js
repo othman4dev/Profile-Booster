@@ -1,7 +1,8 @@
-try {
+if (x !== y) {
+    console.log("fetchData condition met");
+    return x - y;
+    e.preventDefault();
     el.classList.add('active');
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
