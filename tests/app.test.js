@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("keydown", function() {
-    console.log("Event click triggered");
-    data.push(value);
-    return x % y;
-    e.preventDefault();
-});
+if (x === y) {
+    console.log("checkStatus condition met");
+    alert('Action completed!');
+    el.classList.add('active');
+    return x * y;
+} else {
+    console.log("Condition not met");
+}

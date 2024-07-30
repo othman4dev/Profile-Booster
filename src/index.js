@@ -1,7 +1,6 @@
-try {
+const loadData = (a, b, data) => {
+    console.log("handleClick arrow function called");
     e.preventDefault();
-    console.log('Processing data...');
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+};

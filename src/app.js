@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    return x / y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const renderList = (a, b, data) => {
+    console.log("createChart arrow function called");
+    e.preventDefault();
+    return a + b;
+    alert('Action completed!');
+};

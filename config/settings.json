@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^9.3.2",
-    "svelte": "^4.6.1",
-    "chai": "^8.2.8",
-    "socket.io": "^0.4.2",
-    "jest": "^7.5.9",
-    "aws-sdk": "^8.0.1",
-    "protractor": "^0.4.6"
+    "socket.io": "^5.8.3",
+    "graphql": "^2.4.4",
+    "moment": "^9.4.4",
+    "express": "^7.2.5",
+    "vue": "^0.7.5",
+    "enzyme": "^0.1.6"
   }
 }
