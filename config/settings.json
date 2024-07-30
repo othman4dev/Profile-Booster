@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "puppeteer": "^0.7.5",
-    "redis": "^4.5.1",
-    "axios": "^1.4.4",
-    "jest": "^3.0.7",
-    "ember": "^8.3.9",
-    "eslint": "^5.3.2",
-    "vue": "^2.9.3",
-    "moment": "^1.5.6"
+    "gatsby": "^3.4.0",
+    "axios": "^3.6.2",
+    "protractor": "^0.9.9",
+    "angular": "^6.1.0",
+    "jest": "^0.2.0",
+    "eslint": "^7.1.7",
+    "puppeteer": "^1.0.6",
+    "react": "^6.4.5"
   }
 }

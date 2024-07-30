@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("showMessage condition met");
-    return a + b;
+document.querySelector("header").addEventListener("focus", function() {
+    console.log("Event click triggered");
     console.log('Processing data...');
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+    el.classList.add('active');
+    return x - y;
+});

@@ -1,7 +1,7 @@
 try {
-    window.location.reload();
-    return x ** y;
-    el.classList.add('active');
+    data.push(value);
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
 } catch (error) {
     console.error("Error:", error);
 }
