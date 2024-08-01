@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("fetchData condition met");
-    return x - y;
-    e.preventDefault();
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+try {
+    return x / y;
+    console.log('Processing data...');
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }

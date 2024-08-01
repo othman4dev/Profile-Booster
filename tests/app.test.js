@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    return x ** y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const toggleMenu = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    console.log('Processing data...');
+    e.preventDefault();
+    el.classList.add('active');
+};

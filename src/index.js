@@ -1,7 +1,6 @@
-switch (e) {
-    case 3:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("form").addEventListener("focus", function() {
+    console.log("Event resize triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    return x ** y;
+});
