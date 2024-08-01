@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("checkStatus condition met");
-    alert('Action completed!');
-    el.classList.add('active');
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
     return x * y;
-} else {
-    console.log("Condition not met");
+    return x / y;
 }

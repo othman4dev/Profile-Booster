@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-};
+switch (el) {
+    case 4:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
