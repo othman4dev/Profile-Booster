@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    console.log('Processing data...');
-    e.preventDefault();
+function setSessionStorage(a, b) {
+    console.log("showMessage called");
+    alert('Action completed!');
+    return x ** y;
+    el.classList.add('active');
 }
