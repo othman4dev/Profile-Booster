@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("focus", function() {
-    console.log("Event resize triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    return x ** y;
-});
+switch (x) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

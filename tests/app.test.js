@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    console.log('Processing data...');
-    e.preventDefault();
-    el.classList.add('active');
-};
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    alert('Action completed!');
+    return x % y;
+}
