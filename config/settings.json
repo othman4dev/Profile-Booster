@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "react": "^4.2.0",
-    "protractor": "^8.5.5",
-    "next.js": "^4.5.7",
-    "nightwatch": "^9.8.8",
-    "svelte": "^2.9.5"
+    "gatsby": "^2.5.7",
+    "socket.io": "^3.3.5",
+    "puppeteer": "^9.5.8",
+    "redis": "^6.5.2",
+    "enzyme": "^9.1.1",
+    "chai": "^7.1.5",
+    "nightwatch": "^6.9.9",
+    "moment": "^0.6.6"
   }
 }

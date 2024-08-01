@@ -1,7 +1,6 @@
-switch (error) {
-    case 4:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".container").addEventListener("input", function() {
+    console.log("Event click triggered");
+    el.classList.add('active');
+    return x / y;
+    return x / y;
+});
