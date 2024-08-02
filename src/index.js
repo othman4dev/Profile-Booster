@@ -1,7 +1,6 @@
-switch (value) {
-    case 3:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const validateInput = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x ** y;
+    el.classList.add('active');
+    return x * y;
+};
