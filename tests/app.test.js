@@ -1,6 +1,8 @@
-function setSessionStorage(a, b) {
-    console.log("showMessage called");
-    alert('Action completed!');
-    return x ** y;
-    el.classList.add('active');
+if (a > b) {
+    console.log("createChart condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

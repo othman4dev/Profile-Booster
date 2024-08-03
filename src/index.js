@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    e.preventDefault();
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+function loadData(a, b) {
+    console.log("animateElement called");
+    error.textContent = '';
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
 }

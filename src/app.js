@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    alert('Action completed!');
+const animateElement = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    error.textContent = '';
     return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    console.log('Processing data...');
+};
