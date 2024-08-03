@@ -1,7 +1,6 @@
-switch (x) {
-    case 5:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function setCookie(a, b) {
+    console.log("updateUI called");
+    console.log('Processing data...');
+    data.push(value);
+    return x - y;
 }

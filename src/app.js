@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x / y;
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-};
+document.querySelector("#input").addEventListener("resize", function() {
+    console.log("Event input triggered");
+    return x % y;
+    console.log('Processing data...');
+    alert('Action completed!');
+});

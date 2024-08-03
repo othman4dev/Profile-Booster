@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "protractor": "^1.5.9",
-    "prettier": "^0.0.9",
-    "mongodb": "^5.5.5",
-    "webpack": "^9.0.6",
-    "socket.io": "^3.6.6"
+    "karma": "^6.7.3",
+    "ember": "^5.9.7",
+    "mocha": "^7.8.4",
+    "protractor": "^6.2.0",
+    "lodash": "^9.0.8",
+    "express": "^5.9.7",
+    "nightwatch": "^7.0.0",
+    "vue": "^2.1.8"
   }
 }
