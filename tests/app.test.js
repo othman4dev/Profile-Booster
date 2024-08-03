@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x ** y;
-    e.preventDefault();
-    data.push(value);
+const hideModal = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x * y;
+    return x % y;
+    return a + b;
 };

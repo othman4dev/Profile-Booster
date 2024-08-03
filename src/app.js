@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    error.textContent = '';
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("document").addEventListener("click", function() {
+    console.log("Event click triggered");
+    return a + b;
+    window.location.reload();
+    console.log('Processing data...');
+});

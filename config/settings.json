@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "sinon": "^0.0.3",
-    "mocha": "^9.9.2",
-    "axios": "^9.3.2",
-    "cypress": "^6.6.9",
-    "aws-sdk": "^2.2.0"
+    "jest": "^2.4.6",
+    "graphql": "^1.4.5",
+    "enzyme": "^4.7.0",
+    "protractor": "^8.7.6",
+    "webpack": "^3.7.7",
+    "eslint": "^5.4.6",
+    "typescript": "^9.0.2",
+    "sinon": "^1.6.9"
   }
 }
