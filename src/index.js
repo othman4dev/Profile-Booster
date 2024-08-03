@@ -1,6 +1,8 @@
-function loadData(a, b) {
-    console.log("animateElement called");
-    error.textContent = '';
+if (data.length > 0) {
+    console.log("validateInput condition met");
+    window.location.reload();
     return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
