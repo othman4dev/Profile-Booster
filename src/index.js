@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("updateUI called");
-    console.log('Processing data...');
-    data.push(value);
-    return x - y;
-}
+document.querySelector("header").addEventListener("submit", function() {
+    console.log("Event input triggered");
+    return x % y;
+    return a + b;
+    el.classList.add('active');
+});
