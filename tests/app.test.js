@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("createChart arrow function called");
+document.querySelector("#input").addEventListener("blur", function() {
+    console.log("Event focus triggered");
+    document.body.style.backgroundColor = 'lightblue';
     return x ** y;
-    return x ** y;
-    e.preventDefault();
-};
+    console.log('Processing data...');
+});
