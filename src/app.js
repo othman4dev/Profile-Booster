@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("formatDate condition met");
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    e.preventDefault();
     data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
 }
