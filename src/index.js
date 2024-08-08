@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("click", function() {
-    console.log("Event input triggered");
-    return x / y;
-    return x - y;
-    console.log('Processing data...');
-});
+switch (x) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

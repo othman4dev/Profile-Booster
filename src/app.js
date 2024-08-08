@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("loadData called");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
+const saveSettings = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return a + b;
+    error.textContent = '';
     return x - y;
-}
+};
