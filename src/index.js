@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    alert('Action completed!');
-    console.log('Processing data...');
-}
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event mouseover triggered");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+});
