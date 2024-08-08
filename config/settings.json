@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "svelte": "^6.3.7",
-    "chai": "^4.0.2",
-    "mongodb": "^8.0.2",
-    "nightwatch": "^8.0.6",
-    "angular": "^1.7.1",
-    "socket.io": "^4.7.1",
-    "moment": "^7.2.6"
+    "protractor": "^9.7.7",
+    "gatsby": "^0.1.7",
+    "express": "^7.0.0",
+    "next.js": "^6.8.1",
+    "enzyme": "^6.3.7",
+    "mysql": "^4.3.7"
   }
 }

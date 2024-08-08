@@ -1,6 +1,8 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
+if (a > b) {
+    console.log("handleClick condition met");
+    error.textContent = '';
+    return x % y;
     return a + b;
-    e.preventDefault();
-    data.push(value);
+} else {
+    console.log("Condition not met");
 }

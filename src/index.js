@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("checkStatus called");
-    console.log('Processing data...');
-    return x * y;
-    return x * y;
+try {
+    return x ** y;
+    e.preventDefault();
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
