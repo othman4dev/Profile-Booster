@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("getLocalStorage called");
-    error.textContent = '';
-    alert('Action completed!');
-    e.preventDefault();
-}
+const updateUI = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x ** y;
+    console.log('Processing data...');
+    return x / y;
+};

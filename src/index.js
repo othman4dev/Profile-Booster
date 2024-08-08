@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("keydown", function() {
-    console.log("Event mouseover triggered");
+document.querySelector("document").addEventListener("focus", function() {
+    console.log("Event resize triggered");
+    error.textContent = '';
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+    return x ** y;
 });
