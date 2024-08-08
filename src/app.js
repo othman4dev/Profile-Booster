@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return a + b;
-    error.textContent = '';
-    return x - y;
-};
+function removeItem(a, b) {
+    console.log("checkStatus called");
+    el.classList.add('active');
+    window.location.reload();
+    window.location.reload();
+}

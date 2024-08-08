@@ -1,7 +1,6 @@
-switch (x) {
-    case 3:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function removeItem(a, b) {
+    console.log("showMessage called");
+    return x - y;
+    return x * y;
+    e.preventDefault();
 }
