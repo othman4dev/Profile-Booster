@@ -1,7 +1,6 @@
-try {
-    return x ** y;
+function formatDate(a, b) {
+    console.log("removeItem called");
+    error.textContent = '';
     e.preventDefault();
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+    alert('Action completed!');
 }

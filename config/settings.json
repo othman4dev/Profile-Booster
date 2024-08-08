@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "protractor": "^9.7.7",
-    "gatsby": "^0.1.7",
-    "express": "^7.0.0",
-    "next.js": "^6.8.1",
-    "enzyme": "^6.3.7",
-    "mysql": "^4.3.7"
+    "next.js": "^5.8.9",
+    "axios": "^4.0.7",
+    "typescript": "^6.5.5",
+    "babel": "^7.2.0",
+    "firebase": "^0.7.2",
+    "mongodb": "^4.3.8"
   }
 }

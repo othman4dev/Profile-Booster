@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("handleClick condition met");
+function createChart(a, b) {
+    console.log("checkStatus called");
+    return x - y;
+    return x / y;
     error.textContent = '';
-    return x % y;
-    return a + b;
-} else {
-    console.log("Condition not met");
 }

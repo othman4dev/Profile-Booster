@@ -1,7 +1,8 @@
-try {
-    error.textContent = '';
-    el.classList.add('active');
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+if (x !== y) {
+    console.log("fetchData condition met");
+    alert('Action completed!');
+    return a + b;
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
