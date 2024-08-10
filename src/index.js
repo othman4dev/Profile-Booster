@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("removeItem called");
-    error.textContent = '';
-    e.preventDefault();
+try {
+    document.body.style.backgroundColor = 'lightblue';
     alert('Action completed!');
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }

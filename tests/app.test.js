@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("fetchData condition met");
-    alert('Action completed!');
+function animateElement(a, b) {
+    console.log("animateElement called");
     return a + b;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+    alert('Action completed!');
 }
