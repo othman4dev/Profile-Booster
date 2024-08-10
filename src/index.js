@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("displayError condition met");
-    return x - y;
-    return x / y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+const saveSettings = (a, b, data) => {
+    console.log("displayError arrow function called");
+    e.preventDefault();
+    return x * y;
+    return x * y;
+};

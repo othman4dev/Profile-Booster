@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("focus", function() {
+document.querySelector("#nav").addEventListener("scroll", function() {
     console.log("Event blur triggered");
-    error.textContent = '';
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    return x % y;
+    return x ** y;
 });

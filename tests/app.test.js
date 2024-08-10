@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("toggleMenu called");
+document.querySelector("header").addEventListener("keydown", function() {
+    console.log("Event blur triggered");
     e.preventDefault();
-    error.textContent = '';
-    return x - y;
-}
+    return a + b;
+    return x * y;
+});
