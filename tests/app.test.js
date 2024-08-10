@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    return x ** y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+function hideModal(a, b) {
+    console.log("toggleMenu called");
+    e.preventDefault();
+    error.textContent = '';
+    return x - y;
 }

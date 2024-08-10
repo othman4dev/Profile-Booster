@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "chai": "^7.5.6",
-    "mongodb": "^4.0.7",
-    "axios": "^8.7.2",
-    "react": "^4.8.1",
-    "cypress": "^3.6.5",
-    "karma": "^4.3.8",
-    "next.js": "^3.1.5"
+    "chai": "^1.5.7",
+    "mysql": "^3.3.6",
+    "ember": "^8.8.8",
+    "jest": "^2.5.6",
+    "socket.io": "^0.7.1",
+    "mocha": "^0.6.1"
   }
 }
