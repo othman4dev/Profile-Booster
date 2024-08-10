@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("click", function() {
-    console.log("Event resize triggered");
-    el.classList.add('active');
-    alert('Action completed!');
-    data.push(value);
-});
+switch (x) {
+    case 4:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}
