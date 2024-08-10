@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "protractor": "^3.7.2",
-    "gatsby": "^9.9.0",
-    "moment": "^0.1.8",
-    "mocha": "^8.0.2",
-    "firebase": "^5.9.4"
+    "sinon": "^4.4.1",
+    "prettier": "^1.0.9",
+    "mysql": "^7.8.5",
+    "next.js": "^4.2.9",
+    "nightwatch": "^7.4.4",
+    "express": "^7.3.7",
+    "karma": "^8.1.9",
+    "puppeteer": "^3.8.0"
   }
 }

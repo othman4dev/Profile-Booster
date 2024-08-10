@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("displayError called");
+document.querySelector("#nav").addEventListener("click", function() {
+    console.log("Event resize triggered");
+    el.classList.add('active');
     alert('Action completed!');
-    window.location.reload();
-    return a + b;
-}
+    data.push(value);
+});
