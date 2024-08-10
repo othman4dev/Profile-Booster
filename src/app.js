@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return a + b;
-    return x ** y;
-}
+const updateUI = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+};
