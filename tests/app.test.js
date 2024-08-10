@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("animateElement called");
-    return a + b;
-    el.classList.add('active');
-    alert('Action completed!');
+switch (error) {
+    case 3:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
