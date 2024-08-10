@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("checkStatus called");
-    el.classList.add('active');
+function updateUI(a, b) {
+    console.log("displayError called");
+    alert('Action completed!');
     window.location.reload();
-    window.location.reload();
+    return a + b;
 }

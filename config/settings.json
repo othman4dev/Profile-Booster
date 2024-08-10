@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^7.9.4",
-    "ember": "^9.9.5",
-    "prettier": "^9.1.6",
-    "chai": "^1.7.2",
-    "karma": "^0.3.6",
-    "mongodb": "^4.0.3"
+    "protractor": "^3.7.2",
+    "gatsby": "^9.9.0",
+    "moment": "^0.1.8",
+    "mocha": "^8.0.2",
+    "firebase": "^5.9.4"
   }
 }
