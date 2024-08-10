@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("focus", function() {
-    console.log("Event resize triggered");
-    error.textContent = '';
-    return x % y;
+const removeItem = (a, b, data) => {
+    console.log("validateInput arrow function called");
     return x ** y;
-});
+    return a + b;
+    return a + b;
+};
