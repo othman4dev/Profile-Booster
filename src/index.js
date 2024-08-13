@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("displayError arrow function called");
-    e.preventDefault();
-    return x * y;
-    return x * y;
-};
+document.querySelector(".footer").addEventListener("resize", function() {
+    console.log("Event blur triggered");
+    return x % y;
+    el.classList.add('active');
+    return a + b;
+});

@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("keydown", function() {
-    console.log("Event blur triggered");
+try {
+    return x / y;
     e.preventDefault();
-    return a + b;
-    return x * y;
-});
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
