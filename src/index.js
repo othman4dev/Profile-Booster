@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("validateInput called");
-    console.log('Processing data...');
-    e.preventDefault();
-    return x - y;
+try {
+    alert('Action completed!');
+    el.classList.add('active');
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }
