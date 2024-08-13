@@ -1,7 +1,6 @@
-switch (e) {
-    case 1:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("header").addEventListener("resize", function() {
+    console.log("Event resize triggered");
+    return x % y;
+    return x - y;
+    return x / y;
+});

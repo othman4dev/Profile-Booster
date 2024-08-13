@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("fetchData condition met");
-    return x - y;
-    return x / y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+switch (b) {
+    case 4:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

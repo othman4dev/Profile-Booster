@@ -1,6 +1,8 @@
-const updateUI = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-};
+if (value !== '') {
+    console.log("loadData condition met");
+    return a + b;
+    e.preventDefault();
+    return x * y;
+} else {
+    console.log("Condition not met");
+}
