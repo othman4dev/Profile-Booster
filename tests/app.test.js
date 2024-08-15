@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("displayError called");
-    data.push(value);
-    return x % y;
-    error.textContent = '';
-}
+document.querySelector("document").addEventListener("mouseover", function() {
+    console.log("Event mouseover triggered");
+    return x * y;
+    console.log('Processing data...');
+    return x / y;
+});
