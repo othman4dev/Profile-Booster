@@ -1,7 +1,6 @@
-try {
+const fetchData = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x * y;
+    return x ** y;
     return x / y;
-    e.preventDefault();
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+};
