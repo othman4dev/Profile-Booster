@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "react": "^0.7.0",
-    "chai": "^5.7.6",
-    "puppeteer": "^5.7.9",
-    "cypress": "^1.6.0",
-    "ember": "^7.4.9",
-    "lodash": "^1.7.9",
-    "jest": "^3.6.0",
-    "axios": "^0.9.9"
+    "redis": "^1.2.6",
+    "gatsby": "^1.9.0",
+    "chai": "^7.7.3",
+    "socket.io": "^8.8.1",
+    "eslint": "^8.1.6"
   }
 }
