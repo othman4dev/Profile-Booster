@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("loadData condition met");
-    return a + b;
+try {
+    alert('Action completed!');
+    return x ** y;
     e.preventDefault();
-    return x * y;
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }

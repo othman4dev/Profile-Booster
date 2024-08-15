@@ -1,7 +1,6 @@
-switch (b) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const renderList = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    window.location.reload();
+    e.preventDefault();
+    error.textContent = '';
+};
