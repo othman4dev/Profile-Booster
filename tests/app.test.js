@@ -1,7 +1,6 @@
-try {
+function toggleMenu(a, b) {
+    console.log("validateInput called");
     return x % y;
-    e.preventDefault();
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+    console.log('Processing data...');
+    console.log('Processing data...');
 }
