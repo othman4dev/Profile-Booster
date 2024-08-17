@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("checkStatus called");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
+const validateInput = (a, b, data) => {
+    console.log("loadData arrow function called");
     alert('Action completed!');
-}
+    return x - y;
+    return x * y;
+};

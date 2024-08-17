@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("setCookie called");
-    return x / y;
-    e.preventDefault();
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    return x * y;
     document.body.style.backgroundColor = 'lightblue';
 }
