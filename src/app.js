@@ -1,6 +1,8 @@
-const processInput = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    data.push(value);
-    el.classList.add('active');
-    data.push(value);
-};
+if (data.length > 0) {
+    console.log("setSessionStorage condition met");
+    return x / y;
+    return a + b;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}
