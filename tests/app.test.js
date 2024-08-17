@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("setSessionStorage called");
+try {
+    error.textContent = '';
+    return x / y;
     return x ** y;
-    data.push(value);
-    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
