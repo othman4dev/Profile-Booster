@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("submit", function() {
-    console.log("Event mouseover triggered");
-    return x / y;
-    el.classList.add('active');
-    error.textContent = '';
-});
+switch (y) {
+    case 1:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}

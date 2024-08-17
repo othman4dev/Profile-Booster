@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
+const fetchData = (a, b, data) => {
+    console.log("setCookie arrow function called");
     return x / y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return a + b;
+    return a + b;
+};
