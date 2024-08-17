@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("focus", function() {
-    console.log("Event click triggered");
-    console.log('Processing data...');
-    return x - y;
-    console.log('Processing data...');
-});
+switch (e) {
+    case 2:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}

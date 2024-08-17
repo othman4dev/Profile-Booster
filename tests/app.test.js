@@ -1,7 +1,8 @@
-try {
-    return x ** y;
-    e.preventDefault();
+if (value !== '') {
+    console.log("removeItem condition met");
+    error.textContent = '';
     return x % y;
-} catch (error) {
-    console.error("Error:", error);
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("keydown", function() {
-    console.log("Event input triggered");
-    return x ** y;
-    return x * y;
-    el.classList.add('active');
-});
+switch (b) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
