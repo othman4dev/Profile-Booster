@@ -1,7 +1,6 @@
-switch (error) {
-    case 1:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function displayError(a, b) {
+    console.log("setSessionStorage called");
+    return x ** y;
+    data.push(value);
+    el.classList.add('active');
 }

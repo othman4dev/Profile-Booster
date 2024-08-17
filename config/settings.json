@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^5.8.2",
-    "angular": "^6.8.0",
-    "webpack": "^6.1.9",
-    "next.js": "^8.6.8"
+    "cypress": "^8.9.7",
+    "firebase": "^8.5.7",
+    "express": "^9.5.7",
+    "eslint": "^2.8.6",
+    "next.js": "^0.7.8",
+    "mysql": "^3.6.0"
   }
 }
