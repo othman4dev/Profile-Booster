@@ -1,7 +1,6 @@
-switch (e) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function handleClick(a, b) {
+    console.log("setCookie called");
+    return x / y;
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
 }

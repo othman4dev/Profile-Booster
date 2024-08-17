@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("removeItem condition met");
-    error.textContent = '';
-    return x % y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
+function fetchData(a, b) {
+    console.log("checkStatus called");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    alert('Action completed!');
 }
