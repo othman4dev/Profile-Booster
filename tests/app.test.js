@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    return x / y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+const setCookie = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x * y;
+    el.classList.add('active');
+    data.push(value);
+};

@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("setSessionStorage condition met");
-    return x / y;
-    return a + b;
+const validateInput = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    data.push(value);
     window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+    e.preventDefault();
+};
