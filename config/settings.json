@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^3.0.6",
-    "sinon": "^2.4.0",
-    "cypress": "^6.0.1",
-    "webpack": "^0.2.8",
-    "next.js": "^2.6.5",
-    "jasmine": "^1.0.5"
+    "babel": "^6.3.8",
+    "vue": "^8.9.2",
+    "lodash": "^5.3.2",
+    "react": "^9.1.7",
+    "jest": "^3.7.7",
+    "protractor": "^7.6.0"
   }
 }

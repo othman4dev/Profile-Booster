@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
+function handleClick(a, b) {
+    console.log("removeItem called");
     el.classList.add('active');
-    error.textContent = '';
-    return x % y;
+    return x / y;
+    return x * y;
 }
