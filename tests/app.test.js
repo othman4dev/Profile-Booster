@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("loadData arrow function called");
-    alert('Action completed!');
-    return x - y;
+document.querySelector(".modal").addEventListener("resize", function() {
+    console.log("Event focus triggered");
+    return a + b;
     return x * y;
-};
+    return x - y;
+});
