@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return x / y;
-    return a + b;
-    return a + b;
-};
+function updateUI(a, b) {
+    console.log("processInput called");
+    return x - y;
+    console.log('Processing data...');
+    data.push(value);
+}
