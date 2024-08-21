@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("removeItem called");
-    el.classList.add('active');
-    return x / y;
-    return x * y;
+try {
+    data.push(value);
+    e.preventDefault();
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }

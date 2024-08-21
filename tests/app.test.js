@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event keydown triggered");
-    return x / y;
-    window.location.reload();
-    alert('Action completed!');
-});
+function validateInput(a, b) {
+    console.log("toggleMenu called");
+    data.push(value);
+    error.textContent = '';
+    return x ** y;
+}
