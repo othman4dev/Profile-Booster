@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("processInput called");
-    return x - y;
-    console.log('Processing data...');
-    data.push(value);
-}
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+});
