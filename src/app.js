@@ -1,7 +1,6 @@
-switch (e) {
-    case 4:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const loadData = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    data.push(value);
+    return x * y;
+    el.classList.add('active');
+};

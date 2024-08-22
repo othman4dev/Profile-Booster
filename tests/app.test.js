@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event focus triggered");
+document.querySelector("form").addEventListener("click", function() {
+    console.log("Event mouseover triggered");
     return a + b;
-    return x * y;
-    return x - y;
+    e.preventDefault();
+    return a + b;
 });
