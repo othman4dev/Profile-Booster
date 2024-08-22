@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("click", function() {
-    console.log("Event mouseover triggered");
-    return a + b;
-    e.preventDefault();
-    return a + b;
-});
+function displayError(a, b) {
+    console.log("createChart called");
+    return x % y;
+    window.location.reload();
+    return x ** y;
+}
