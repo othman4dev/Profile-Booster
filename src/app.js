@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("submit", function() {
-    console.log("Event change triggered");
-    error.textContent = '';
-    return x * y;
+function setSessionStorage(a, b) {
+    console.log("removeItem called");
+    console.log('Processing data...');
+    console.log('Processing data...');
     alert('Action completed!');
-});
+}

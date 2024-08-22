@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("click", function() {
-    console.log("Event resize triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    return x * y;
-});
+const showMessage = (a, b, data) => {
+    console.log("processInput arrow function called");
+    e.preventDefault();
+    e.preventDefault();
+    return x ** y;
+};

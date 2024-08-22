@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("focus", function() {
-    console.log("Event scroll triggered");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
+if (document.readyState === 'complete') {
+    console.log("setCookie condition met");
+    return x - y;
+    console.log('Processing data...');
     return x / y;
-});
+} else {
+    console.log("Condition not met");
+}
