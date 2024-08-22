@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("toggleMenu called");
+try {
     data.push(value);
-    error.textContent = '';
-    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }

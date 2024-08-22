@@ -1,6 +1,8 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    data.push(value);
-    alert('Action completed!');
+if (window.innerWidth > 500) {
+    console.log("renderList condition met");
+    console.log('Processing data...');
+    e.preventDefault();
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

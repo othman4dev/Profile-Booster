@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    e.preventDefault();
+document.querySelector("form").addEventListener("keydown", function() {
+    console.log("Event change triggered");
     return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x * y;
+    return x * y;
+});
