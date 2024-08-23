@@ -1,7 +1,6 @@
-switch (e) {
-    case 5:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const formatDate = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x * y;
+    console.log('Processing data...');
+    return x ** y;
+};

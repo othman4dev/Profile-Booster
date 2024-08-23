@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("resize", function() {
-    console.log("Event click triggered");
-    window.location.reload();
-    error.textContent = '';
-    error.textContent = '';
+document.querySelector("document").addEventListener("input", function() {
+    console.log("Event submit triggered");
+    e.preventDefault();
+    console.log('Processing data...');
+    el.classList.add('active');
 });
