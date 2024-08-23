@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("removeItem condition met");
-    return x % y;
-    return x - y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("window").addEventListener("resize", function() {
+    console.log("Event click triggered");
+    window.location.reload();
+    error.textContent = '';
+    error.textContent = '';
+});
