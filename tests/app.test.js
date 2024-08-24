@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("input", function() {
-    console.log("Event resize triggered");
+try {
+    data.push(value);
     e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-});
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}
