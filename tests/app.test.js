@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("load", function() {
+document.querySelector("#button").addEventListener("scroll", function() {
     console.log("Event click triggered");
-    e.preventDefault();
-    return x - y;
-    window.location.reload();
+    data.push(value);
+    error.textContent = '';
+    return x % y;
 });

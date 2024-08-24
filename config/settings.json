@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "firebase": "^6.4.2",
-    "mysql": "^7.6.0",
-    "cypress": "^4.1.4",
-    "react": "^6.5.1",
-    "moment": "^8.4.0"
+    "mysql": "^8.2.4",
+    "firebase": "^1.5.2",
+    "moment": "^3.8.4",
+    "angular": "^0.9.6"
   }
 }

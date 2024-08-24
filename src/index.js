@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("focus", function() {
-    console.log("Event mouseover triggered");
-    e.preventDefault();
-    error.textContent = '';
-    return x ** y;
-});
+const removeItem = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    alert('Action completed!');
+    return x - y;
+    return x * y;
+};
