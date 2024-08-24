@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("handleClick called");
-    document.body.style.backgroundColor = 'lightblue';
+const removeItem = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x / y;
+    return x * y;
     console.log('Processing data...');
-    error.textContent = '';
-}
+};

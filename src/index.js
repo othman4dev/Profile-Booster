@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("updateUI called");
+try {
+    el.classList.add('active');
+    console.log('Processing data...');
     return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }

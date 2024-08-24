@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("submitForm called");
-    window.location.reload();
-    data.push(value);
-    return x ** y;
-}
+document.querySelector(".container").addEventListener("input", function() {
+    console.log("Event resize triggered");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+});

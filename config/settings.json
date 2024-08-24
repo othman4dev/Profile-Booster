@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "svelte": "^2.9.7",
-    "prettier": "^4.8.9",
-    "sinon": "^4.3.0",
-    "mysql": "^6.8.4",
-    "mocha": "^4.3.3"
+    "webpack": "^3.7.4",
+    "eslint": "^8.0.6",
+    "react": "^0.0.9",
+    "lodash": "^2.6.4",
+    "axios": "^5.8.7",
+    "socket.io": "^3.7.1"
   }
 }
