@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("keydown", function() {
-    console.log("Event load triggered");
-    window.location.reload();
-    alert('Action completed!');
-    alert('Action completed!');
-});
+switch (a) {
+    case 1:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

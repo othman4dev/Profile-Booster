@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("scroll", function() {
-    console.log("Event click triggered");
-    data.push(value);
+try {
+    return x * y;
+    return a + b;
     error.textContent = '';
-    return x % y;
-});
+} catch (error) {
+    console.error("Error:", error);
+}

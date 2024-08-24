@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    alert('Action completed!');
+const submitForm = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return a + b;
+    data.push(value);
     return x - y;
-    return x * y;
 };
