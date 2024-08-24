@@ -1,7 +1,6 @@
-switch (e) {
-    case 3:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function loadData(a, b) {
+    console.log("handleClick called");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    error.textContent = '';
 }

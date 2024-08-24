@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^9.1.4",
-    "socket.io": "^8.8.3",
-    "webpack": "^5.5.4",
-    "express": "^1.7.3",
-    "puppeteer": "^2.5.9",
-    "cypress": "^0.9.8",
-    "eslint": "^6.2.8"
+    "svelte": "^2.9.7",
+    "prettier": "^4.8.9",
+    "sinon": "^4.3.0",
+    "mysql": "^6.8.4",
+    "mocha": "^4.3.3"
   }
 }
