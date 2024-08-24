@@ -1,6 +1,7 @@
-function setSessionStorage(a, b) {
-    console.log("removeItem called");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    alert('Action completed!');
+try {
+    data.push(value);
+    error.textContent = '';
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }

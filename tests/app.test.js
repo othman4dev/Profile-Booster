@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setCookie condition met");
+document.querySelector("form").addEventListener("load", function() {
+    console.log("Event click triggered");
+    e.preventDefault();
     return x - y;
-    console.log('Processing data...');
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+    window.location.reload();
+});

@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("processInput arrow function called");
+document.querySelector("document").addEventListener("focus", function() {
+    console.log("Event mouseover triggered");
     e.preventDefault();
-    e.preventDefault();
+    error.textContent = '';
     return x ** y;
-};
+});

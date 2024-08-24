@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^7.0.1",
-    "mocha": "^0.4.8",
-    "axios": "^0.7.3",
-    "moment": "^8.4.0",
-    "next.js": "^7.6.7",
-    "karma": "^4.8.0",
-    "react": "^2.4.4",
-    "jest": "^5.5.7"
+    "firebase": "^6.4.2",
+    "mysql": "^7.6.0",
+    "cypress": "^4.1.4",
+    "react": "^6.5.1",
+    "moment": "^8.4.0"
   }
 }
