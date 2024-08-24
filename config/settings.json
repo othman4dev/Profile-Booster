@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "chai": "^6.2.3",
-    "socket.io": "^3.4.3",
-    "ember": "^5.1.8",
-    "prettier": "^7.5.7",
-    "typescript": "^8.6.5",
-    "cypress": "^3.8.7"
+    "sinon": "^7.3.3",
+    "enzyme": "^3.6.6",
+    "moment": "^3.7.7",
+    "puppeteer": "^2.6.0",
+    "mocha": "^6.7.7",
+    "mysql": "^9.2.0"
   }
 }

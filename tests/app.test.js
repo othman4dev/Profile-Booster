@@ -1,7 +1,8 @@
-try {
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+if (window.innerWidth > 500) {
+    console.log("formatDate condition met");
+    console.log('Processing data...');
+    window.location.reload();
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("renderList condition met");
-    console.log('Processing data...');
-    e.preventDefault();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+try {
+    el.classList.add('active');
+    return x / y;
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }
