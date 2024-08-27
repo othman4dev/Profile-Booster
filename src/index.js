@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return a + b;
-    data.push(value);
-    return x - y;
+const renderList = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x / y;
+    el.classList.add('active');
+    return x ** y;
 };
