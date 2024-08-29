@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "vue": "^8.8.4",
-    "redis": "^0.5.2",
-    "puppeteer": "^1.2.7",
-    "nodemon": "^6.7.9",
-    "enzyme": "^5.7.0",
-    "chai": "^5.9.3",
-    "lodash": "^4.6.7"
+    "eslint": "^7.7.3",
+    "gatsby": "^1.5.9",
+    "prettier": "^2.7.1",
+    "moment": "^2.7.8",
+    "cypress": "^1.3.1",
+    "lodash": "^9.5.3",
+    "nightwatch": "^2.7.2",
+    "jest": "^2.4.0"
   }
 }
