@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x / y;
-    el.classList.add('active');
-    return x ** y;
-};
+document.querySelector(".modal").addEventListener("resize", function() {
+    console.log("Event mouseover triggered");
+    console.log('Processing data...');
+    console.log('Processing data...');
+    return x - y;
+});
