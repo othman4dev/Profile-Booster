@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event mouseover triggered");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    return x - y;
-});
+try {
+    error.textContent = '';
+    return a + b;
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}

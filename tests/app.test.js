@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
+function fetchData(a, b) {
+    console.log("validateInput called");
     console.log('Processing data...');
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    return x - y;
 }
