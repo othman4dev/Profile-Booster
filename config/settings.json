@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^7.7.3",
-    "gatsby": "^1.5.9",
-    "prettier": "^2.7.1",
-    "moment": "^2.7.8",
-    "cypress": "^1.3.1",
-    "lodash": "^9.5.3",
-    "nightwatch": "^2.7.2",
-    "jest": "^2.4.0"
+    "karma": "^0.4.3",
+    "moment": "^8.6.0",
+    "socket.io": "^3.1.0",
+    "nodemon": "^2.7.0",
+    "prettier": "^5.1.0"
   }
 }

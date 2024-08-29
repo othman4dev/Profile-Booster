@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("setCookie called");
-    return x - y;
-    e.preventDefault();
-    alert('Action completed!');
+try {
+    data.push(value);
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }

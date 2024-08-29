@@ -1,7 +1,6 @@
-switch (a) {
-    case 1:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".modal").addEventListener("input", function() {
+    console.log("Event load triggered");
+    return x / y;
+    data.push(value);
+    error.textContent = '';
+});

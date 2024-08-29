@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("submit", function() {
-    console.log("Event change triggered");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-});
+switch (x) {
+    case 3:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}
