@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("submitForm arrow function called");
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
     console.log('Processing data...');
-    return x * y;
-    return x / y;
-};
+    return x ** y;
+    return x ** y;
+}
