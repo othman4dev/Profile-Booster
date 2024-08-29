@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("setCookie condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+try {
+    console.log('Processing data...');
+    error.textContent = '';
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }
