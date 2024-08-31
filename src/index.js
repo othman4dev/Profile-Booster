@@ -1,7 +1,8 @@
-try {
-    data.push(value);
-    window.location.reload();
+if (a > b) {
+    console.log("saveSettings condition met");
     document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
