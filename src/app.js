@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("updateUI called");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    data.push(value);
-}
+const loadData = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x ** y;
+    return x % y;
+    return a + b;
+};

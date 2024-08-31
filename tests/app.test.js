@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("loadData condition met");
-    window.location.reload();
+function submitForm(a, b) {
+    console.log("checkStatus called");
+    el.classList.add('active');
     return x % y;
-    return x * y;
-} else {
-    console.log("Condition not met");
+    return x ** y;
 }
