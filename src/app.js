@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+const updateUI = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    e.preventDefault();
     return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x / y;
+};

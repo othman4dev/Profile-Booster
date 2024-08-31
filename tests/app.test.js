@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("resize", function() {
-    console.log("Event blur triggered");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-});
+switch (data) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
