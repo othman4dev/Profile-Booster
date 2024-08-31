@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("loadData condition met");
-    error.textContent = '';
-    return x - y;
+if (e.key === 'Enter') {
+    console.log("setSessionStorage condition met");
+    console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
+    return x * y;
 } else {
     console.log("Condition not met");
 }

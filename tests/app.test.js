@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("mouseover", function() {
-    console.log("Event input triggered");
+try {
+    return x % y;
+    return x - y;
     el.classList.add('active');
-    return x % y;
-    return x % y;
-});
+} catch (error) {
+    console.error("Error:", error);
+}
