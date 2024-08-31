@@ -1,6 +1,7 @@
-const updateUI = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    e.preventDefault();
-    return x / y;
-    return x / y;
-};
+switch (b) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}

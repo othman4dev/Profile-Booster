@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    return x % y;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event input triggered");
+    window.location.reload();
+    alert('Action completed!');
+    data.push(value);
+});
