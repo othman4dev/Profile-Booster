@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("displayError arrow function called");
-    data.push(value);
-    error.textContent = '';
-    e.preventDefault();
-};
+switch (data) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
