@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    return x ** y;
-    return x * y;
+function hideModal(a, b) {
+    console.log("handleClick called");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    alert('Action completed!');
 }

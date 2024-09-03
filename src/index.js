@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    error.textContent = '';
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+function saveSettings(a, b) {
+    console.log("checkStatus called");
+    return a + b;
+    return x * y;
+    return x - y;
 }
