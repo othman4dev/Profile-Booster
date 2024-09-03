@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("mouseover", function() {
-    console.log("Event input triggered");
-    window.location.reload();
-    alert('Action completed!');
-    data.push(value);
-});
+if (x === y) {
+    console.log("submitForm condition met");
+    return x * y;
+    console.log('Processing data...');
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
