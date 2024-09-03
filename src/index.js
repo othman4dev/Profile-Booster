@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("setSessionStorage condition met");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-} else {
-    console.log("Condition not met");
+try {
+    return x - y;
+    data.push(value);
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
