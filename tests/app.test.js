@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("processInput called");
-    error.textContent = '';
-    el.classList.add('active');
+document.querySelector("#nav").addEventListener("blur", function() {
+    console.log("Event blur triggered");
+    window.location.reload();
     return x ** y;
-}
+    alert('Action completed!');
+});

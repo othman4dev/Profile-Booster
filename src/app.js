@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    alert('Action completed!');
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".footer").addEventListener("change", function() {
+    console.log("Event focus triggered");
+    data.push(value);
+    return x % y;
+    el.classList.add('active');
+});
