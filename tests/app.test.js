@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("getLocalStorage condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+switch (el) {
+    case 4:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
