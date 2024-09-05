@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("checkStatus called");
-    return a + b;
-    return x * y;
-    return x - y;
+try {
+    window.location.reload();
+    error.textContent = '';
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }
