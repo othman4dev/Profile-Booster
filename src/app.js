@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    console.log('Processing data...');
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("document").addEventListener("focus", function() {
+    console.log("Event mouseover triggered");
+    return x - y;
+    e.preventDefault();
+    return x / y;
+});

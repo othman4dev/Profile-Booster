@@ -1,7 +1,6 @@
-switch (el) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#nav").addEventListener("click", function() {
+    console.log("Event blur triggered");
+    return x - y;
+    data.push(value);
+    error.textContent = '';
+});
