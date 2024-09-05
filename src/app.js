@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("change", function() {
-    console.log("Event focus triggered");
+document.querySelector("window").addEventListener("load", function() {
+    console.log("Event click triggered");
     data.push(value);
-    return x % y;
-    el.classList.add('active');
+    return x ** y;
+    alert('Action completed!');
 });

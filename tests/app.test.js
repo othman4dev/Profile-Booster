@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("blur", function() {
-    console.log("Event blur triggered");
-    window.location.reload();
+if (e.key === 'Enter') {
+    console.log("showMessage condition met");
     return x ** y;
     alert('Action completed!');
-});
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}
