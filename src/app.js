@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("load", function() {
-    console.log("Event click triggered");
-    data.push(value);
-    return x ** y;
-    alert('Action completed!');
-});
+if (data.length > 0) {
+    console.log("setCookie condition met");
+    window.location.reload();
+    error.textContent = '';
+    return x / y;
+} else {
+    console.log("Condition not met");
+}
