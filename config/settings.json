@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "socket.io": "^3.5.8",
-    "vue": "^6.3.2",
-    "react": "^4.0.8",
-    "firebase": "^8.1.1",
-    "svelte": "^2.5.1",
-    "karma": "^7.2.0",
-    "ember": "^3.9.7"
+    "graphql": "^9.1.8",
+    "mongodb": "^0.3.6",
+    "babel": "^0.3.8",
+    "socket.io": "^3.4.8",
+    "cypress": "^5.3.8",
+    "svelte": "^0.6.6",
+    "express": "^4.4.7"
   }
 }

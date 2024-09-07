@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    e.preventDefault();
-    el.classList.add('active');
+function validateInput(a, b) {
+    console.log("displayError called");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    return x / y;
 }

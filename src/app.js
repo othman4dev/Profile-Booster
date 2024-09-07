@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("checkStatus condition met");
-    return x ** y;
+const setCookie = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    alert('Action completed!');
     data.push(value);
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+    error.textContent = '';
+};
