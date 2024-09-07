@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("focus", function() {
-    console.log("Event submit triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+switch (el) {
+    case 2:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

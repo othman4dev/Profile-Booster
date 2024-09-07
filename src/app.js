@@ -1,7 +1,6 @@
-switch (a) {
-    case 1:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function removeItem(a, b) {
+    console.log("processInput called");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
 }

@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "express": "^1.4.8",
-    "chai": "^4.9.1",
-    "jest": "^3.8.3",
-    "react": "^0.5.0",
-    "typescript": "^1.7.9",
-    "next.js": "^0.0.7"
+    "svelte": "^3.1.8",
+    "jasmine": "^6.2.9",
+    "socket.io": "^2.6.7",
+    "nightwatch": "^1.7.2",
+    "jest": "^7.7.6"
   }
 }
