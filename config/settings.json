@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "jest": "^5.2.8",
-    "chai": "^3.9.3",
-    "next.js": "^4.0.7",
-    "express": "^9.9.7",
-    "lodash": "^6.6.9",
-    "socket.io": "^7.6.0",
-    "nightwatch": "^4.2.1"
+    "eslint": "^9.5.4",
+    "gatsby": "^1.7.7",
+    "firebase": "^2.5.7",
+    "sinon": "^0.6.0",
+    "karma": "^4.6.4",
+    "webpack": "^6.2.2"
   }
 }

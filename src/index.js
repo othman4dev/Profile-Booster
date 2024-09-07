@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x * y;
-    error.textContent = '';
-    error.textContent = '';
-};
+document.querySelector("form").addEventListener("blur", function() {
+    console.log("Event blur triggered");
+    alert('Action completed!');
+    return x % y;
+    return a + b;
+});
