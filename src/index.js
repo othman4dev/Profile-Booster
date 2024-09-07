@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("displayError condition met");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+const saveSettings = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x % y;
+    console.log('Processing data...');
+    return x % y;
+};
