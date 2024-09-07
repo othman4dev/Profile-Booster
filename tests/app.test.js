@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("scroll", function() {
-    console.log("Event blur triggered");
-    return a + b;
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-});
+if (window.innerWidth > 500) {
+    console.log("formatDate condition met");
+    data.push(value);
+    alert('Action completed!');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}
