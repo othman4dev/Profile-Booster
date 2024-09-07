@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("click", function() {
-    console.log("Event blur triggered");
-    return x - y;
-    data.push(value);
-    error.textContent = '';
-});
+switch (x) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

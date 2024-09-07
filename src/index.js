@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("getLocalStorage called");
-    window.location.reload();
-    return x ** y;
-    el.classList.add('active');
-}
+document.querySelector("#button").addEventListener("focus", function() {
+    console.log("Event submit triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+});
