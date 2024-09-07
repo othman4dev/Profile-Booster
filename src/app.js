@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("processInput called");
-    el.classList.add('active');
+function checkStatus(a, b) {
+    console.log("handleClick called");
+    data.push(value);
     document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
+    e.preventDefault();
 }
