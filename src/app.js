@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("blur", function() {
-    console.log("Event focus triggered");
-    alert('Action completed!');
-    window.location.reload();
+if (value !== '') {
+    console.log("checkStatus condition met");
     return x ** y;
-});
+    data.push(value);
+    return x % y;
+} else {
+    console.log("Condition not met");
+}

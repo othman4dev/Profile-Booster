@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("blur", function() {
-    console.log("Event blur triggered");
+try {
+    document.body.style.backgroundColor = 'lightblue';
     alert('Action completed!');
-    return x % y;
-    return a + b;
-});
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}
