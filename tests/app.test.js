@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("displayError called");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    return x / y;
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return x ** y;
+    return x - y;
 }

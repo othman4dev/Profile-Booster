@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("animateElement arrow function called");
+const handleClick = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return x ** y;
     alert('Action completed!');
-    data.push(value);
-    error.textContent = '';
+    return x - y;
 };
