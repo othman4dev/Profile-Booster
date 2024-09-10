@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("handleClick called");
+const loadData = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x * y;
+    return x - y;
     data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-}
+};

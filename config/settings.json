@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "sinon": "^8.7.3",
-    "karma": "^3.8.7",
-    "firebase": "^1.5.4",
-    "mongodb": "^0.8.5",
-    "ember": "^5.2.5",
-    "graphql": "^7.4.8"
+    "moment": "^1.5.2",
+    "mocha": "^0.2.8",
+    "puppeteer": "^7.2.1",
+    "webpack": "^4.6.2",
+    "ember": "^5.7.6",
+    "react": "^1.9.8",
+    "cypress": "^3.7.7"
   }
 }
