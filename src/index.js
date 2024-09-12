@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+const toggleMenu = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return x ** y;
+    error.textContent = '';
+    return x % y;
+};
