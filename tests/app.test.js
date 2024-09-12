@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    data.push(value);
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+const setCookie = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x - y;
+    el.classList.add('active');
+    alert('Action completed!');
+};

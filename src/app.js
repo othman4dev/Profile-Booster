@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x * y;
-    return x - y;
-    data.push(value);
-};
+switch (data) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}
