@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x - y;
+try {
     el.classList.add('active');
-    alert('Action completed!');
-};
+    window.location.reload();
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}
