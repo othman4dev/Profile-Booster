@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("setSessionStorage called");
+function hideModal(a, b) {
+    console.log("loadData called");
+    e.preventDefault();
+    return x ** y;
     window.location.reload();
-    console.log('Processing data...');
-    return x % y;
 }

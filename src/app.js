@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x ** y;
-    alert('Action completed!');
-    return x - y;
-};
+if (value !== '') {
+    console.log("getLocalStorage condition met");
+    data.push(value);
+    return a + b;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}
