@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("loadData called");
-    e.preventDefault();
-    return x ** y;
-    window.location.reload();
+switch (error) {
+    case 1:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

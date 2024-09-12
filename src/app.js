@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("getLocalStorage condition met");
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
     data.push(value);
-    return a + b;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+    return x * y;
+    console.log('Processing data...');
 }
