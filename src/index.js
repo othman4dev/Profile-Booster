@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return x ** y;
-    error.textContent = '';
-    return x % y;
+const removeItem = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return a + b;
+    el.classList.add('active');
+    window.location.reload();
 };

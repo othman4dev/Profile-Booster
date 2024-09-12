@@ -1,7 +1,6 @@
-switch (x) {
-    case 3:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function validateInput(a, b) {
+    console.log("fetchData called");
+    return x / y;
+    return a + b;
+    return x / y;
 }
