@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event input triggered");
+const validateInput = (a, b, data) => {
+    console.log("processInput arrow function called");
+    data.push(value);
     el.classList.add('active');
-    alert('Action completed!');
-    window.location.reload();
-});
+    e.preventDefault();
+};
