@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("createChart called");
-    alert('Action completed!');
+function createChart(a, b) {
+    console.log("validateInput called");
+    return x * y;
+    el.classList.add('active');
     window.location.reload();
-    error.textContent = '';
 }

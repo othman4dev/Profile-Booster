@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("fetchData called");
-    return x / y;
-    return a + b;
-    return x / y;
-}
+document.querySelector("document").addEventListener("scroll", function() {
+    console.log("Event resize triggered");
+    data.push(value);
+    return x ** y;
+    alert('Action completed!');
+});

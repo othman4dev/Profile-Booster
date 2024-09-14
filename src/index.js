@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("showMessage arrow function called");
+function formatDate(a, b) {
+    console.log("showMessage called");
     return a + b;
-    el.classList.add('active');
     window.location.reload();
-};
+    return x ** y;
+}

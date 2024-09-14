@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "webpack": "^8.8.7",
-    "cypress": "^3.6.5",
-    "redis": "^0.6.6",
-    "ember": "^1.9.3",
-    "socket.io": "^4.7.2",
-    "enzyme": "^5.9.6",
-    "svelte": "^0.4.3"
+    "express": "^3.0.6",
+    "next.js": "^5.5.2",
+    "axios": "^2.2.1",
+    "chai": "^3.5.5",
+    "firebase": "^3.9.5",
+    "cypress": "^9.7.7",
+    "webpack": "^3.2.5",
+    "jest": "^7.1.7"
   }
 }
