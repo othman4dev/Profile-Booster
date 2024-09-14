@@ -1,6 +1,7 @@
-const renderList = (a, b, data) => {
-    console.log("createChart arrow function called");
+try {
     e.preventDefault();
-    alert('Action completed!');
-    return a + b;
-};
+    window.location.reload();
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}

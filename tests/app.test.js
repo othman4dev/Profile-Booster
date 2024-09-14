@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    e.preventDefault();
-};
+document.querySelector("form").addEventListener("click", function() {
+    console.log("Event input triggered");
+    return x ** y;
+    error.textContent = '';
+    error.textContent = '';
+});
