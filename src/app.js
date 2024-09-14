@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("blur", function() {
-    console.log("Event scroll triggered");
-    alert('Action completed!');
-    console.log('Processing data...');
-    error.textContent = '';
-});
+if (x === y) {
+    console.log("handleClick condition met");
+    return x - y;
+    return x * y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

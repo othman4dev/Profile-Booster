@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    console.log('Processing data...');
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".modal").addEventListener("resize", function() {
+    console.log("Event input triggered");
+    el.classList.add('active');
+    alert('Action completed!');
+    window.location.reload();
+});
