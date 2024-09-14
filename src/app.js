@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    return x * y;
+document.querySelector(".modal").addEventListener("blur", function() {
+    console.log("Event scroll triggered");
+    alert('Action completed!');
     console.log('Processing data...');
-}
+    error.textContent = '';
+});
