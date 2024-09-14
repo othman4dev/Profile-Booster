@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("showMessage called");
-    return a + b;
+const getLocalStorage = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    error.textContent = '';
+    error.textContent = '';
     window.location.reload();
-    return x ** y;
-}
+};
