@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("input", function() {
-    console.log("Event input triggered");
-    el.classList.add('active');
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
     return a + b;
-    return x % y;
-});
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+}

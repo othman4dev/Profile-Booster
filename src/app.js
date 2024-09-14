@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("saveSettings condition met");
-    return x * y;
-    return x / y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 1:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

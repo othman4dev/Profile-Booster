@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "next.js": "^5.7.5",
-    "react": "^7.6.7",
-    "typescript": "^9.9.5",
-    "socket.io": "^4.0.7",
-    "nightwatch": "^1.8.9"
+    "jest": "^9.2.3",
+    "nightwatch": "^2.6.0",
+    "react": "^7.8.7",
+    "next.js": "^2.3.0",
+    "moment": "^0.6.9",
+    "redis": "^9.0.1",
+    "mysql": "^4.5.5"
   }
 }
