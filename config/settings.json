@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "jest": "^5.4.0",
-    "axios": "^4.5.5",
-    "redis": "^1.7.5",
-    "express": "^1.0.6",
-    "babel": "^7.7.6",
-    "ember": "^7.5.4",
-    "nodemon": "^2.6.7",
-    "socket.io": "^6.4.8",
-    "moment": "^4.0.5"
+    "socket.io": "^4.5.9",
+    "puppeteer": "^0.1.6",
+    "nodemon": "^2.4.2",
+    "mysql": "^7.6.3",
+    "mocha": "^0.9.0",
+    "firebase": "^0.9.1",
+    "aws-sdk": "^4.2.5",
+    "karma": "^7.9.6"
   }
 }

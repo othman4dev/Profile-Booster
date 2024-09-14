@@ -1,7 +1,8 @@
-try {
-    el.classList.add('active');
-    window.location.reload();
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+if (e.key === 'Enter') {
+    console.log("processInput condition met");
+    return x - y;
+    console.log('Processing data...');
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
