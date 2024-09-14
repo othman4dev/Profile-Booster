@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("mouseover", function() {
-    console.log("Event input triggered");
+if (x === y) {
+    console.log("saveSettings condition met");
     return x * y;
-    el.classList.add('active');
-    return a + b;
-});
+    return x / y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}

@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("processInput condition met");
-    return x - y;
-    console.log('Processing data...');
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#button").addEventListener("input", function() {
+    console.log("Event input triggered");
+    el.classList.add('active');
+    return a + b;
+    return x % y;
+});
