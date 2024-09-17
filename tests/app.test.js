@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
+const fetchData = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return x * y;
     e.preventDefault();
-}
+    data.push(value);
+};
