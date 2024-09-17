@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^9.6.8",
-    "aws-sdk": "^9.9.2",
-    "jest": "^1.6.5",
-    "sinon": "^7.4.9",
-    "graphql": "^7.4.8",
-    "socket.io": "^6.6.9",
-    "mongodb": "^7.7.7"
+    "nightwatch": "^8.9.3",
+    "jest": "^4.3.0",
+    "axios": "^8.5.3",
+    "mysql": "^1.1.5",
+    "jasmine": "^3.0.4"
   }
 }

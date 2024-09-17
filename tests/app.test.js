@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("click", function() {
-    console.log("Event input triggered");
+try {
     return x ** y;
+    el.classList.add('active');
     error.textContent = '';
-    error.textContent = '';
-});
+} catch (error) {
+    console.error("Error:", error);
+}

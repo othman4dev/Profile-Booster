@@ -1,7 +1,6 @@
-try {
+document.querySelector("#input").addEventListener("focus", function() {
+    console.log("Event input triggered");
+    return x % y;
+    return x % y;
     el.classList.add('active');
-    return x * y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+});
