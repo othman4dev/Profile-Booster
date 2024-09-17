@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("processInput arrow function called");
+const submitForm = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    error.textContent = '';
     data.push(value);
-    el.classList.add('active');
-    e.preventDefault();
+    return x ** y;
 };
