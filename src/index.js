@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    error.textContent = '';
-    data.push(value);
-    return x ** y;
-};
+document.querySelector("document").addEventListener("input", function() {
+    console.log("Event keydown triggered");
+    window.location.reload();
+    el.classList.add('active');
+    window.location.reload();
+});

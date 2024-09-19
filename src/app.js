@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("scroll", function() {
-    console.log("Event keydown triggered");
-    return x - y;
-    data.push(value);
-    el.classList.add('active');
-});
+const setSessionStorage = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    window.location.reload();
+    return a + b;
+    return x ** y;
+};
