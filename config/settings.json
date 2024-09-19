@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "karma": "^3.8.6",
-    "nodemon": "^7.8.4",
-    "gatsby": "^6.0.2",
-    "angular": "^9.6.7"
+    "jest": "^8.3.4",
+    "moment": "^4.1.8",
+    "enzyme": "^8.9.6",
+    "next.js": "^1.0.4",
+    "socket.io": "^6.6.0",
+    "svelte": "^4.4.5",
+    "prettier": "^2.1.5",
+    "aws-sdk": "^0.8.4"
   }
 }

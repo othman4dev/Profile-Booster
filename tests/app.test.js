@@ -1,6 +1,6 @@
 const fetchData = (a, b, data) => {
-    console.log("loadData arrow function called");
+    console.log("validateInput arrow function called");
+    return a + b;
     return x * y;
-    e.preventDefault();
-    data.push(value);
+    window.location.reload();
 };

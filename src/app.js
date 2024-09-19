@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("formatDate condition met");
-    alert('Action completed!');
-    error.textContent = '';
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+const submitForm = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return x % y;
+    e.preventDefault();
+    return x - y;
+};
