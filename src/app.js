@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return x % y;
-    e.preventDefault();
-    return x - y;
-};
+switch (y) {
+    case 1:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}

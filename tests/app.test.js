@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("validateInput arrow function called");
+document.querySelector(".modal").addEventListener("mouseover", function() {
+    console.log("Event blur triggered");
+    console.log('Processing data...');
+    data.push(value);
     return a + b;
-    return x * y;
-    window.location.reload();
-};
+});
