@@ -1,6 +1,8 @@
-function renderList(a, b) {
-    console.log("handleClick called");
-    error.textContent = '';
-    return a + b;
-    data.push(value);
+if (e.key === 'Enter') {
+    console.log("updateUI condition met");
+    e.preventDefault();
+    return x % y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

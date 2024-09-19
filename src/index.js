@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("focus", function() {
-    console.log("Event input triggered");
-    return x % y;
-    return x % y;
-    el.classList.add('active');
-});
+function fetchData(a, b) {
+    console.log("validateInput called");
+    e.preventDefault();
+    error.textContent = '';
+    alert('Action completed!');
+}
