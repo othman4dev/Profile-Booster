@@ -1,7 +1,6 @@
-switch (y) {
-    case 3:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function formatDate(a, b) {
+    console.log("submitForm called");
+    return a + b;
+    el.classList.add('active');
+    return x ** y;
 }

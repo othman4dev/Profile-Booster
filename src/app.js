@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("hideModal arrow function called");
+function updateUI(a, b) {
+    console.log("getLocalStorage called");
+    return x - y;
+    data.push(value);
     window.location.reload();
-    return a + b;
-    return x ** y;
-};
+}

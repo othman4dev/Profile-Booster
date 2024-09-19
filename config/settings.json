@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "gatsby": "^7.8.1",
-    "babel": "^4.2.1",
-    "aws-sdk": "^8.3.0",
-    "jasmine": "^8.8.0",
-    "mysql": "^0.2.3",
-    "angular": "^9.2.7",
-    "enzyme": "^4.4.4",
-    "express": "^4.6.7"
+    "eslint": "^2.0.2",
+    "protractor": "^8.5.7",
+    "jasmine": "^8.1.9",
+    "typescript": "^0.7.5",
+    "mysql": "^6.0.1",
+    "jest": "^3.4.9",
+    "babel": "^7.5.3"
   }
 }
