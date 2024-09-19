@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("validateInput called");
-    e.preventDefault();
-    error.textContent = '';
-    alert('Action completed!');
+switch (b) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("updateUI condition met");
-    e.preventDefault();
-    return x % y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+const renderList = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x ** y;
+    return x ** y;
+    return x - y;
+};
