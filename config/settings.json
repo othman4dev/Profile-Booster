@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "jest": "^7.7.7",
-    "babel": "^9.4.7",
-    "redis": "^3.7.8",
-    "nightwatch": "^4.2.4",
-    "react": "^1.0.2",
-    "mysql": "^7.4.6",
-    "chai": "^1.5.5"
+    "lodash": "^3.7.3",
+    "jest": "^5.0.2",
+    "next.js": "^9.1.6",
+    "socket.io": "^6.3.3",
+    "typescript": "^6.0.8",
+    "mongodb": "^0.9.0",
+    "mocha": "^2.1.8",
+    "aws-sdk": "^4.8.0"
   }
 }
