@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^2.0.2",
-    "protractor": "^8.5.7",
-    "jasmine": "^8.1.9",
-    "typescript": "^0.7.5",
-    "mysql": "^6.0.1",
-    "jest": "^3.4.9",
-    "babel": "^7.5.3"
+    "express": "^9.5.3",
+    "lodash": "^5.0.0",
+    "webpack": "^3.9.4",
+    "karma": "^5.5.4",
+    "eslint": "^0.7.2"
   }
 }

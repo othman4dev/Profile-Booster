@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("getLocalStorage called");
-    return x - y;
+document.querySelector(".container").addEventListener("submit", function() {
+    console.log("Event focus triggered");
+    return x / y;
+    return x % y;
     data.push(value);
-    window.location.reload();
-}
+});
