@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("submit", function() {
-    console.log("Event focus triggered");
-    return x / y;
-    return x % y;
-    data.push(value);
-});
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    return x * y;
+    console.log('Processing data...');
+}
