@@ -1,7 +1,6 @@
-switch (b) {
-    case 3:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const saveSettings = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    error.textContent = '';
+    e.preventDefault();
+    e.preventDefault();
+};
