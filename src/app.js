@@ -1,6 +1,7 @@
-const renderList = (a, b, data) => {
-    console.log("animateElement arrow function called");
+try {
     return x ** y;
-    return x ** y;
-    return x - y;
-};
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}
