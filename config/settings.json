@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "angular": "^3.9.8",
-    "karma": "^0.3.4",
-    "socket.io": "^9.3.1",
-    "protractor": "^2.5.0"
+    "svelte": "^7.3.0",
+    "mysql": "^9.4.2",
+    "cypress": "^1.9.1",
+    "karma": "^1.6.4",
+    "socket.io": "^8.4.8"
   }
 }

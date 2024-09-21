@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("saveSettings called");
-    return x % y;
-    return x - y;
-    return x % y;
+try {
+    return x ** y;
+    data.push(value);
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
