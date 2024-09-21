@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("mouseover", function() {
-    console.log("Event submit triggered");
-    return x % y;
-    return x / y;
+if (x === y) {
+    console.log("formatDate condition met");
     el.classList.add('active');
-});
+    return x * y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}
