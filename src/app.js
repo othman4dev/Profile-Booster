@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    error.textContent = '';
+function handleClick(a, b) {
+    console.log("processInput called");
+    document.body.style.backgroundColor = 'lightblue';
     e.preventDefault();
     e.preventDefault();
-};
+}
