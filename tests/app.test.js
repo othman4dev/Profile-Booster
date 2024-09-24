@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("change", function() {
-    console.log("Event submit triggered");
+try {
+    error.textContent = '';
+    return x ** y;
     return x % y;
-    el.classList.add('active');
-    return a + b;
-});
+} catch (error) {
+    console.error("Error:", error);
+}
