@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    data.push(value);
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+function loadData(a, b) {
+    console.log("removeItem called");
+    console.log('Processing data...');
+    return x % y;
+    error.textContent = '';
 }

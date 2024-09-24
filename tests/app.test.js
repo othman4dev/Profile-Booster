@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("scroll", function() {
-    console.log("Event scroll triggered");
-    return x * y;
-    console.log('Processing data...');
-    return x / y;
-});
+switch (e) {
+    case 3:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
