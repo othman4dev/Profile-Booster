@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("hideModal called");
-    return x / y;
-    return x ** y;
-    return x ** y;
-}
+document.querySelector("header").addEventListener("submit", function() {
+    console.log("Event resize triggered");
+    console.log('Processing data...');
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+});

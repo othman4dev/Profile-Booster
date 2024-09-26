@@ -1,7 +1,8 @@
-try {
-    return a + b;
+if (document.readyState === 'complete') {
+    console.log("handleClick condition met");
     data.push(value);
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+    return x % y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }

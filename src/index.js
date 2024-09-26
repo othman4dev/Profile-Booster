@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x % y;
-    e.preventDefault();
-    alert('Action completed!');
-};
+switch (b) {
+    case 5:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}
