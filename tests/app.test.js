@@ -1,7 +1,7 @@
 try {
-    error.textContent = '';
-    return x ** y;
-    return x % y;
+    return a + b;
+    data.push(value);
+    alert('Action completed!');
 } catch (error) {
     console.error("Error:", error);
 }

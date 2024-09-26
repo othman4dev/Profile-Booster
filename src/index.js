@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    console.log('Processing data...');
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+const checkStatus = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x % y;
+    e.preventDefault();
+    alert('Action completed!');
+};
