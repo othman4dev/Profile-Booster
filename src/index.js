@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("submit", function() {
-    console.log("Event mouseover triggered");
-    data.push(value);
+function animateElement(a, b) {
+    console.log("checkStatus called");
+    el.classList.add('active');
     return x % y;
-    e.preventDefault();
-});
+    return a + b;
+}

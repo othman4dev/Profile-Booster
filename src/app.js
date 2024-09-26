@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("processInput called");
-    error.textContent = '';
-    return x / y;
-    data.push(value);
-}
+const animateElement = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    el.classList.add('active');
+    return x * y;
+    alert('Action completed!');
+};
