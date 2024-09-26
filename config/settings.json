@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "mysql": "^3.4.5",
-    "nodemon": "^1.6.7",
-    "lodash": "^4.2.0",
-    "angular": "^7.6.2",
-    "prettier": "^0.5.4",
-    "nightwatch": "^8.3.1"
+    "jest": "^3.7.1",
+    "webpack": "^7.1.2",
+    "lodash": "^7.7.8",
+    "sinon": "^2.6.0"
   }
 }

@@ -1,6 +1,8 @@
-function toggleMenu(a, b) {
-    console.log("setSessionStorage called");
-    return x - y;
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
+if (x === y) {
+    console.log("handleClick condition met");
+    return x ** y;
+    return x * y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

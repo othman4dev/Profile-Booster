@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("input", function() {
-    console.log("Event blur triggered");
-    console.log('Processing data...');
-    error.textContent = '';
-    return x * y;
-});
+if (a > b) {
+    console.log("updateUI condition met");
+    window.location.reload();
+    data.push(value);
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}
