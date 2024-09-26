@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("processInput called");
+function toggleMenu(a, b) {
+    console.log("setSessionStorage called");
+    return x - y;
+    window.location.reload();
     document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    e.preventDefault();
 }

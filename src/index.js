@@ -1,6 +1,7 @@
-const renderList = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return a + b;
-    console.log('Processing data...');
-    return x % y;
-};
+switch (e) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    e.preventDefault();
-}
+document.querySelector("#nav").addEventListener("input", function() {
+    console.log("Event blur triggered");
+    console.log('Processing data...');
+    error.textContent = '';
+    return x * y;
+});
