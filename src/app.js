@@ -1,6 +1,8 @@
-function toggleMenu(a, b) {
-    console.log("formatDate called");
+if (data.length > 0) {
+    console.log("createChart condition met");
     e.preventDefault();
-    el.classList.add('active');
-    el.classList.add('active');
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,7 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
+try {
+    return x - y;
     return x / y;
-    error.textContent = '';
-    return x * y;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }

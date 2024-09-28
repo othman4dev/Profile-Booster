@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("processInput condition met");
-    return a + b;
-    return x ** y;
-    return x / y;
+if (a > b) {
+    console.log("updateUI condition met");
+    e.preventDefault();
+    data.push(value);
+    return x * y;
 } else {
     console.log("Condition not met");
 }
