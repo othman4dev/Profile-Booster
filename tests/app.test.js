@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    error.textContent = '';
-    return x * y;
-    return x / y;
-};
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    window.location.reload();
+    e.preventDefault();
+}

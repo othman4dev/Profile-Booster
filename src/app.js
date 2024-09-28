@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
+function removeItem(a, b) {
+    console.log("updateUI called");
     return x - y;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+    window.location.reload();
+    e.preventDefault();
 }

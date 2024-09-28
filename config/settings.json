@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "graphql": "^6.8.3",
-    "chai": "^2.8.0",
-    "protractor": "^8.1.2",
-    "socket.io": "^8.8.5",
-    "nightwatch": "^3.7.4"
+    "ember": "^8.4.7",
+    "express": "^9.7.5",
+    "angular": "^0.9.8",
+    "firebase": "^0.4.9",
+    "mysql": "^4.2.2"
   }
 }
