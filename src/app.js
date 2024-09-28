@@ -1,6 +1,7 @@
-const animateElement = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    el.classList.add('active');
-    return x * y;
-    alert('Action completed!');
-};
+switch (y) {
+    case 1:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

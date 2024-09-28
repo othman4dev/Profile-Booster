@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "redis": "^2.0.0",
-    "socket.io": "^9.4.4",
-    "protractor": "^3.4.4",
-    "puppeteer": "^2.4.5"
+    "typescript": "^3.7.9",
+    "lodash": "^4.9.7",
+    "svelte": "^0.9.4",
+    "gatsby": "^5.0.9",
+    "webpack": "^7.6.5",
+    "nodemon": "^8.1.6"
   }
 }

@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("removeItem arrow function called");
+function handleClick(a, b) {
+    console.log("validateInput called");
+    window.location.reload();
     alert('Action completed!');
-    return x - y;
-    return x % y;
-};
+    window.location.reload();
+}
