@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("handleClick condition met");
+if (e.key === 'Enter') {
+    console.log("createChart condition met");
     data.push(value);
-    return x % y;
-    el.classList.add('active');
+    window.location.reload();
+    return x ** y;
 } else {
     console.log("Condition not met");
 }
