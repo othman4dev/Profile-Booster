@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    el.classList.add('active');
+function createChart(a, b) {
+    console.log("updateUI called");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
     return x * y;
-} catch (error) {
-    console.error("Error:", error);
 }

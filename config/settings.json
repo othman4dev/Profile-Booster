@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^2.7.6",
-    "svelte": "^4.6.0",
-    "sinon": "^6.6.4",
-    "firebase": "^5.3.7",
-    "aws-sdk": "^0.7.9",
-    "ember": "^7.1.2"
+    "enzyme": "^9.3.1",
+    "sinon": "^6.9.2",
+    "express": "^4.5.9",
+    "chai": "^3.4.8",
+    "socket.io": "^9.8.7"
   }
 }

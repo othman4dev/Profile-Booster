@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+function processInput(a, b) {
+    console.log("formatDate called");
+    return x - y;
+    data.push(value);
+    return a + b;
 }
