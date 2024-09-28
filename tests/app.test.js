@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("updateUI condition met");
-    window.location.reload();
-    data.push(value);
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+try {
+    alert('Action completed!');
+    el.classList.add('active');
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }

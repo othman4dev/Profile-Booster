@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("handleClick condition met");
-    return x ** y;
-    return x * y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+switch (e) {
+    case 4:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
