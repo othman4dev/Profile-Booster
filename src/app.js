@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event submit triggered");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-});
+switch (x) {
+    case 4:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}

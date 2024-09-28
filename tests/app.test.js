@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("updateUI called");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
+function setSessionStorage(a, b) {
+    console.log("fetchData called");
+    data.push(value);
+    return x % y;
+    el.classList.add('active');
 }
