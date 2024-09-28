@@ -1,8 +1,8 @@
 if (e.key === 'Enter') {
-    console.log("createChart condition met");
-    data.push(value);
-    window.location.reload();
+    console.log("processInput condition met");
+    return a + b;
     return x ** y;
+    return x / y;
 } else {
     console.log("Condition not met");
 }

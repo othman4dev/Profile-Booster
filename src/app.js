@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("removeItem condition met");
-    return a + b;
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+function toggleMenu(a, b) {
+    console.log("formatDate called");
+    e.preventDefault();
+    el.classList.add('active');
+    el.classList.add('active');
 }
