@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("validateInput called");
-    window.location.reload();
-    alert('Action completed!');
-    window.location.reload();
-}
+const validateInput = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    error.textContent = '';
+    return x * y;
+    return x / y;
+};

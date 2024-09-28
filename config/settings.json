@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^3.7.9",
-    "lodash": "^4.9.7",
-    "svelte": "^0.9.4",
-    "gatsby": "^5.0.9",
-    "webpack": "^7.6.5",
-    "nodemon": "^8.1.6"
+    "graphql": "^6.8.3",
+    "chai": "^2.8.0",
+    "protractor": "^8.1.2",
+    "socket.io": "^8.8.5",
+    "nightwatch": "^3.7.4"
   }
 }
